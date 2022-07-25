@@ -23,7 +23,7 @@
 |[2月份兑换礼品]()|减去积分|15|
 |[11个顶级设计师分享他们的职业建议](https://github.com/xitu/gold-miner/blob/master/TODO/11-top-designers-give-11-pieces-of-realistic-ux-advice.md)|翻译|7|
 |[设计一款移动应用前你应该知道这些事情](https://github.com/xitu/gold-miner/blob/master/TODO/the-basics-of-designing-mobile-apps.md)|翻译|6|
-|[三月翻译计划奖品 Octocat 大猫]()|积分减去|30|
+|[三月翻译计划奖品 Octocat 大猫]()|减去积分|30|
 |[写给设计师的字偶距调整指南](http://gold.xitu.io/entry/570e5530c4c971005496adc4)|校对|1|
 |[Web 开发者的 HTTP/2 性能优化指南](http://gold.xitu.io/entry/56ce7d1a1532bc005372a7fa)|校对|1|
 |[设计师如何跟开发打好关系？](http://gold.xitu.io/entry/57286f4f2e958a00657d2450)|校对|1|
@@ -36,7 +36,7 @@
 |------|-------|-------|
 |[2017年2月份兑换 T 恤]()|减去积分|25|
 |[Facebook发布了新的 Node 模块管理器 Yarn，或将取代 npm 客户端](http://gold.xitu.io/entry/57fe2f2b128fe1005483131b/)|翻译|5|
-|[9 月份奖品兑换 `手机壳`]()| 减去积分|6|
+|[9 月份奖品兑换 `手机壳`]()|减去积分|6|
 |[为什么我们要用网页端组件去构建服务器？该怎么做？](http://gold.xitu.io/entry/579ad925c4c971005abfc7a6)|翻译|6|
 |[Swift 语言面面观（一）](http://gold.xitu.io/entry/578c647a6be3ff006ce49e91)|翻译|4|
 |[让你的网站更炫酷的一些小 tips](https://gold.xitu.io/entry/577f402b79bc4400329db962)|翻译|10|
@@ -88,10 +88,11 @@
 |[第一次翻译计划文章已兑换Octocat小]()|减去积分|15|
 |[Vector For All (slight return)](http://gold.xitu.io/entry/5756697ea341310063dd532c)|翻译|4|
 
-## 译者：[joyking7](https://github.com/joyking7) 历史贡献积分：61.5 当前积分：26.5
+## 译者：[joyking7](https://github.com/joyking7) 历史贡献积分：66.5 当前积分：31.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[我希望多年前就知道的 Nginx 概念](https://juejin.cn/post/6948810167618109448)|翻译|5|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译校对|2|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译|7|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译|8|
@@ -106,7 +107,7 @@
 |[11个顶级设计师分享他们的职业建议](https://github.com/xitu/gold-miner/blob/master/TODO/11-top-designers-give-11-pieces-of-realistic-ux-advice.md)|校对|1|
 |[产品文案要说人话](https://github.com/xitu/gold-miner/blob/master/TODO/the-secret-to-writing-killer-product-copy.md)|翻译|6|
 |[JavaScript 生态之乱象](https://github.com/woota/gold-miner/blob/21d69a8c6b2759659fd0029718fb245fc6f5889d/TODO/i-m-a-web-developer-and-i-ve-been-stuck-with-the-simplest-app-for-the-last-10-days.md)|校对|1|
-|[三月翻译计划奖品 Octocat 小猫]()|积分减去|15|
+|[三月翻译计划奖品 Octocat 小猫]()|减去积分|15|
 |[什么是产品设计?](http://gold.xitu.io/entry/570b6a6a75c4cd3c3b917bd0)|校对|1|
 |[产品设计实习生面试指南](http://gold.xitu.io/entry/5715b102c4c971005bdc93e9)|翻译|6|
 |[为什么 Spotify 的付费转化率比 Dropbox 高了 667%](http://gold.xitu.io/entry/57232041f38c8400599ef706)|校对|1|
@@ -171,7 +172,7 @@
 |[Functional JavaScript 教程（一）](https://github.com/xitu/gold-miner/blob/master/TODO/gentle-introduction-to-functional-javascript-intro.md)|校对|1|
 |[设计一款移动应用前你应该知道这些事情](https://github.com/xitu/gold-miner/blob/master/TODO/the-basics-of-designing-mobile-apps.md)|校对|1|
 |[使用 RxJava 封装现有的库](https://github.com/yinshudi/gold-miner/blob/6ce772a691c1926485daaa981e974a9958813e8f/TODO/wrapping-existing-libraries-with-rxjava.md)|校对|1|
-|[三月翻译计划奖品 Octocat 小猫]()|积分减去|15|
+|[三月翻译计划奖品 Octocat 小猫]()|减去积分|15|
 |[在 Android N 预览版中使用 Java 8 的新特性](http://gold.xitu.io/entry/5716fc67ebcb7d005cad214c)|翻译|4|
 |[Starlight - 在网页中运行 Lua](http://gold.xitu.io/entry/5719907eebcb7d005cc6acca)|校对|1|
 |[React.js 新手村教程](http://gold.xitu.io/entry/5719b6acebcb7d006a007d9b)|翻译|8|
@@ -227,8 +228,8 @@
 |[基于 TensorFlow 的上下文聊天机器人](https://juejin.im/entry/5992cd385188252433704fa3)|翻译|5|
 |[深度学习系列2：卷积神经网络](https://juejin.im/post/598ac6a55188257dd366367f)|校对|1|
 |[在使用过采样或欠采样处理类别不均衡的数据后，如何正确的做交叉验证？](https://juejin.im/entry/5976dde9f265da6c2e0fc2f9/detail)|翻译|9|
-|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|翻译|4|
-|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|翻译|4|
+|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|翻译|4|
+|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|翻译|4|
 |[移动开发中的极简化设计艺术](http://gold.xitu.io/entry/57abf8735bbb500062b1becb)|翻译|6|
 |[为什么 Uber 的工程师选择了 MySQL 而不是 PostgreSQL](https://github.com/xitu/gold-miner/issues/587)|翻译|2|
 |[使用强大的 Mockito 测试框架来测试你的代码](https://gold.xitu.io/entry/578f11aec4c971005e0caf82)|翻译|8|
@@ -246,9 +247,9 @@
 |------|-------|-------|
 |[人人都是设计师，我们可以的。](https://juejin.im/post/59157cdf0ce4630069d79857)|校对|1|
 |[2017 04 月份兑换两套贴纸]()|减去积分|10|
-|[12 月兑换贴纸一个]()|减去|5|
+|[12 月兑换贴纸一个]()|减去积分|5|
 |[用 Cordova 和 Vue.js 构建一个 APP](http://gold.xitu.io/entry/57ea26f5da2f600060e59c5e/)|翻译|5|
-|[9 月兑换 `贴纸 * 2 `]()| 减去|10|
+|[9 月兑换 `贴纸 * 2 `]()|减去积分|10|
 |[如何编写更少的代码](http://gold.xitu.io/entry/57c6adc7a633bd005d8f2584/)|翻译|4|
 |[Swift + 闭包初始化](http://gold.xitu.io/entry/57bd72a3a633bd005d49fa32/)|翻译|5|
 |[等不及集成 iOS 10 新特性？如何在应用维护与新特性集成之间找到平衡点](http://gold.xitu.io/entry/57ad9e0e7db2a200540fe491)|翻译|6|
@@ -286,7 +287,7 @@
 |[2017 年 2 月份兑换章鱼猫一大只]()|减去积分|30|
 |[为什么我关闭了你的 PR （开源软件维护者笔记）](https://gold.xitu.io/entry/5870ed78da2f603a93d7e0f0/)|翻译|4|
 |[高效的工程师一步一步来 —— 开发者影响力中的模式](https://gold.xitu.io/entry/5860f5dcb123db0065be0c45/)|翻译|4|
-|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|校对|1|
+|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|校对|1|
 |[简明 TensorFlow 教程 —— 第一部分：基础知识](https://gold.xitu.io/entry/5850c11cac502e0067cd7ea5/)|翻译|4|
 |[Python 数据可视化概览（涵盖 ggplot 和 Altair)](https://gold.xitu.io/entry/5842eded128fe10058a3cd7a/)|翻译|12|
 |[准备充分了嘛就想学函数式编程？（第一部分）](http://gold.xitu.io/entry/581fe399d20309005507371c/)|翻译|6|
@@ -441,7 +442,7 @@
 |[Go 函数调用 Redux](https://juejin.im/post/58f57be144d904006c09019c)|校对|1|
 |[在线进行大规模的数据迁移](https://gold.xitu.io/entry/58b2b7268ac24728d5484e1b/)|校对|1|
 |[2017年2月份兑换 T 恤]()|减去积分|25|
-|[兑换 Google Play 开发者账号]()|减去|7|
+|[兑换 Google Play 开发者账号]()|减去积分|7|
 |[来写一个 Python 说明文档生成器吧](https://gold.xitu.io/entry/585549afb123db00656c849b)|校对|1|
 |[用 Python 建立一个简单的对象模型](https://gold.xitu.io/entry/5852965661ff4b0063a72977)|翻译|9|
 |[推荐文章『A Simple Object Model』入选]()|奖励|1|
@@ -460,7 +461,7 @@
 |[好的与坏的，Swift 语言面面观（二）](http://gold.xitu.io/entry/578dc9db79bc44005ff580d4)|翻译|4|
 |[WWDC 2016：更加安全的 Swift 3.0](http://gold.xitu.io/entry/5788f7467db2a2005ce4f4fe)|翻译|6|
 |[用 Javascript 编写λ演算解释器](http://gold.xitu.io/entry/57834783d342d30057db3f93)|校对|2|
-|[六月翻译计划奖品 Octocat 小猫]()|积分减去|15|
+|[六月翻译计划奖品 Octocat 小猫]()|减去积分|15|
 |[使用 Sketch 和 Pixate 构建 Material Design 原型 - 第三部分](https://gold.xitu.io/entry/576cc25f2e958a00571dfb5f)|校对|2|
 |[关于 PostCSS 普及的一点微小的工作](https://gold.xitu.io/entry/57635cdda341310064c5910a)|翻译|6|
 |[React 应用的性能优化之路](http://gold.xitu.io/entry/57621f7980dda4005f7332f3)|校对|1|
@@ -503,7 +504,7 @@
 |------|-------|-------|
 |[iOS 开发者一定要知道的 14 个知识点](https://gold.xitu.io/entry/58a5727261ff4b006c432a7f/)|校对|2|
 |[从产品设计到虚拟现实](https://gold.xitu.io/entry/5783aa752e958a0054dad3bc)|校对|2|
-|[六月翻译计划奖品 Octocat 小猫]()|积分减去|15|
+|[六月翻译计划奖品 Octocat 小猫]()|减去积分|15|
 |[iOS 开发者在 Swift 中应避免过度使用 @objc](https://gold.xitu.io/entry/57712f605bbb50005970dc0e)|翻译|4|
 |[jQuery 终于发布了](https://gold.xitu.io/entry/576917c0d342d30058097229)|翻译|6|
 |[怎样在 5 分钟内使 Drawer 在状态栏下可见？](http://gold.xitu.io/entry/5760c75e207703006bf2792a)|翻译|4|
@@ -788,8 +789,8 @@
 |[推荐文章『How to create a FRONT END FRAMEWORK with Sketch』入选]()|奖励|1|
 |[如何设计精准的推送通知？](http://gold.xitu.io/entry/58199acca22b9d0067a34821/)|校对|2|
 |[减少认知过载可以为用户带来更佳体验](http://gold.xitu.io/entry/58007345816dfa0056e8ff5c)|翻译|7|
-|[用户界面中的字体](http://gold.xitu.io/entry/57859bb9d342d300578b1ebf)|提供并校对|3|
-|[UI 的黑暗面！暗色背景的优势](https://gold.xitu.io/entry/577c9385a633bd005be7fe7a)|提供并校对|4|
+|[用户界面中的字体](http://gold.xitu.io/entry/57859bb9d342d300578b1ebf)|奖励|3|
+|[UI 的黑暗面！暗色背景的优势](https://gold.xitu.io/entry/577c9385a633bd005be7fe7a)|奖励|4|
 |[电商列表信息展示，你真的懂吗？](http://gold.xitu.io/entry/575cd2f31532bc00608d241c)|校对|1|
 |[为什么我们喜欢丑的、一团糟的界面以及你为什么也要这样](http://gold.xitu.io/entry/57172a4f2e958a0054a8ffcf)|校对|1|
 |[设计师如何跟开发打好关系？](http://gold.xitu.io/entry/57286f4f2e958a00657d2450)|校对|1|
@@ -806,10 +807,16 @@
 |[在网站 Logo 上右击时提示下载网站的 Logo 素材下载](https://github.com/rainyear/gold-miner/blob/fabff8780118b24c61c57b13577cf971757c84d5/TODO/right-click-logo-show-logo-download-options.md)|校对|1|
 |[给产品经理的简易优先级法则](http://gold.xitu.io/entry/572ad1cc1532bc0065d5e36b)|翻译|7|
 
-## 译者：[loneyiserror](https://github.com/LoneyIsError) 历史贡献积分：48.5 当前积分：48.5
+## 译者：[LoneyIsError](https://github.com/LoneyIsError) 历史贡献积分：73 当前积分：73
 
 |文章|类型|积分|
 |------|-------|-------|
+|7 月推荐 iOS 文章 1 篇|奖励|1|
+|[逆向 `.car` 文件（已编译的 Asset Catalogs）](https://juejin.cn/post/7002491722550919198)|翻译|10|
+|[Swift 中的内存布局](https://juejin.cn/post/6986520506002472973)|翻译|5|
+|6 月推荐 iOS 文章 1 篇|奖励|1|
+|[Swift 5.4 的新特性](https://juejin.cn/post/6937481372772597767)|翻译|2.5|
+|[我们应该在什么时候使用 @State、@Binding、@ObservedObject、@EnvironmentObject 和 @Environment？](https://juejin.cn/post/6920881116043968520)|翻译|5|
 |[iOS：如何构建具有多种 Cell 类型的表视图](https://juejin.im/post/5c89a917e51d457efe07f4f9)|翻译|5|
 |[Swift 5 强制独占性原则](https://juejin.im/post/5c778b5e6fb9a049c64487e0)|翻译|5|
 |[用这些 iOS 技巧让你的 APP 性能更佳](https://juejin.im/post/5c6a0b6ef265da2de660f83f)|翻译|8|
@@ -990,7 +997,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[Flutter — 五个你会爱上它的原因](https://juejin.im/post/5a9e7e89f265da2381552542)|翻译|4|
+|[Flutter — 五个你会爱上它的原因](https://juejin.im/post/5a9e7e89f265da2381552542)|翻译|4|
 |[用 Flutter 开发你的第一个应用程序](https://juejin.im/post/5aa9e31ef265da238d506eb5)|校对|1|
 |[Subject 和 Observable + Observer 的混淆指北[ Android RxJava2 ] ( 这什么鬼系列 ) 第八话](https://juejin.im/post/5a96d44af265da4e951918ed)|翻译|4|
 |[Android 写测试用例的注意事项](https://gold.xitu.io/entry/5875a757128fe1006b49151f)|校对|1|
@@ -1044,7 +1051,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[基于 Meteor1.3 和 React 创建简单 App](http://gold.xitu.io/entry/5732a5af79df540060df2e53)|校对|1|
-|[基于 Meteor1.3 和 React 创建简单 App](http://gold.xitu.io/entry/5732a5af79df540060df2e53)|贡献英文|1|
+|[基于 Meteor1.3 和 React 创建简单 App](http://gold.xitu.io/entry/5732a5af79df540060df2e53)|奖励|1|
 
 ## 译者：[galenyuan](https://github.com/galenyuan) 历史贡献积分：6 当前积分：6
 
@@ -1175,10 +1182,10 @@
 |[Workcation App – 第二部分 . Animating Markers 和 MapOverlayLayout](https://juejin.im/post/5934ba6aa22b9d0058ed37c5)|校对|1|
 |[Workcation App – 第一部分 . 自定义 Fragment 转场动画](https://juejin.im/post/5934b96c570c35005b548218)|校对|1|
 |[关于 Android Adapter，你的实现方式可能一直都有问题](http://gold.xitu.io/entry/57fda1fe5bbb50005b3fef76/)|校对|1|
-|[9 月兑换 `Octocat 小`]()| 减去积分|15|
+|[9 月兑换 `Octocat 小`]()|减去积分|15|
 |[给 UX 设计师的 6 个超实用技巧指南](http://gold.xitu.io/entry/57c6e4bb128fe1005fe80c95/)|校对|1|
 |[CSS writing-mode 的特别技巧](http://gold.xitu.io/entry/57b08227165abd005426657b)|校对|1|
-|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|翻译|7|
+|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|翻译|7|
 |[在开发移动应用时你应该考虑的 「Empty State」](http://gold.xitu.io/entry/579f19956be3ff0065f59a90)|校对|1|
 |[移动应用设计新趋势](http://gold.xitu.io/entry/5796ee065bbb500063ef3535)|翻译|4|
 |[深度讲解 Android 主题层级](https://gold.xitu.io/entry/576b9f912e958a005715c7a0)|校对|1|
@@ -1201,7 +1208,7 @@
 |[探索 Firebase 在 Android 和 iOS 的使用: Analytics (分析模块)](http://gold.xitu.io/entry/5816ac62a22b9d00678ee434/)|校对|2|
 |[如何使用 UIFeedbackGenerator 让应用支持 iOS 10 的触觉反馈](http://gold.xitu.io/entry/5810433ac4c9710058a74100)|翻译|3|
 |[iOS 10 中的 NSPersistentContainer](http://gold.xitu.io/entry/580444efa34131005fe77197/)|校对|1|
-|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|翻译|6|
+|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|翻译|6|
 |[用 Swift 开发我的第一个 iOS 应用前，我想要知道这些内容](http://gold.xitu.io/entry/57c66667c4c9710061a57b3f/)|校对|2|
 |[给 UX 设计师的 6 个超实用技巧指南](http://gold.xitu.io/entry/57c6e4bb128fe1005fe80c95/)|校对|1|
 |[别再设计你的应用界面了，在用户体验上下点功夫吧](http://gold.xitu.io/entry/57b1e47ac4c97100548c964e)|校对|1|
@@ -1238,7 +1245,7 @@
 |[在 Android 应用中监测来电信息](https://gold.xitu.io/entry/5842ac36128fe1006c44b0b4)|校对|1|
 |[Android 界面的性能优化 — 减少过度绘制](http://gold.xitu.io/entry/58398df2a22b9d006dc2bd7a/)|校对|1|
 |[React Native Android 应用内存使用探究](http://gold.xitu.io/entry/5834161bda2f600062be79b5/)|校对|1|
-|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|校对|1|
+|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|校对|1|
 |[再见，汉堡菜单，我们有了新的 Android 交互设计方案](http://gold.xitu.io/entry/581b551a67f356005887c637)|校对|1|
 |[ndroid Material 搜索框实现详细说明](http://gold.xitu.io/entry/581a9b660ce46300586bb8a9/)|校对|1|
 |[探索 Firebase 在 Android 和 iOS 的使用: 远程配置](http://gold.xitu.io/entry/5818154dc4c97100555a145f)|翻译|9|
@@ -1265,7 +1272,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[兑换 Mac 贴纸]()|减去|10|
+|[兑换 Mac 贴纸]()|减去积分|10|
 |[CSS 变量的条件](http://gold.xitu.io/entry/58354e50a22b9d006bc01c06/)|校对|1|
 |[JavaScript 包管理器工作原理简介](http://gold.xitu.io/entry/5835a2c0c59e0d005772a62f/)|校对|1|
 |[我在手撕 SVG 条形图时踩过的定位坑](http://gold.xitu.io/entry/58306b428ac2470061b60ede/)|翻译|4|
@@ -1276,7 +1283,7 @@
 |[Yarn 更快更可靠的 CI 创建工具](http://gold.xitu.io/entry/582019f5a0bb9f0058bb5f14/)|校对|1|
 |[准备充分了嘛就想学函数式编程？(Part 6)](http://gold.xitu.io/entry/58209780570c350060b75a93/)|校对|1|
 |[重构，不要积压！](http://gold.xitu.io/entry/581066dc8ac247005b6b3d4f/)|校对|1|
-|[9 月份兑换 Octocat]()|减去|15|
+|[9 月份兑换 Octocat]()|减去积分|15|
 |[快速构建原型最好用的 10 个 ReactJS UI 框架](http://gold.xitu.io/entry/57ea0bc2a3413100624e62ff/)|翻译|3|
 |[不服跑个分 - 顶级 Swift 服务端框架对决 Node.js](http://gold.xitu.io/entry/57e296af0bd1d000570ee3b4/)|校对|2|
 |[用心设计的艺术](http://gold.xitu.io/entry/57d6bd1bd20309006a08e25e/)|校对|1|
@@ -1382,7 +1389,7 @@
 |[2017 年 9 月兑 树莓派套餐、套头衫各一个](#)|减去积分|65|
 |[UI vs UX: 到底有什么差别](https://juejin.im/entry/59a62190f265da24843e713d/detail)|翻译|4|
 |[使用 `-force` 被认为是有害的；了解 Git 的 `-force-with-lease` 命令](https://juejin.im/post/5985b9c56fb9a03c376de762)|校对|1|
-|[兑换小猫]()|减去|15|
+|[兑换小猫]()|减去积分|15|
 |[把 UUID 或者 GUID 作为主键？你得小心啦！](https://juejin.im/post/59561e5b6fb9a06bbf6fdf16)|校对|1|
 |[统一样式语言](https://juejin.im/post/595311fa6fb9a06b9d5b5f08)|校对|2|
 |[用 Go 语言理解 Tensorflow](https://juejin.im/post/59420951128fe1006a1960f8)|校对|1|
@@ -1398,7 +1405,7 @@
 |[使用 “Google 抓取方式” 测试 React 驱动的网站 SEO](http://gold.xitu.io/entry/582e8b2fd20309006702090f/)|翻译|4|
 |[理解 iOS 应用程序的代码签名 (CODE SIGN) 机制](http://gold.xitu.io/entry/5826ef85570c3500586b241d/)|翻译|5|
 |[构建 Android APP 一定要绕过的 30 个坑](http://gold.xitu.io/entry/58217b84570c350060bc40f8/)|翻译|4|
-|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|翻译|4|
+|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|翻译|4|
 |[19 岁的我没有学位，但是通过 Stack Overflow 和 GitHub 找到了梦想的工作](http://gold.xitu.io/entry/581f3bd9da2f60005d02f561/)|校对|1|
 |[Android 动画的灵魂—— Interpolator](http://gold.xitu.io/entry/5817117967f356005868b8a8/)|校对|1|
 |[探索 Firebase 在 Android 和 iOS 的使用: Analytics (分析模块)](http://gold.xitu.io/entry/5816ac62a22b9d00678ee434/)|翻译|8|
@@ -1416,7 +1423,7 @@
 |[8 月份兑换章鱼猫一大只]()|减去积分|30|
 |[这样做才能设计出更好的数据表](http://gold.xitu.io/entry/57af3cbc5bbb500062cb38a5)|翻译|6|
 |[深入理解 Swift 中闭包的捕捉语义（一）](http://gold.xitu.io/entry/57a4b3d37db2a2005a992f67)|翻译|6|
-|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|校对|1|
+|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|校对|1|
 |[用 Xamarin 和 Visual Studio 构建 iOS 应用](http://gold.xitu.io/entry/579cb8f58ac247005fdb2a8c)|翻译|8|
 |[Swift 2 中为实存类型和泛型搭桥牵线](http://gold.xitu.io/entry/579cba75165abd006104d65c)|翻译|4|
 |[iOS 开发，该如何解决弹窗的设计问题？](http://gold.xitu.io/entry/5798724da633bd006a6c8652)|校对|1|
@@ -1429,10 +1436,11 @@
 |[好的与坏的，Swift 语言面面观（一）](http://gold.xitu.io/entry/578c647a6be3ff006ce49e91)|校对|1|
 |[Android 中美腻的下划线](http://gold.xitu.io/entry/578705faa34131005b46e9c2)|校对|1|
 
-## 译者：[tanglie1993](https://github.com/tanglie1993/) 历史贡献积分：109.5 当前积分：74.5 二零二一：13
+## 译者：[tanglie1993](https://github.com/tanglie1993/) 历史贡献积分：115.5 当前积分：80.5 二零二二：6
 
 |文章|类型|积分|
 |------|-------|-------|
+|[JavaScript  首要知识之不可变性](https://juejin.cn/post/7095939240990605325)|校对|6|
 |[自己写一个 redux](https://juejin.cn/post/6923922875191656462)|翻译|13|
 |2020 年 5 月 兑换 小米台灯 1 个|减去积分|35|
 |[分享我喜欢的十五条 JavaScript 编程技巧](https://github.com/xitu/gold-miner/blob/master/article/2020/my-favorite-javascript-tips-and-tricks.md)|校对|2|
@@ -1447,7 +1455,7 @@
 |[论 Android 中 Span 的正确打开方式](https://juejin.im/entry/5af401bb518825671776537d/)|翻译|2|
 |[使用 leanback 的 DiffCallback：和 DiffUtil 回调之间的区别](https://juejin.im/post/5a9218ee5188257a5c60892a)|校对|0.5|
 |[从 SQLite 逐步迁移到 Room](https://juejin.im/post/5a8c3a2cf265da4e761fd721)|校对|1|
-|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|校对|1|
+|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|校对|1|
 |[构建更具可用性的 UI 与 API 的 5 个方针](https://juejin.im/post/5a653a65f265da3e317e43e7)|校对|1|
 |[开发者也是用户 - 第二部分：改善 UI 和 API 可用性的五条指导原则](https://juejin.im/post/5a728eef6fb9a01ca0722990)|翻译|4|
 |[开发者须知：女性用户和手机游戏](https://juejin.im/post/5a4d96fd5188253865099818)|校对|1.5|
@@ -1482,7 +1490,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[macOS Security and Privacy Guide](https://gold.xitu.io/entry/585501e2b123db00656a6947)|翻译|7|
-|[9 月兑换 `Octocat 小`]()| 减去积分|15|
+|[9 月兑换 `Octocat 小`]()|减去积分|15|
 |[3 分钟掌握 CSS Flexbox](http://gold.xitu.io/entry/57ce68bf2e958a00543a7df9/)|校对|1|
 |[基于浏览器的 MapReduce](http://gold.xitu.io/entry/57cd7b9c8ac24700645b052b/)|校对|1|
 |[iOS APP 中的不可变模型以及一致性数据](http://gold.xitu.io/entry/57caeb8a79bc440063fb7ef0/)|校对|1|
@@ -1518,7 +1526,7 @@
 |------|-------|-------|
 |[在 CSS 中保持斜边的角度不变](https://gold.xitu.io/entry/5875af941b69e6005ceffe94)|校对|1|
 |[在 Node.js 和 C++ 之间使用 Buffer 共享数据](https://gold.xitu.io/entry/586fbcefda2f600053df7787)|校对|2|
-|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|校对|1|
+|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|校对|1|
 |[通过 Python 和 Pandas 调用 SQLite Databases](https://gold.xitu.io/entry/584790a70ce46300578c5977/)|校对|2|
 |[使用强大的 Mockito 测试框架来测试你的代码](https://gold.xitu.io/entry/578f11aec4c971005e0caf82)|校对|2|
 
@@ -1536,7 +1544,7 @@
 |[使用 React.js 的渐进式 Web 应用程序：第 4 部分 - 渐进增强](http://gold.xitu.io/entry/58345f5cc4c9710054e187a5/)|翻译|8|
 |[如何设计精准的推送通知？](http://gold.xitu.io/entry/58199acca22b9d0067a34821/)|校对|2|
 |[利用 Shoryuken and SQS 快速处理 API 请求](http://gold.xitu.io/entry/57a14ac879bc44005497b433)|校对|1|
-|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|校对|1|
+|[使用流动控制器（Flow Controller ）实现 MVVM 协议模型](http://gold.xitu.io/entry/57a037902e958a0066667ff4)|校对|1|
 |[为什么我们要用网页端组件去构建服务器？该怎么做？](http://gold.xitu.io/entry/579ad925c4c971005abfc7a6)|校对|1|
 |[iOS 开发中的 Flux 架构模式](http://gold.xitu.io/entry/57972cdcc4c97100542c2ed4)|校对|2|
 |[使用 Zopfli 优化 PNG 图片](http://gold.xitu.io/entry/578e3a34c4c971005e059ee9)|校对|1|
@@ -1558,7 +1566,7 @@
 |[APK 里有什么?](http://gold.xitu.io/entry/57f9de43a22b9d005bf7fab0/)|校对|1|
 |[为什么用户体验最重要！最重要！最重要！](http://gold.xitu.io/entry/57e388ef5bbb50005d3c97d9/)|校对|1|
 |[顾虑越少，设计越好](http://gold.xitu.io/entry/57df4d04a0bb9f0058a4429d/)|翻译|6|
-|[9 月份奖品兑换 `Octocat 小`]()| 减去积分|15|
+|[9 月份奖品兑换 `Octocat 小`]()|减去积分|15|
 |[开发移动应用，你应该注意这些小细节](http://gold.xitu.io/entry/57d2d60667f3560057d0cd85/)|校对|1|
 |[视觉设计本地化的重要性](http://gold.xitu.io/entry/57ce9d4c7db2a200680f6fc4/)|校对|1|
 |[基于浏览器的 MapReduce](http://gold.xitu.io/entry/57cd7b9c8ac24700645b052b/)|校对|1|
@@ -1579,13 +1587,13 @@
 |------|-------|-------|
 |[搜索结果页的最佳实践](https://juejin.im/post/58da37c761ff4b00607287a6)|校对|1|
 |[用 Python 建立一个简单的对象模型](https://gold.xitu.io/entry/5852965661ff4b0063a72977)|校对|2|
-|[Octocat 章鱼猫（小）]() 和 [Octocat 章鱼猫小贴纸]()|减去|17|
+|[Octocat 章鱼猫（小）]() 和 [Octocat 章鱼猫小贴纸]()|减去积分|17|
 |[简明 TensorFlow 教程 —— 第一部分：基础知识](https://gold.xitu.io/entry/5850c11cac502e0067cd7ea5/)|校对|1|
 |[Python 数据可视化概览（涵盖 ggplot 和 Altair)](https://gold.xitu.io/entry/5842eded128fe10058a3cd7a/)|校对|4|
 |[CSS 遮罩的过渡效果](http://gold.xitu.io/entry/5819d6f4a22b9d0067a5b394)|校对|1|
 |[Swfit 代码的可测试性](http://gold.xitu.io/entry/58086fe52f301e005c27221f/)|校对|1|
 |[iOS 10 中的 NSPersistentContainer](http://gold.xitu.io/entry/580444efa34131005fe77197/)|校对|1|
-|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|校对|1|
+|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|校对|1|
 |[减少认知过载可以为用户带来更佳体验](http://gold.xitu.io/entry/58007345816dfa0056e8ff5c)|校对|2|
 |[如何测试 Android Service 里的 Singleton (2) ？](http://gold.xitu.io/entry/57fcb8f68ac2470058c9f621/)|校对|1|
 |[如何测试 Android Service 里的 Singleton (1) ？](http://gold.xitu.io/entry/57fb306da341310060135cbb/)|校对|1|
@@ -1610,7 +1618,7 @@
 |[用 Xamarin 和 Visual Studio 构建 iOS 应用](http://gold.xitu.io/entry/579cb8f58ac247005fdb2a8c)|校对|2|
 |[Swift 2 中为实存类型和泛型搭桥牵线](http://gold.xitu.io/entry/579cba75165abd006104d65c)|校对|1|
 |[为什么我们要用网页端组件去构建服务器？该怎么做？](http://gold.xitu.io/entry/579ad925c4c971005abfc7a6)|校对|1|
-|[何在应用内设计一份调查？](https://gold.xitu.io/entry/579ae2a85bbb500064c9233e)|翻译|7|
+|[何在应用内设计一份调查？](https://gold.xitu.io/entry/579ae2a©85bbb500064c9233e)|翻译|7|
 |[iOS 开发，该如何解决弹窗的设计问题？](http://gold.xitu.io/entry/5798724da633bd006a6c8652)|校对|1|
 |[ES6 中 的 var、let 和 const 应该如何选择？](http://gold.xitu.io/entry/57962ef22e958a00651f7387)|翻译|3|
 |[iOS 开发中的 Flux 架构模式](http://gold.xitu.io/entry/57972cdcc4c97100542c2ed4)|校对|2|
@@ -1628,7 +1636,7 @@
 |------|-------|-------|
 |[ES6 中 的 var、let 和 const 应该如何选择？](http://gold.xitu.io/entry/57962ef22e958a00651f7387)|校对|1|
 
-## 译者：[rottenpen](https://github.com/rottenpen) 历史贡献积分：47.5 当前积分：47.5 二零二一：0
+## 译者：[rottenpen](https://github.com/rottenpen) 历史贡献积分：47.5 当前积分：47.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -1662,7 +1670,7 @@
 |[RxJava 中的错误处理](https://juejin.im/post/59a66001518825242e5c2906)|校对|1|
 |[2017年2月份兑换章鱼猫一小只]()|减去积分|15|
 |[与时俱进的 Reactivity](http://gold.xitu.io/entry/58130dcbbf22ec0068824bd2/)|翻译|9|
-|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|校对|1|
+|[Pury — 一个新的 Android App 性能分析工具](http://gold.xitu.io/entry/57fe4b92a22b9d005b1a8a2a/)|校对|1|
 |[关于 Android Adapter，你的实现方式可能一直都有问题](http://gold.xitu.io/entry/57fda1fe5bbb50005b3fef76/)|校对|1|
 |[安全的计时器设计模式](http://gold.xitu.io/entry/57b279f0128fe10055cda9fd)|校对|1|
 |[Activity 的正确打开方式](http://gold.xitu.io/entry/57b9bfc3c4c9710061481310)|翻译|4|
@@ -1674,9 +1682,9 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[用神经网络进行文本分类](http://gold.xitu.io/entry/58aa65ec2f301e006c32ee0c/)|翻译|4|
-|[兑换守望屁股畅玩版]()|减去|30|
+|[兑换守望屁股畅玩版]()|减去积分|30|
 |[Swift 3 中的函数参数命名规范指北](http://gold.xitu.io/entry/57fa593b2e958a00558b2d17/)|校对|1|
-|[9 月兑换 `手机壳`]()| 减去积分|6|
+|[9 月兑换 `手机壳`]()|减去积分|6|
 |[iOS APP 中的不可变模型以及一致性数据](http://gold.xitu.io/entry/57caeb8a79bc440063fb7ef0/)|翻译|5|
 |[「最简单」的 Core Data 上手指南](http://gold.xitu.io/entry/57c8f62f67f3560057aea07f/)|校对|1|
 |[给 UX 设计师的 6 个超实用技巧指南](http://gold.xitu.io/entry/57c6e4bb128fe1005fe80c95/)|翻译|6|
@@ -1727,7 +1735,7 @@
 |[MVVM, Coordinators 和 RxSwift 的抽丝剥茧](https://juejin.im/post/59acf7dcf265da24722fe6a1)|校对|1|
 |[2017年2月份兑换贴纸 part1 + part2]()|减去积分|10|
 |[如何给你的产品写文案？](http://gold.xitu.io/entry/57d3a12067f3560057d58eba/)|校对|1|
-|[9 月兑换 `Octocat 小`]()| 减去积分|15|
+|[9 月兑换 `Octocat 小`]()|减去积分|15|
 |[设计一个你自己不会去用的产品](http://gold.xitu.io/entry/57ce923c816dfa00541bf9a2/)|校对|1|
 |[视觉设计本地化的重要性](http://gold.xitu.io/entry/57ce9d4c7db2a200680f6fc4/)|翻译|3|
 |[实现二叉树以及二叉树遍历数据结构](http://gold.xitu.io/entry/57cd6b028ac24700645a789c/)|翻译|6|
@@ -1762,7 +1770,7 @@
 |[将项目迁移到 Python 3](https://juejin.im/post/5a9e3ff06fb9a028d2077434)|校对|2|
 |[标准化的包布局](https://juejin.im/post/5a8cf9dc6fb9a063475f8c15)|翻译|5|
 |[SQL 指引：如何写出更好的查询](https://juejin.im/post/59c1d402518825396f4f6321)|校对|4|
-|[兑换大猫一个]()|减去|30|
+|[兑换大猫一个]()|减去积分|30|
 |[GraphQL vs. REST](https://juejin.im/post/59793f625188253ded721c70)|校对|2|
 |[理解 Python 中的异步编程](https://juejin.im/entry/59704efc6fb9a06bbd6fabeb/detail)|翻译|12|
 |[在 Reddit 中代码部署的演进](https://juejin.im/entry/594b7fd21b69e60062a4cb01/detail)|翻译|7|
@@ -1949,10 +1957,11 @@
 |[JavaScript ES6 核心功能一览](http://gold.xitu.io/entry/58189177128fe100559efd51/)|校对|1|
 |[Swift 3，这些陷阱在等你](http://gold.xitu.io/entry/57f6fa03816dfa0056a4d782/)|校对|1|
 
-## 译者：[XatMassacrE](https://github.com/XatMassacrE) 历史贡献积分：96 当前积分：96
+## 译者：[XatMassacrE](https://github.com/XatMassacrE) 历史贡献积分：98 当前积分：98
 
 |文章|类型|积分|
 |------|-------|-------|
+|[在 Flutter 中使用 Provider 构建底部导航栏](https://juejin.cn/post/6930515324815015949)|翻译|2|
 |[以太坊钱包详解](https://juejin.im/post/5ae2942ff265da0b886d23df)|翻译|12|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译|24|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译|14|
@@ -2064,7 +2073,7 @@
 |[安卓应用栏的滚动效果](https://gold.xitu.io/entry/5899cd1361ff4b006b2280ce/detail)|翻译|4|
 |[Model-View-Intent 模式下的响应式应用 － 第一部分 － Model（模型）](https://gold.xitu.io/entry/589c91935c497d0056211a19)|翻译|7|
 |[SOLID 原则：权威指南](https://gold.xitu.io/entry/587f1c331b69e6005853ecfa)|翻译|4|
-|[兑换 Google Play 开发者账号（积分拼凑）]()|减去|25|
+|[兑换 Google Play 开发者账号（积分拼凑）]()|减去积分|25|
 |[利用好 Android Studio 中的 APK Analyzer](https://gold.xitu.io/entry/58466c7e128fe1006c5897fa)|翻译|4|
 |[在 Android 应用中监测来电信息](https://gold.xitu.io/entry/5842ac36128fe1006c44b0b4)|校对|1|
 |[移动端设计最佳实践](http://gold.xitu.io/entry/583bd69bac502e006ea8caaa/)|校对|1|
@@ -2074,7 +2083,7 @@
 |[React Native Android 应用内存使用探究](http://gold.xitu.io/entry/5834161bda2f600062be79b5/)|校对|1|
 |[React Native Android 的 native 模块](http://gold.xitu.io/entry/5832e55fc4c971005f565b4c/)|翻译|4|
 |[构建 Android APP 一定要绕过的 30 个坑](http://gold.xitu.io/entry/58217b84570c350060bc40f8/)|校对|1|
-|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|校对|1|
+|[Android 开发者如何通过运动视觉 API 进行机器学习？Part 1 — 人脸检测](http://gold.xitu.io/entry/58200df62f301e005c237850/)|校对|1|
 |[ndroid Material 搜索框实现详细说明](http://gold.xitu.io/entry/581a9b660ce46300586bb8a9/)|校对|1|
 
 ## 译者：[fengzhihao123](https://github.com/fengzhihao123) 历史贡献积分：6 当前积分：6
@@ -2256,7 +2265,7 @@
 |[在 Node.js 和 C++ 之间使用 Buffer 共享数据](https://gold.xitu.io/entry/586fbcefda2f600053df7787)|翻译|7|
 |[在算法横行的时代，仍需要人类把关](https://gold.xitu.io/entry/5860fd7761ff4b0058248319/)|翻译|4|
 |[如何用 Sketch 打造「前端框架」](https://gold.xitu.io/entry/5836ad4367f3560065f439dc/)|校对|1|
-|[兑换 Octocat 章鱼猫（小）]()|减去|15|
+|[兑换 Octocat 章鱼猫（小）]()|减去积分|15|
 |[从 Node.js 到 Golang 的迁徙之路](https://gold.xitu.io/entry/584780928e450a006c1b801c/)|校对|1|
 |[如何用 JavaScript 作图](https://gold.xitu.io/entry/58441f8f128fe1006c4d1191/)|翻译|7|
 |[使用 React.js 的渐进式 Web 应用程序：第 3 部分 - 离线支持和网络恢复能力](http://gold.xitu.io/entry/58350983a22b9d006bbb90d3/)|翻译|7|
@@ -2274,7 +2283,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[看！Swift 里竟然有红绿灯 🚦！](https://juejin.im/post/58ddbc612f301e0062fed742)|校对|1|
-|[2017-03-23 兑换掘金屁股]()|减去|30|
+|[2017-03-23 兑换掘金屁股]()|减去积分|30|
 |[如果只有一个月入门 iOS：我该如何学习呢？](https://juejin.im/post/58c9f436a22b9d0064187e39)|翻译|3|
 |[在 Xcode 项目中使用 swift package fetch](https://juejin.im/entry/58c7a4cb1b69e6006bec354c/)|翻译|6|
 |[iOS 开发中使用 Swift 进行 iBeacons 交互指南](https://gold.xitu.io/entry/58a6f4091b69e6006d275610/)|校对|1|
@@ -2365,9 +2374,9 @@
 |[渐进增强的 Web 体验（Progressive Web AMP）](https://github.com/xitu/gold-miner/blob/master/TODO/progressive-web-amps.md)|校对|1|
 |[使用强大的调查技巧了解用户的动机](https://gold.xitu.io/entry/585a3f9b1b69e6006cb93529)|校对|1|
 |[为何而设计](https://gold.xitu.io/entry/5857969761ff4b00686ad66b)|校对|1|
-|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|校对|1|
+|[简明 TensorFlow 教程 — 第二部分：混合学习](https://gold.xitu.io/entry/5858ed4e1b69e6006cb12a7c)|校对|1|
 |[iOS: 自定义 Modal 视图](https://gold.xitu.io/entry/58576ca7128fe1006b7b35a3)|校对|1|
-|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|校对|1|
+|[TensorFlow —  第三部分: 所有的模型](https://gold.xitu.io/entry/58574d0c8d6d810065b4a0b5)|校对|1|
 |[如何用 Sketch 打造「前端框架」](https://gold.xitu.io/entry/5836ad4367f3560065f439dc/)|校对|1|
 |[用不可变的基础设施提高攻击者的攻击成本](https://gold.xitu.io/entry/5850e60f1b69e6006c773e07/)|校对|1|
 |[简明 TensorFlow 教程 —— 第一部分：基础知识](https://gold.xitu.io/entry/5850c11cac502e0067cd7ea5/)|校对|1|
@@ -2489,7 +2498,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |2018 年 7 月兑掘金桌垫 1 个|减去积分|10|
-|[fghpdf 翻译开源库 Python 100 个](#)|翻译|10|
+|[fghpdf 翻译 Python 100 个](#)|翻译|10|
 |[搭建个人深度学习平台](https://juejin.im/post/59be8e2b5188252c24746e9c)|校对|1.5|
 |[在你沉迷于包的海洋之前，还是了解一下运行时 Node.js 的本身](https://juejin.im/post/58cf4a3144d90400690b7be7/)|翻译|6|
 |[Google 是如何构建 web 框架的](https://gold.xitu.io/entry/58bcdda4128fe1007e5b44db/)|翻译|5|
@@ -2613,7 +2622,7 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|9|
 |[React 应用性能调优](https://juejin.im/post/5a289cc6f265da43346fcc8d)|翻译|6|
 |[原子设计：如何设计组件系统](https://juejin.im/post/59780066f265da6c3433872f)|校对|2|
-|[兑换大猫一个]()|减去|30|
+|[兑换大猫一个]()|减去积分|30|
 |[统一样式语言](https://juejin.im/post/595311fa6fb9a06b9d5b5f08)|翻译|12|
 |[光速 React](https://juejin.im/post/591ad6b7128fe1005ce1123a)|翻译|5|
 |[CSS很棒，只是真的太难了](https://juejin.im/entry/58eae24a61ff4b0061a6a102)|翻译|4|
@@ -2714,7 +2723,7 @@
 |[Service workers：Progressive Web Apps 背后的小英雄](https://juejin.im/post/5a9c8c87f265da238c3a23e4)|校对|1|
 |[为什么你的 APP 在 Sketch 上看起来更好：探索 Sketch 和 iOS 的渲染差异](https://juejin.im/post/5a9572575188257a61326630)|校对|1|
 |[通过 Quick 和 Nimble 在 Swift 中进行测试驱动开发](https://juejin.im/post/5a93635d5188257a7924c5d5)|校对|1|
-|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|校对|1|
+|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|校对|1|
 |[函数式 Java 到函数式 Kotlin 的转换](https://juejin.im/post/5a52fac96fb9a01c9657fa4e)|校对|1|
 |[针对 Airbnb 清单页的 React 性能优化 ](https://juejin.im/post/5a3a733f6fb9a045263bbdf5)|校对|2|
 |[IBM 工程师的 TensorFlow 入门指北](https://juejin.im/post/5a3d1ecb518825256362de6a)|校对|2|
@@ -2744,10 +2753,11 @@
 |[在 Xcode 项目中使用 swift package fetch](https://juejin.im/entry/58c7a4cb1b69e6006bec354c/)|校对|1|
 |[Swift + 关键字](https://gold.xitu.io/entry/58bf76aaa22b9d0058896bff/)|校对|1|
 
-## 译者：[xilihuasi](https://github.com/xilihuasi) 历史贡献积分：71 当前积分：71
+## 译者：[xilihuasi](https://github.com/xilihuasi) 历史贡献积分：74 当前积分：74
 
 |文章|类型|积分|
 |------|-------|-------|
+|[2021 年最值得使用的 Node.js 框架](https://juejin.cn/post/6955402195311263751)|校对|3|
 |[胜者是 Stream：NodeJS 读取大数据集合几种方法的性能比较](https://juejin.im/post/5d67c71e51882537930bc593)|校对|2|
 |[微前端：未来前端开发的新趋势 — 第三部分](https://juejin.im/post/5d2755c4e51d45105e021360)|翻译|6|
 |[JavaScript 简明代码 — 最佳实践](https://juejin.im/post/5d07abcc6fb9a07eda031858)|翻译|4|
@@ -2771,7 +2781,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|推荐优秀英文文章三篇|奖励积分|3|
+|推荐优秀英文文章三篇|奖励|3|
 |[JAVASCRIPT 日期权威指南](https://juejin.im/post/5b9b4b7bf265da0af6099ed8)|校对|2|
 |[一行 JavaScript 代码竟然让 FT.com 网站慢了十倍](https://juejin.im/post/5b7bb6dfe51d4538bf55aa5f)|翻译|3|
 |[布局的下一次革新会是怎样的](https://juejin.im/post/5b85586ce51d4538c77a9cc1)|校对|1.5|
@@ -2919,7 +2929,7 @@
 |------|-------|-------|
 |[编写整洁 CSS 代码的黄金法则](https://juejin.im/post/58d34bed128fe1006caf8b6b)|校对|1|
 
-## 译者：[bambooom](https://github.com/bambooom) 历史贡献积分：60 当前积分：60
+## 译者：[bambooom](https://github.com/bambooom) 历史贡献积分：62 当前积分：62
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -2940,6 +2950,7 @@
 |[超越浏览器：从 web 应用到桌面应用](https://juejin.im/entry/58f07ea5ac502e006c1e0301)|翻译|10|
 |[CSS很棒，只是真的太难了](https://juejin.im/entry/58eae24a61ff4b0061a6a102/detail)|校对|1|
 |[编写整洁 CSS 代码的黄金法则](https://juejin.im/post/58d34bed128fe1006caf8b6b)|校对|1|
+|[React 系列教程](#)|翻译|2|
 
 ## 译者：[boileryao](https://github.com/boileryao) 历史贡献积分：24 当前积分：24
 
@@ -2977,10 +2988,27 @@
 |[你正在阅读的用户体验文章是不是在向你进行推销？](https://juejin.im/post/58d4c501a22b9d00645544d9)|校对|2|
 |[震惊，还可以用这种姿势学习编程](https://juejin.im/post/58d3ebd4128fe1006cb43722)|翻译|3|
 
-## 译者：[lsvih](https://github.com/lsvih) 历史贡献积分：476.5 当前积分：396.5 二零二一：21.5
+## 译者：[lsvih](https://github.com/lsvih) 历史贡献积分：513.5 当前积分：433.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Jetpack Compose：更简便的 RecyclerView（第一部分）](https://juejin.cn/post/6970858140824764424)|校对|4|
+|[跨站脚本攻击（XSS）](https://juejin.cn/post/6959080994653601806)|校对|1|
+|[解密转置卷积](https://juejin.cn/post/6954678998123151390)|校对|1|
+|[2021 年 Kubernetes 的开发者工具：Helm、Kustomize 和 Skaffold](https://juejin.cn/post/6951201659301134343)|校对|1|
+|[React Native 0.64 发布，已在 iOS 支持 Hermes](https://juejin.cn/post/6939117135331328030)|校对|1.5|
+|[Android 启动技巧：不要使用 Kotlin 协程](https://juejin.cn/post/6940071555330211847)|校对|1|
+|[和 Node.js 创始人 Ryan Dahl 的对话](https://juejin.cn/post/6937483576594137096)|校对|2|
+|[Figma 生产环境中的 Rust](https://juejin.cn/post/6938351578986479653)|校对|3|
+|[使用 CSS Painting API 自动生成图像](https://juejin.cn/post/6932088781113819150)|校对|1.5|
+|[在 iOS 14 中处理位置权限和管理近似地址访问](https://juejin.cn/post/6944895612001189924)|校对|2|
+|[TypeScript 4.2 正式发布：优化了类型和开发者体验](https://juejin.cn/post/6935255387893399560)|校对|2|
+|[自适应 CSS 栅格：自由布局的最终版本](https://juejin.cn/post/6935090806210428959)|校对|1|
+|[Bash 中的 if else 语句](https://juejin.cn/post/6934324540692496392)|校对|2|
+|[你有设计作品的作品集吗？挺好的，但这还不够](https://juejin.cn/post/6934328263011467277)|校对|5|
+|[恭喜 Safari 荣获「第二个 Internet Explorer」的美誉](https://juejin.cn/post/6929754875001569294)|校对|2|
+|[基于 50 万个浏览器指纹的新发现](https://juejin.cn/post/6930974348002590733)|校对|3|
+|[如何利用隐语义模型在图数据库中构建推荐系统](https://juejin.cn/post/6925019556108828685)|校对|4|
 |[自己写一个 redux](https://juejin.cn/post/6923922875191656462)|校对|8|
 |[构建设计系统和组件库](https://juejin.cn/post/6924152501805678606)|校对|5|
 |[UIKit 和 SwiftUI：我该选择哪一个运用在实际产品开发中？](https://juejin.cn/post/6923197105422991367)|校对|4|
@@ -3003,7 +3031,7 @@
 |[知识的极限](https://juejin.im/post/6874475968325484552)|校对|3|
 |由于 [7130](https://github.com/xitu/gold-miner/pull/7130) 减去积分|减去积分|14|
 |[从头开始到最初的 10 个客户：我是如何设计并推出一个 SaaS 产品](https://juejin.im/post/6860850397293232141)|校对|5|
-|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|校对|1|
+|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|校对|1|
 |[Javascript 应用中引入 CSS 的几种方式](https://juejin.im/post/6867054761741549576)|翻译|3|
 |[使用 Node.js 控制树莓派 4 的 GPIO](https://juejin.im/post/6868946182325043207)|校对|5|
 |[在 Swift 中使用 MVVM 架构实现无限滚动和图片加载](https://juejin.im/post/5ecb8115e51d4578540fcacd)|校对|3|
@@ -3340,7 +3368,7 @@
 |[在 Facebook 发一张登机牌，你就有可能被盗号了](https://juejin.im/post/59ccdeec51882531b21f1835)|校对|1|
 |[通过 Metal 来使用 ARKit (下)](https://juejin.im/post/59bb2a99f265da0650750e56)|校对|1|
 |[语句，消息和归约器](https://juejin.im/post/596f17366fb9a06bc17c53db)|翻译|6|
-|[兑换小猫一个]()|减去|15|
+|[兑换小猫一个]()|减去积分|15|
 |[Swift 中关于并发的一切：第一部分 — 当前](https://juejin.im/post/5954571af265da6c4c4fc3f8)|校对|3|
 |[iOS 11：UIKit 中值得注意的新能力](https://juejin.im/post/5944adfffe88c2006a6f6f3a)|翻译|4|
 |[消息同步 —— 在 Airbnb 我们是怎样扩展移动消息的](https://juejin.im/post/593a7647128fe1006acafaf9)|校对|1|
@@ -3353,7 +3381,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[兑换大猫一个]()|减去|30|
+|[兑换大猫一个]()|减去积分|30|
 |[在大型应用中使用 Redux 的五个技巧](https://juejin.im/post/5980514151882537b41c4c0d)|翻译|10|
 |[Node.js 流: 你需要知道的一切](https://juejin.im/post/5940a9c3128fe1006a0ab176)|翻译|8|
 |[真相就在代码中](https://juejin.im/post/59152d17da2f60005dd0ae77)|翻译|7|
@@ -3393,10 +3421,12 @@
 |------|-------|-------|
 |[开发者（也就是我）与Rx Observable 类的对话 [ Android RxJava2 ] ( 这到底是什么？) 第五部分](https://juejin.im/post/590ab4f7128fe10058f35119)|校对|1|
 
-## 译者：[leviding](https://github.com/leviding) 历史贡献积分：196 当前积分：151 二零二一：0
+## 译者：[leviding](https://github.com/leviding) 历史贡献积分：196 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
+|兑换 1 个搪瓷杯|减去积分|15|
+|兑换 3 件卫衣|减去积分|135|
 |[GitHub 2020 报告：在工作和娱乐之间找到平衡](https://github.com/xitu/Annual-Survey/blob/main/2020/github/GitHub%202020%20报告：在工作和娱乐之间找到平衡.pdf)|翻译|0|
 |[如何在 Keras 中用 YOLOv3 进行对象检测](https://juejin.im/post/5d12eef5e51d455a68490ba8)|校对|4|
 |[The JavaScript Tutorial 教程](https://github.com/javascript-tutorial/zh.javascript.info)|翻译校对|7|
@@ -3513,7 +3543,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[兑换小章鱼猫两个]()|减去|30|
+|[兑换小章鱼猫两个]()|减去积分|30|
 |[将现有的 API 从 REST 迁移到 GraphQL](https://juejin.im/post/598eb22af265da3e26097835)|翻译|4|
 |[把 UUID 或者 GUID 作为主键？你得小心啦！](https://juejin.im/post/59561e5b6fb9a06bbf6fdf16)|翻译|6|
 |[说服Kotlin编译器代码安全](https://juejin.im/post/5955a78cf265da6c2810a9ff)|校对|1|
@@ -3556,7 +3586,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[关于 Node.js 的认证方面的教程（很可能）是有误的](https://juejin.im/post/599f955d51882511264e7f69)|翻译|8|
-|[兑换小章鱼猫一个]()|减去|15|
+|[兑换小章鱼猫一个]()|减去积分|15|
 |[使用 Node.js 搭建一个 API 网关](https://juejin.im/post/5992769151882548b17f76a6)|翻译|4|
 |[所有你需要知道的关于完全理解 Node.js 事件循环及其度量](https://juejin.im/post/5984816a518825265674c8f6)|翻译|6|
 |[React 在服务端渲染的实现](https://juejin.im/post/595b01ad6fb9a06bb15a13b2)|翻译|4|
@@ -3574,7 +3604,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[剖析 Stack Overflow，开发者遇到最多的的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|翻译|3.5|
+|[剖析 Stack Overflow，开发者遇到最多的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|翻译|3.5|
 |[如何避免我作为初级开发者时所犯下的 7 个错误](https://juejin.im/post/5cbea729e51d456e8240dcfa)|翻译|5.5|
 |[伟大设计与好设计之间区别是什么？这里告诉你真相](https://juejin.im/post/5cc15d1c5188252d6a6b1886)|校对|2|
 |[连接数据流](https://juejin.im/post/5c8efcbee51d457cb772778f)|翻译|4.5|
@@ -3833,10 +3863,11 @@
 |------|-------|-------|
 |[深度学习的未来](https://juejin.im/post/597843506fb9a06ba4747db5)|校对|2|
 
-## 译者：[sunshine940326](https://github.com/sunshine940326) 历史贡献积分：105.8 当前积分：65.8
+## 译者：[sunshine940326](https://github.com/sunshine940326) 历史贡献积分：105.8 当前积分：30.8
 
 |文章|类型|积分|
 |------|-------|-------|
+|2022 年 6 月兑换小米米家台灯|减去积分|35|
 |[./dogs.html 和 /dogs.html 间有什么区别？](https://juejin.im/post/5ba7a5dfe51d450e4a1bc136)|校对|1|
 |[前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)|翻译校对|5|
 |[使用 SVG 符号和 CSS 变量实现多彩图标](https://juejin.im/post/5a8409e06fb9a063342672b6)|校对|1.5|
@@ -3978,7 +4009,7 @@
 |[GitHub Actions 介绍，了解一下？](https://juejin.im/post/5be191736fb9a049de6cd463)|校对|1.5|
 |[理解 React 钩子（Hooks）](https://juejin.im/post/5be98a87f265da616e4bf8a4)|校对|1.5|
 |[职业成长的内部指南](https://juejin.im/post/5bd722a65188252dd11662af)|校对|1|
-|推荐优秀英文文章一篇|奖励积分|1|
+|推荐优秀英文文章一篇|奖励|1|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|1|
 |[构建高性能和可扩展性 Node.js 应用的最佳实践 [第 3/3 部分]](http://5bcf14cee51d451cb039d13d/)|校对|1|
 |[Node.js 高性能和可扩展应用程序的最佳实践 [第 2/3 部分]](https://juejin.im/post/5bca9208f265da0ade1ceffb)|校对|1|
@@ -4004,7 +4035,7 @@
 |[结构体指针](https://juejin.im/post/59a60cc1f265da249a201ae9)|校对|1|
 |[iOS 响应式编程：Swift 中的轻量级状态容器](https://juejin.im/post/599652ee6fb9a024903a8d59)|校对|1|
 
-## 译者：[laampui](https://github.com/laampui) 历史贡献积分：58.5 当前积分：43.5 二零二一：6
+## 译者：[laampui](https://github.com/laampui) 历史贡献积分：58.5 当前积分：43.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -4056,10 +4087,12 @@
 |------|-------|-------|
 |[为什么我们渴求女性来设计 AI ](https://juejin.im/post/599c1e45518825242a02596e)|校对|1|
 
-## 译者：[tmpbook](https://github.com/tmpbook) 历史贡献积分：37 当前积分：37
+## 译者：[tmpbook](https://github.com/tmpbook) 历史贡献积分：45.5 当前积分：45.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[可以在下一个项目中使用的 20 个 Go 三方库](https://juejin.cn/post/6956587242848518158)|翻译|5|
+|[使用 VPython 进行物理模拟](https://juejin.cn/post/6955292986909409288)|翻译|3.5|
 |[深度专注的工作 — 成为 10 倍效率的开发者的秘密武器](https://juejin.im/post/5bffb3f5f265da613a53bd4b)|翻译|6|
 |[初创公司的数据科学：简介](https://juejin.im/post/5bd55b76f265da0ae472ce1b)|翻译|3.5|
 |[Go 语言的整洁架构之道/一个使用 gRPC 的 Go 项目整洁架构例子](https://juejin.im/post/5bb99195e51d450e551a3a2f)|校对|1.5|
@@ -4273,12 +4306,6 @@
 |[React 应用中 “神奇” 的多态—性能隐患](https://juejin.im/post/5aa5ebe16fb9a028d04314b0)|翻译|2|
 |[React 系列教程](#)|翻译|19|
 
-## 译者：[bambooom](https://github.com/bambooom) 历史贡献积分：2 当前积分：2
-
-|文章|类型|积分|
-|------|-------|-------|
-|[React 系列教程](#)|翻译|2|
-
 ## 译者：[VernonVan](https://github.com/VernonVan) 历史贡献积分：10.5 当前积分：10.5
 
 |文章|类型|积分|
@@ -4358,7 +4385,7 @@
 |[CSV 注入：被人低估的风险](https://juejin.im/post/59eca3fef265da430b7a63c8)|校对|3|
 |[HTTP/2 下网站资源打包的正确方法](https://juejin.im/post/59f74d20f265da431523326b)|翻译|4|
 
-## 译者：[ParadeTo](https://github.com/ParadeTo) 历史贡献积分：13.5 当前积分：13.5
+## 译者：[ParadeTo](https://github.com/ParadeTo) 历史贡献积分：21.5 当前积分：21.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -4367,6 +4394,8 @@
 |[2018 前端性能优化清单 - 第 4 部分](https://juejin.im/post/5a62aa686fb9a01c91407a0b)|翻译|8|
 |[ES6 中的元编程：第二部分 —— 反射（Reflect）](https://juejin.im/post/5a0e66386fb9a04523417418)|校对|1.5|
 |[HTTP/2 下网站资源打包的正确方法](https://juejin.im/post/59f74d20f265da431523326b)|校对|1|
+|[Vue Report 2017](https://juejin.im/post/5a138fae5188254d28732899)|翻译|13|
+|[14 个你可能不知道的 JavaScript 调试技巧](https://github.com/xitu/gold-miner/pull/2404)|翻译|3|
 
 ## 译者：[altairlu](https://github.com/altairlu) 历史贡献积分：11 当前积分：11
 
@@ -4491,13 +4520,6 @@
 |[Android 开发者如何函数式编程 （三）](https://juejin.im/post/5a3765eaf265da430945415d)|翻译|3|
 |[ViewModel 和 LiveData：为设计模式打 Call 还是唱反调？](https://juejin.im/post/5a040585f265da43346f5d57)|校对|1|
 |[ViewModels 简单入门指北](https://juejin.im/post/5a0905ad51882531bb6c4d98)|校对|1|
-
-## 译者：[ParadeTo](https://github.com/ParadeTo) 历史贡献积分：16 当前积分：16
-
-|文章|类型|积分|
-|------|-------|-------|
-|[Vue Report 2017](https://juejin.im/post/5a138fae5188254d28732899)|翻译|13|
-|[14 个你可能不知道的 JavaScript 调试技巧](https://github.com/xitu/gold-miner/pull/2404)|翻译|3|
 
 ## 译者：[jerry-shao](https://github.com/jerry-shao) 历史贡献积分：1 当前积分：1
 
@@ -4883,7 +4905,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[翻译开源库 JS 分类 100 个]()|翻译开源库|10|
+|翻译开源库 JS 分类 100 个|翻译|10|
 
 ## 译者：[kangkai124](https://github.com/kangkai124) 历史贡献积分：15.5 当前积分：10.5
 
@@ -4891,7 +4913,7 @@
 |------|-------|-------|
 |[前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)|翻译校对|4.5|
 |[2018 年 2 月兑 杯子 1 个]()|减去积分|5|
-|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|校对|1|
+|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|校对|1|
 |[如何紧跟未来的设计趋势：15 个让你永远不过时的资料](https://juejin.im/post/5a52d2226fb9a01c9525ebbe)|翻译|4|
 |[使用 web 应用打包工具 Parcel 实现代码分割](https://juejin.im/post/5a478289f265da430d5859ff)|翻译|3|
 |[如何取消你的 Promise？](https://juejin.im/post/5a32705a6fb9a045117127fa)|校对|1|
@@ -4923,7 +4945,7 @@
 |[前端开发者指南 2018](https://github.com/xitu/front-end-handbook-2018)|翻译校对|4|
 |[2018 年 2 月兑 iPhone 7 白色手机壳和小猫各 1 个]()|减去积分|21|
 |[JavaScript 工作原理：Web Worker 的内部构造以及 5 种你应当使用它的场景](https://juejin.im/post/5a90233bf265da4e92683de3)|校对|2.5|
-|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|校对|1|
+|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|校对|1|
 |[现代浏览器是如何提升性能的：网络层](https://juejin.im/post/5a70755df265da3e283a4e5d)|校对|2|
 |[保持 webpack 快速运行的诀窍：一本提高构建性能的现场指导手册](https://juejin.im/post/5a6adc6d5188257350517033)|校对|3|
 |[Vue Devtools 4.0 有哪些新内容](https://juejin.im/post/5a676c33f265da3e5b32f43c)|翻译|4|
@@ -5001,19 +5023,19 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|翻译|3|
+|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|翻译|3|
 
 ## 译者：[yiguohan](https://github.com/yiguohan) 历史贡献积分：1 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
-|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|校对|1|
+|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|校对|1|
 
 ## 译者：[livmortis](https://github.com/livmortis) 历史贡献积分：1 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
-|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|校对|1|
+|[全新 Android 注入器 : Dagger 2 （一）](https://juejin.im/post/5a39f26df265da4324809685)|校对|1|
 
 ## 译者：[corresponding](https://github.com/corresponding) 历史贡献积分：15 当前积分：15
 
@@ -5063,10 +5085,11 @@
 |------|-------|-------|
 |[使用 CSS Grid：以兼容不支持栅格化布局的浏览器](https://juejin.im/post/5a3f494d6fb9a0450a678f8d)|校对|2|
 
-## 译者：[proYang](https://github.com/proYang) 历史贡献积分：4 当前积分：4
+## 译者：[proYang](https://github.com/proYang) 历史贡献积分：5 当前积分：5
 
 |文章|类型|积分|
 |------|-------|-------|
+|7 月推荐前端文章 1 篇|奖励|1|
 |推荐英文文章一篇|奖励|1|
 |[推荐多篇优秀英文文章奖励]()|奖励|3|
 
@@ -5093,7 +5116,7 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3.5|
 |[React & Redux 顶级开发伴侣](https://juejin.im/post/5acae8dc6fb9a028c06b1c4c)|翻译|4|
-|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|翻译|4.5|
+|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|翻译|4.5|
 |[JavaScript 工作原理：Web Worker 的内部构造以及 5 种你应当使用它的场景](https://juejin.im/post/5a90233bf265da4e92683de3)|翻译|8|
 |[在 Redux 中使用 AJAX 轮询](https://juejin.im/post/5a43b6da5188257d167a7aef)|翻译|2|
 |[在 Redux 中使用 AJAX 轮询（二）：Saga 篇](https://juejin.im/post/5a43b80df265da43176a6e4e)|翻译|3|
@@ -5111,10 +5134,10 @@
 |[2018 年 3 月兑 小猫、笔记本、比特币各 1 个]()|减去积分|25|
 |[我们能从 Redux 源码中学到什么？](https://juejin.im/post/5ab3ca926fb9a028d6641605)|校对|1.5|
 |[使用 Web3 和 Vue.js 来创建你的第一个以太坊 dAPP（第一部分）](https://juejin.im/post/5aa7a8d2518825558805128d)|校对|1|
-|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|校对|1.5|
+|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|校对|1.5|
 |[Service workers：Progressive Web Apps 背后的小英雄](https://juejin.im/post/5a9c8c87f265da238c3a23e4)|翻译|3|
 |[v3.1.0：大幅性能提升并支持流媒体服务端渲染](https://juejin.im/post/5a7ff4a56fb9a0635a65600e)|翻译|3|
-|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|翻译|4|
+|[🚀webpack 4 测试版 —— 现在让我们先一睹为快吧!🚀](https://juejin.im/post/5a72d569f265da3e3a6e2118)|翻译|4|
 |[构造函数已死，构造函数万岁！](https://juejin.im/post/5a694be551882573541c8f29)|校对|1|
 |[迎接新的 Dialog 元素](https://juejin.im/post/5a66cc165188257342170802)|翻译|3|
 |[Vue Devtools 4.0 有哪些新内容](https://juejin.im/post/5a676c33f265da3e5b32f43c)|校对|1|
@@ -5231,7 +5254,7 @@
 |[用 Java 创造你的第一个区块链之第二部分 — 交易](https://juejin.im/post/5a940b116fb9a0633757587a)|翻译|6|
 |[从 SQLite 逐步迁移到 Room](https://juejin.im/post/5a8c3a2cf265da4e761fd721)|翻译|2.5|
 |[玩转 Android paths](https://juejin.im/post/5a7c05e7f265da4e7f358cf2)|翻译|5|
-|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|翻译|3|
+|[Android 生命周期备忘录 — 第一部分: 单一 Activities](https://juejin.im/post/5a77c9aef265da4e6f17bd51)|翻译|3|
 |[开发者也是用户 - 简介](https://juejin.im/post/5a6536e6518825734216ff06)|校对|1|
 |[智对订阅难点：教你如何应对工作中 10 种常见订阅问题](https://juejin.im/post/5a406644f265da430d583cb7)|校对|1.5|
 
@@ -5241,7 +5264,7 @@
 |------|-------|-------|
 |[为 APP 设计通知提醒](https://juejin.im/post/5ba31ee3e51d450e4115500b)|校对|3.5|
 |2018 年 9 月兑 Google DIY 纸板音箱 1 个|减去积分|45|
-|[React Native：回顾 Udacity 移动工程团队的使用历程](https://juejin.im/post/5b421b606fb9a04fd15ff802)|翻译送礼|0|
+|[React Native：回顾 Udacity 移动工程团队的使用历程](https://juejin.im/post/5b421b606fb9a04fd15ff802)|翻译|0|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译校对|5|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译|15|
 |[2018 年 2 月兑 树莓派套餐 1 个]()|减去积分|45|
@@ -5435,7 +5458,7 @@
 |[ES6：理解参数默认值的实现细节](https://juejin.im/post/5cd0eab95188251b984d8abe)|校对|1.5|
 |[对 React 组件进行单元测试](https://juejin.im/post/5cb9c62a6fb9a0688d2e4689)|校对|3|
 |[2019 前端工具调研](https://juejin.im/post/5cb800fce51d456e4514f550)|校对|1.5|
-|[Vue.js  —  注意事项和技巧](https://juejin.im/post/5c5c28cf518825627d37060a)|翻译|3.5|
+|[Vue.js  —  注意事项和技巧](https://juejin.im/post/5c5c28cf518825627d37060a)|翻译|3.5|
 |[2018 前端性能优化清单 - 第 2 部分](https://juejin.im/post/5a654e686fb9a01cb42c7894)|校对|2|
 
 ## 译者：[okaychen](https://github.com/okaychen) 历史贡献积分：1 当前积分：1
@@ -5510,7 +5533,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|校对|1.5|
+|[Express.js 与 AWS Lambda  —  一场关于 serverless 的爱情故事](https://juejin.im/post/5aa128cdf265da239b410225)|校对|1.5|
 |[一份为 Node.js 应用准备的 Dockerfile 指南](https://juejin.im/post/5a9626abf265da4e9d225f4f)|校对|1|
 |[为 Django Framework 贡献你的力量并没有想象中的那么难](https://juejin.im/post/5a77cd6e5188257a79247fe1)|校对|1|
 
@@ -5563,10 +5586,11 @@
 |[从 SQLite 逐步迁移到 Room](https://juejin.im/post/5a8c3a2cf265da4e761fd721)|校对|1|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译校对|1.5|
 
-## 译者：[snowyYU](https://github.com/snowyYU) 历史贡献积分：19.5 当前积分：19.5
+## 译者：[snowyYU](https://github.com/snowyYU) 历史贡献积分：29.5 当前积分：29.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[深入理解 CORS：发展史、工作原理和最佳实践](https://juejin.cn/post/6965042086467633166)|翻译|10|
 |[MVC，MVP，MVVM 对比](https://juejin.cn/post/6883088734699388941)|翻译|4|
 |[8 个有用的 SCSS 最佳实践](https://juejin.im/post/6862499761351163911)|翻译|1.5|
 |[2020 年用各大前端框架构建的 RealWorld 应用对比](https://juejin.im/post/5e887c48f265da47f60ea6ce)|翻译|5|
@@ -5652,7 +5676,7 @@
 |[通过集成学习提高机器学习效果](https://juejin.im/post/5c0909d951882548e93806e0)|翻译|5|
 |[如何使用 Dask Dataframes 在 Python 中运行并行数据分析](https://juejin.im/post/5c1feeaf5188257f9242b65c)|翻译|4|
 |[理解编译器 — 从人类的角度（版本 2）](https://juejin.im/post/5c10b2f6e51d452ad958631f)|翻译|5|
-|[我无法想象没有 Git 别名的的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|翻译|4|
+|[我无法想象没有 Git 别名的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|翻译|4|
 |[关于 HTTP/3 的一些心得](https://juejin.im/post/5bfb519ef265da610f636596)|翻译|5|
 |[在远程工作中领悟到的 10 件事](https://juejin.im/post/5bf7a79f51882511a8528cf0)|翻译|4|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|17|
@@ -5671,7 +5695,7 @@
 |[我们是如何高效实现一致性哈希的](https://juejin.im/post/5b5488a96fb9a04fad3a181a)|校对|2|
 |[我如何使用 Node.js 来实现工作自动化](https://juejin.im/post/5b4fe75ef265da0f54052138)|校对|1|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|28|
-|[TensorFlow 官方文档修订](https://github.com/xitu/tensorflow-docs)|修订|8|
+|[TensorFlow 官方文档修订](https://github.com/xitu/tensorflow-docs)|校对|8|
 |[从 Java EE 8 Security API 开始 — 第二部分](https://juejin.im/post/5b3b49d66fb9a04f8a2160a9)|翻译|4.5|
 |[通过 SSH 远程使用 Python 解释器来运行 Flask](https://juejin.im/post/5b3e25a8e51d45191716d187)|翻译|4|
 |[我是如何从零开始建立一个网络爬虫来实现我的求职自动化的](https://juejin.im/post/5b3b40896fb9a04f9e22e927)|翻译|4|
@@ -5731,7 +5755,7 @@
 |[开始设计动画的九个步骤](https://juejin.im/post/5aa1f965f265da23994e1e1f)|校对|1|
 |[设计研究的 9 条规则](https://juejin.im/post/5aa6958a5188255587233477)|校对|2|
 |[产品设计的环状循环](https://juejin.im/post/5aa74b32f265da23a4047aef)|校对|1|
-|[Flutter — 五个你会爱上它的原因](https://juejin.im/post/5a9e7e89f265da2381552542)|校对|1.5|
+|[Flutter — 五个你会爱上它的原因](https://juejin.im/post/5a9e7e89f265da2381552542)|校对|1.5|
 |[如何在中国使用 Flutter](https://juejin.im/post/5a9f730c6fb9a028d2077ad4)|校对|0.5|
 |[Elasticsearch Reference Getting Start](https://juejin.im/post/5aa0b13af265da238b7d92f7)|校对|0.5|
 |[将项目迁移到 Python 3](https://juejin.im/post/5a9e3ff06fb9a028d2077434)|翻译|6|
@@ -5892,10 +5916,11 @@
 |[如何修改域名来提高国际增长率](https://juejin.im/post/5aaf0542f265da239530c653)|校对|1|
 |[开始设计动画的九个步骤](https://juejin.im/post/5aa1f965f265da23994e1e1f)|校对|1|
 
-## 译者：[talisk](https://github.com/talisk) 历史贡献积分：48 当前积分：25
+## 译者：[talisk](https://github.com/talisk) 历史贡献积分：54 当前积分：31 二零二二：6
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Flutter 的状态管理方案：setState、BLoC、ValueNotifier、Provider](https://juejin.cn/post/7079080839002193928)|翻译|6|
 |[用户需要什么样的 Flutter 依赖包? 来自 Q2 用户调查的结果](https://juejin.im/post/5d6cc5976fb9a06b112ad801)|校对|2.5|
 |[深入理解 Python 类型提示](https://juejin.im/post/5d64905fe51d4561fd6cb50f)|校对|3.5|
 |2019 年 7月推荐英文文章七篇奖励 7 分|奖励|7|
@@ -6009,7 +6034,7 @@
 |2020 年 1 月推荐文章 1 篇|奖励|1|
 |2019 年 10 至 12 月推荐文章 5 篇|奖励|5|
 |[深入解析 Flutter Provider 包](https://juejin.im/post/5e01a677518825124c50e99d)|翻译|6.5|
-|[类型及其在参数中的应用：能优化代码的的 Dart 特性](https://juejin.im/post/5dea0a4551882512252db2d7)|翻译|3|
+|[类型及其在参数中的应用：能优化代码的 Dart 特性](https://juejin.im/post/5dea0a4551882512252db2d7)|翻译|3|
 |[设计离线优先的网络应用](https://juejin.im/post/5dd608eef265da47f12cb018)|翻译|4.5|
 |[JavaScript 的发布者/订阅者（Publisher/Subscriber）模式](https://juejin.im/post/5dbff49ff265da4d3761dd27)|翻译|3|
 |[关于现代应用样式的探讨](https://juejin.im/post/5db93b67f265da4d417648a1)|翻译|13|
@@ -6133,10 +6158,14 @@
 |[使用 Swift 实现原型动画](https://juejin.im/post/5ae28a9b6fb9a07aaa10fa1e)|校对|2|
 |[不使用 fastlane 实现持续交付的 5 种选项](https://juejin.im/post/5acf47cb6fb9a028c523944c)|翻译|5|
 
-## 译者：[luochen1992](https://github.com/luochen1992) 历史贡献积分：67.5 当前积分：22.5 二零二一：6
+## 译者：[luochen1992](https://github.com/luochen1992) 历史贡献积分：76.5 当前积分：31.5 二零二二：9
 
 |文章|类型|积分|
 |------|-------|-------|
+|[作为一名前端工程师我浪费时间学习了这些技术](https://juejin.cn/post/7086019601372282888)|校对|1.5|
+|[5 个有趣的原因告诉你：找对象就得找程序员！](https://juejin.cn/post/7053326045352558599)|校对|2|
+|[如何使用 Python 构建 GUI 程序](https://juejin.cn/post/7055662437315379231)|校对|1.5|
+|[HTTP/3 为什么这么快？](https://juejin.cn/post/7055178022445383694)|校对|4|
 |[DeepSpeed：所有人都能用的超大规模模型训练工具](https://juejin.cn/post/6916500899577724942)|校对|6|
 |[Python List 使用注意事项](https://juejin.cn/post/6886633614717485070)|校对|2|
 |[通过“四不要”掌握 Python 中的 Lambda 函数](https://juejin.cn/post/6883389756269395975)|校对|1|
@@ -6276,7 +6305,7 @@
 |[用户体验中的稀缺性：成为常态的心理偏见](https://juejin.im/post/5aef0943518825672a02d2ca)|校对|1.5|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|2|
 
-## 译者：[sisibeloved](https://github.com/sisibeloved) 历史贡献积分：85 当前积分：85 二零二一：0
+## 译者：[sisibeloved](https://github.com/sisibeloved) 历史贡献积分：85 当前积分：85
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -6529,11 +6558,12 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|6|
 |[部署！=发布（第二部分）](https://juejin.im/post/5b03d4ac6fb9a07a9d70ab5f)|翻译|3|
 
-## 译者：[shisaq](https://github.com/shisaq) 历史贡献积分：2.5 当前积分：2.5
+## 译者：[shisaq](https://github.com/shisaq) 历史贡献积分：4 当前积分：4
 
 |文章|类型|积分|
 |------|-------|-------|
 |[WWDC 2018：关于iOS 12、iPad Pro、新MacBooks或者更多产品的所有预测](https://juejin.im/post/5b056d485188256710601ecc)|校对|2.5|
+|[通过 SSH 远程使用 Python 解释器来运行 Flask](https://juejin.im/post/5b3e25a8e51d45191716d187)|校对|1.5|
 
 ## 译者：[xxholly32](https://github.com/xxholly32) 历史贡献积分：2.5 当前积分：2.5
 
@@ -6578,10 +6608,11 @@
 |[使用 styled-components 的 React 服务器端渲染极简指南](https://juejin.im/post/5b0f9a4c51882515791502d0)|校对|0.5|
 |[新的 CSS 特性正在改变网页设计](https://juejin.im/post/5b0cae8c6fb9a009de14c833)|校对|1.5|
 
-## 译者：[elliott-zhao](https://github.com/elliott-zhao) 历史贡献积分：35 当前积分：35
+## 译者：[elliott-zhao](https://github.com/elliott-zhao) 历史贡献积分：47 当前积分：47
 
 |文章|类型|积分|
 |------|-------|-------|
+|[为什么我还在用Lisp（而且你也应该用）](https://juejin.cn/post/6935225210278772766)|翻译|12|
 |[使用 Web Beacon API 记录活动](https://juejin.im/post/5b694b5de51d4519700fa56a)|翻译|5|
 |[通过插图学习 Go 的并发](https://juejin.im/post/5b2cd078e51d4558b70ca399)|翻译|4.5|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3.5|
@@ -6594,7 +6625,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|1|
+|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|1|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|8|
 |[使用 styled-components 的 React 服务器端渲染极简指南](https://juejin.im/post/5b0f9a4c51882515791502d0)|校对|1.5|
 
@@ -6653,7 +6684,7 @@
 |[使用 Flutter 制作 3D 翻转动画](https://juejin.im/post/5b5534c951882562b9248294)|校对|1|
 |[在 Flutter 中实现微光闪烁效果](https://juejin.im/post/5b552d516fb9a04fc9374978)|翻译|3.5|
 |[如何用 Flutter 来创建一个带有底部导航栏的应用程序](https://juejin.im/post/5b4862f56fb9a04f9c43b218)|翻译|5|
-|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|翻译|6|
+|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|翻译|6|
 |[如何使用 Python 和 BeautifulSoup 抓取网站内容](https://juejin.im/post/5b74fcec51882561446fb97f)|翻译|3.5|
 |[如何使用 Pandas 重写你的 SQL 查询以及其他操作](https://juejin.im/post/5b5e5b2ee51d4517df1510c7)|翻译|6|
 |[我如何使用 Node.js 来实现工作自动化](https://juejin.im/post/5b4fe75ef265da0f54052138)|翻译|3|
@@ -6783,7 +6814,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|修订文章性能指标都是些什么鬼？|修订|3|
+|文章性能指标都是些什么鬼？|校对|3|
 
 ## 译者：[Yuhanlolo](https://github.com/Yuhanlolo) 历史贡献积分：14.5 当前积分：14.5
 
@@ -6836,10 +6867,11 @@
 |[苹果公司如何修复 3D Touch](https://juejin.im/post/5b35e5886fb9a00e3642724f)|校对|0.5|
 |[怎样使用简单的三角函数来创建更好的加载动画](https://juejin.im/post/5b33055f518825748871c590)|校对|1|
 
-## 译者：[JackEggie](https://github.com/JackEggie) 历史贡献积分：59.5 当前积分：59.5
+## 译者：[JackEggie](https://github.com/JackEggie) 历史贡献积分：64.5 当前积分：64.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[为什么我还在用Lisp（而且你也应该用）](https://juejin.cn/post/6935225210278772766)|校对|5|
 |[使用因果分析优化 Go HTTP/2 服务器](https://juejin.im/post/5dc3e5faf265da4d144e86c2)|翻译|3.5|
 |[为什么你要学习 Go？](https://juejin.im/post/5d6ce211f265da03cd0a99be)|校对|2|
 |[数据分片是如何在分布式 SQL 数据库中起作用的](https://juejin.im/post/5d42867a6fb9a06ac76d915d)|校对|2.5|
@@ -6860,7 +6892,7 @@
 |[如何用 Python 从零开始构建你自己的神经网络](https://juejin.im/post/5c7a478c518825787e6a0f67)|翻译|4|
 |[从 Java EE 8 Security API 开始 — 第一部分](https://juejin.im/post/5b35a8d4f265da599423598b)|校对|3|
 
-## 译者：[cf020031308](https://github.com/cf020031308) 历史贡献积分：56 当前积分：33 二零二一：6
+## 译者：[cf020031308](https://github.com/cf020031308) 历史贡献积分：56 当前积分：33
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -6890,7 +6922,7 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|10|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3.5|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3.5|
-|[修订 The JavaScript Tutorial](https://github.com/xitu/javascript-tutorial-zh/pull/151)|修订|1|
+|[修订 The JavaScript Tutorial](https://github.com/xitu/javascript-tutorial-zh/pull/151)|校对|1|
 
 ## 译者：[ssshooter](https://github.com/ssshooter) 历史贡献积分：62 当前积分：2
 
@@ -6926,13 +6958,7 @@
 |------|-------|-------|
 |[将项目迁移到 Yarn 然后又迁回到 npm](https://juejin.im/post/5b3b5735f265da0f894b443d)|校对|1.5|
 
-## 译者：[shisaq](https://github.com/shisaq) 历史贡献积分：1.5 当前积分：1.5
-
-|文章|类型|积分|
-|------|-------|-------|
-|[通过 SSH 远程使用 Python 解释器来运行 Flask](https://juejin.im/post/5b3e25a8e51d45191716d187)|校对|1.5|
-
-## 译者：[yqian1991](https://github.com/yqian1991) 历史贡献积分：52.5 当前积分：52.5 二零二一：5
+## 译者：[yqian1991](https://github.com/yqian1991) 历史贡献积分：52.5 当前积分：52.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -7009,7 +7035,7 @@
 |[当你创建 Flexbox 布局时，都发生了什么](https://juejin.im/post/5bb9740de51d450e782647ed)|校对|4.5|
 |[用 30 分钟建立一个网站的方式来学习 Bootstrap 4](https://juejin.im/post/5b5eb7b2e51d451989055d9d)|校对|3.5|
 |[无头渲染组件](https://juejin.im/post/5b5e919f51882519d3467f41)|校对|1|
-|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|2|
+|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|2|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|2.5|
 
 ## 译者：[xutaogit](https://github.com/xutaogit) 历史贡献积分：67 当前积分：60
@@ -7172,7 +7198,7 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|5|
 |[使用原生 JavaScript 构建状态管理系统](https://juejin.im/post/5b763528e51d45559e3a5b64)|校对|3|
 |[ECMAScript 修饰器微指南](https://juejin.im/post/5b543d8af265da0f4a4e711f)|校对|2|
-|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|1|
+|[让我们一起解决“this”难题  —  第二部分](https://juejin.im/post/5b6915cce51d4519962f0ca7)|校对|1|
 
 ## 译者：[Gavin-Gong](https://github.com/Gavin-Gong) 历史贡献积分：26 当前积分：26
 
@@ -7198,10 +7224,14 @@
 |[一行 JavaScript 代码竟然让 FT.com 网站慢了十倍](https://juejin.im/post/5b7bb6dfe51d4538bf55aa5f)|校对|1|
 |[使用 Web Beacon API 记录活动](https://juejin.im/post/5b694b5de51d4519700fa56a)|校对|1|
 
-## 译者：[YueYongDev](https://github.com/YueYongDev) 历史贡献积分：105.5 当前积分：70.5
+## 译者：[YueYongDev](https://github.com/YueYongDev) 历史贡献积分：142 当前积分：107 二零二二：23.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[如何使用 Python 构建 GUI 程序](https://juejin.cn/post/7055662437315379231)|翻译|3.5|
+|[SpringBoot 微服务监控](https://juejin.cn/post/7056817945787236389)|翻译|20|
+|[通过 Redis 构建一个响应式架构](https://juejin.cn/post/6996660780389122062)|翻译|8|
+|[JetPack Compose for Desktop 初体验](https://juejin.cn/post/6988811890780536839)|翻译|5|
 |[5 分钟内从单体架构迁移到微服务架构](https://juejin.cn/post/6900884077226917901)|翻译|5|
 |[在几秒钟内为你的开发环境创建一个私有 PostgreSQL 数据库](https://juejin.cn/post/6899674625325105159)|翻译|8|
 |[从头开始到最初的 10 个客户：我是如何设计并推出一个 SaaS 产品](https://juejin.im/post/6860850397293232141)|翻译|12|
@@ -7251,7 +7281,7 @@
 |[X 为啥不是 hook？](https://juejin.im/post/5c6ca856f265da2dce1f3af9)|校对|2|
 |2019 年 1 月兑 树莓派大套装 1 个|减去积分|70|
 |推荐优秀英文文章三篇|奖励|3|
-|[我无法想象没有 Git 别名的的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|校对|2|
+|[我无法想象没有 Git 别名的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|校对|2|
 |[柯里化与函数组合](https://juejin.im/post/5c1a0d516fb9a049d05daee9)|翻译|6|
 |[写给 React 开发者的自定义元素指南](https://juejin.im/post/5c0873a8e51d451de96890dc)|翻译|4|
 |[如何让高效的代码评审成为一种文化](https://juejin.im/post/5bfc9ff9e51d454b6c371f5d)|翻译|5|
@@ -7303,10 +7333,12 @@
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译校对|8|
 |[用 Scikit-Learn 实现 SVM 和 Kernel SVM](https://juejin.im/post/5b7fd39af265da43831fa136)|校对|2|
 
-## 译者：[TrWestdoor](https://github.com/TrWestdoor) 历史贡献积分：45.5 当前积分：22.5 二零二一：2.5
+## 译者：[TrWestdoor](https://github.com/TrWestdoor) 历史贡献积分：54.5 当前积分：31.5 二零二二：5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[用 Python 完成猎词游戏：字典树](https://juejin.cn/post/7109305485483835428)|翻译|5|
+|[如何利用隐语义模型在图数据库中构建推荐系统](https://juejin.cn/post/6925019556108828685)|校对|4|
 |[Elasticsearch 新手指南](https://juejin.cn/post/6913725535717851144)|校对|2.5|
 |2020 年 10 月 兑换 鼠标垫 1 个|减去积分|13|
 |[人工智能何以留存](https://juejin.im/post/5d4c1155e51d4562061159d1)|校对|2|
@@ -7323,7 +7355,7 @@
 |[无容器下的云计算](https://juejin.im/post/5c24800a518825673b02dcfe)|翻译|5.5|
 |[通过集成学习提高机器学习效果](https://juejin.im/post/5c0909d951882548e93806e0)|校对|1.5|
 |[支持向量机（SVM） 教程](http://5a77c24cf265da4e747f92e8/)|校对|3.5|
-|[我无法想象没有 Git 别名的的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|校对|1.5|
+|[我无法想象没有 Git 别名的场景](https://juejin.im/post/5c207bd4e51d452b7b032cf6)|校对|1.5|
 |[TensorFlow 官方文档翻译](https://github.com/xitu/tensorflow-docs)|翻译校对|3|
 |[鲜为人知的数据科学 Python 库](https://juejin.im/post/5c075e09518825159512715f)|校对|1|
 |[使用递归神经网络（LSTMs）对时序数据进行预测](https://juejin.im/post/5bf8a70cf265da61776ba1dc)|校对|2.5|
@@ -7442,11 +7474,12 @@
 |------|-------|-------|
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|3|
 
-## 译者：[DerekTso](https://github.com/DerekTso) 历史贡献积分：3 当前积分：3
+## 译者：[DerekTso](https://github.com/DerekTso) 历史贡献积分：4 当前积分：4
 
 |文章|类型|积分|
 |------|-------|-------|
 |推荐多篇优秀英文文章|奖励|3|
+|推荐优秀英文文章|奖励|1|
 
 ## 译者：[samt42](https://github.com/samt42) 历史贡献积分：1 当前积分：1
 
@@ -7550,10 +7583,13 @@
 |[The JavaScript Tutorial 翻译](https://github.com/xitu/javascript-tutorial-en)|翻译校对|7|
 |[我在阅读 MDN 时发现的 3 个 Input 元素属性](https://juejin.im/post/5bbc6f035188255c5d56b160)|校对|1|
 
-## 译者：[haiyang-tju](https://github.com/haiyang-tju) 历史贡献积分：90 当前积分：90
+## 译者：[haiyang-tju](https://github.com/haiyang-tju) 历史贡献积分：99.5 当前积分：99.5 二零二二：6.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Android 开发中的 SQLDelight 入门](https://juejin.cn/post/7111246458895990792)|校对|1.5|
+|[什么是移动端 DevOps，为什么值得你关注？](https://juejin.cn/post/7113577700543397918)|校对|5|
+|[恋爱 5 年的消息看起来是什么样](https://juejin.cn/post/6944711045449515038)|校对|3|
 |[如何用 Keras 从头搭建一维生成对抗网络](https://juejin.im/post/5dcf5aba6fb9a0203161f376)|校对|7|
 |[从 Instagram 上的故事和反馈机器学习中收获的一些经验](https://juejin.im/post/5c683dfce51d45164c7599fb)|校对|2|
 |[提取图像中的文字、人脸或者条形码 — 形状检测 API](https://juejin.im/post/5c64026fe51d457f963d249c)|校对|1.5|
@@ -7579,12 +7615,6 @@
 |------|-------|-------|
 |[如何组织 Hacktoberfest 主题聚会](https://juejin.im/post/5bbc150be51d450e6867be7a)|校对|2|
 
-## 译者：[DerekTso](https://github.com/DerekTso) 历史贡献积分：1 当前积分：1
-
-|文章|类型|积分|
-|------|-------|-------|
-|推荐优秀英文文章|奖励|1|
-
 ## 译者：[Augustwuli](https://github.com/Augustwuli) 历史贡献积分：33 当前积分：33
 
 |文章|类型|积分|
@@ -7603,17 +7633,20 @@
 |[以面试官的角度来看 React 工作面试](https://juejin.im/post/5bca74cfe51d450e9163351b)|校对|1.5|
 |[你需要知道的所有 Flexbox 排列方式](https://juejin.im/post/5bc728f2f265da0aef4e3f6d)|校对|3.5|
 
-## 译者：[Ivocin](https://github.com/Ivocin) 历史贡献积分：77.5 当前积分：77.5
+## 译者：[Ivocin](https://github.com/Ivocin) 历史贡献积分：78.5 当前积分：33.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|兑换 1 套徽章|减去积分|25|
+|兑换 1 个鼠标垫|减去积分|20|
+|[我后悔没有在自己成为 React 开发者之前做的 6 件事情](https://juejin.cn/post/6934144158332354567)|校对|1|
 |[为什么我用 JavaScript 来编写 CSS](https://juejin.im/post/5c8878b7f265da2deb6ae6f2)|翻译|2|
 |[Hooks 对 Vue 而言意味着什么](https://juejin.im/post/5c7784d5f265da2de713629c)|翻译|4|
 |[2019 前端性能优化年度总结 — 第四部分](https://juejin.im/post/5c56345951882524b77b9f20)|翻译|13|
 |[2019 前端性能优化年度总结 — 第二部分](https://juejin.im/post/5c47232b6fb9a049f8199ee2)|校对|3|
 |[2018 前端全面回顾](https://juejin.im/post/5c3eba70e51d4542253fd489)|翻译|8.5|
 |[UX 设计实践：如何设计可扫描的 Web 界面](https://juejin.im/post/5c34af846fb9a049a42f39d8)|翻译|5.5|
-|推荐一篇英文文章|奖励积分|1|
+|推荐一篇英文文章|奖励|1|
 |[一份关于色彩无障碍性产品设计的指南](https://juejin.im/post/5c2c233d6fb9a049bd4266b7)|校对|1|
 |[快速原型设计的新手指南](https://juejin.im/user/585b9407da2f6000657a5c0c)|校对|2.5|
 |[5 款工具助力 React 快速开发](https://juejin.im/post/5c242e3f51882573d90678ad)|翻译|4.5|
@@ -7666,13 +7699,13 @@
 |------|-------|-------|
 |[苹果公司如何颠覆瑞士制表业](https://juejin.im/post/5bdc1f3c6fb9a049a9792211)|校对|2|
 |[如何停止使用 console.log() 并开始使用浏览器调试代码](https://juejin.im/post/5bd7cde4f265da0a96251de3)|校对|1.5|
-|推荐优秀英文文章一篇|奖励积分|1|
+|推荐优秀英文文章一篇|奖励|1|
 
 ## 译者：[stonehank](https://github.com/stonehank) 历史贡献积分：1 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
-|修订 https://github.com/xitu/gold-miner/pull/4670|奖励积分|1|
+|校对 https://github.com/xitu/gold-miner/pull/4670|奖励|1|
 
 ## 译者：[Justin-Wong](https://github.com/Justin-Wong) 历史贡献积分：3 当前积分：3
 
@@ -7754,7 +7787,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|修订文章 https://github.com/xitu/gold-miner/pull/4753|奖励|2|
+|校对文章 https://github.com/xitu/gold-miner/pull/4753|奖励|2|
 
 ## 译者：[nanjingboy](https://github.com/nanjingboy) 历史贡献积分：75 当前积分：55
 
@@ -7882,7 +7915,7 @@
 |[避免那些可恶的 "cannot read property of undefined" 错误](https://juejin.im/post/5c810170e51d450a453fb48e)|翻译|3|
 |[写给 React 开发者的自定义元素指南](https://juejin.im/post/5c0873a8e51d451de96890dc)|校对|3|
 
-## 译者：[newraina](https://github.com/newraina) 历史贡献积分：14 当前积分：14 二零二一：1
+## 译者：[newraina](https://github.com/newraina) 历史贡献积分：14 当前积分：14
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -7938,7 +7971,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[Android 生命周期备忘录 — 第三部分：Fragments](https://juejin.im/post/5ca3517a6fb9a05e462b967a)|翻译|2.5|
+|[Android 生命周期备忘录 — 第三部分：Fragments](https://juejin.im/post/5ca3517a6fb9a05e462b967a)|翻译|2.5|
 |[用长短期记忆网络预测股票市场（使用 Tensorflow）](https://juejin.im/post/5c8114de51882540a830b910)|翻译|9|
 |[转化通用安卓音乐播放器为 instant 应用](https://juejin.im/post/5c89d2e05188257e1f292958)|校对|1|
 |[如何学习 CSS](https://juejin.im/post/5c74daaaf265da2d9d1cb774)|校对|2|
@@ -7954,14 +7987,14 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[Android 数据绑定库  — 从可观察域到 LiveData 仅需两步](https://juejin.im/post/5d12d76cf265da1b8b2b6d6e)|翻译|2|
+|[Android 数据绑定库  — 从可观察域到 LiveData 仅需两步](https://juejin.im/post/5d12d76cf265da1b8b2b6d6e)|翻译|2|
 |[WorkManager 基础入门](https://juejin.im/post/5ce4da6a6fb9a07ea712e712)|翻译|8|
 |推荐英文文章一篇|奖励|1|
 |[Workmanager 简介](https://juejin.im/post/5ca3463bf265da308939f9b1)|翻译|3|
 |[在 Android 应用中使用矢量资源](https://juejin.im/post/5c943c97e51d45288201a30c)|校对|1|
 |[曝光！UX 行话大全](https://juejin.im/post/5c9f5c49e51d451b8a2af27b)|校对|1|
 |推荐英文文章一篇|奖励|1|
-|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|翻译|2|
+|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|翻译|2|
 |[2019 区块链平台与技术展望](https://juejin.im/post/5c613e6e6fb9a049e4132ba5)|翻译|8.5|
 |[Android 上一次编写，到处测试](https://juejin.im/post/5c32cbc9f265da611d66d14e)|翻译|2|
 |2019 年 1 月兑掘金桌垫 1 个|减去积分|10|
@@ -7976,7 +8009,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[格子拼贴 — 关于模块化的故事](https://juejin.im/post/5c31e7aee51d4543805e6a96)|翻译+校对|8|
+|[格子拼贴 — 关于模块化的故事](https://juejin.im/post/5c31e7aee51d4543805e6a96)|翻译校对|8|
 |[如何使用 Dask Dataframes 在 Python 中运行并行数据分析](https://juejin.im/post/5c1feeaf5188257f9242b65c)|校对|1.5|
 
 ## 译者：[ZyGan1999](https://github.com/ZyGan1999) 历史贡献积分：1.5 当前积分：1.5
@@ -7991,7 +8024,7 @@
 |------|-------|-------|
 |[依赖注入在多模块工程中的应用](https://juejin.im/post/5cc15dae5188252dcf5d4c68)|校对|1|
 |[Android 生命周期备忘录 —— 第四部分：ViewModels、半透明 Activities 及启动模式](https://juejin.im/post/5caeccb2f265da037418674a)|翻译|2|
-|[Android 生命周期备忘录 — 第三部分：Fragments](https://juejin.im/post/5ca3517a6fb9a05e462b967a)|校对|1|
+|[Android 生命周期备忘录 — 第三部分：Fragments](https://juejin.im/post/5ca3517a6fb9a05e462b967a)|校对|1|
 |2019 年 3 月兑掘金桌垫 1 个|减去积分|13|
 |[绘制路径：Android 中矢量图渲染](https://juejin.im/post/5c75e73051882562ea724cd4)|翻译|4|
 |[Android 上一次编写，到处测试](https://juejin.im/post/5c32cbc9f265da611d66d14e)|校对|1.5|
@@ -8013,14 +8046,14 @@
 |------|-------|-------|
 |[JavaScript ES2021 中激动人心的特性](https://juejin.cn/post/6892246810250477575)|翻译|2|
 |[TypeScript：一个好泛型的价值](https://juejin.im/post/6878868818836488205)|翻译|6|
-|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|翻译|3|
+|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|翻译|3|
 |[VueJS 中更好的组件组合方式](https://juejin.im/post/6875236830984437768)|翻译|3|
 |[Vue 应用的代码覆盖率](https://juejin.im/post/6872653403177254919)|翻译|4|
 |[如何处理 JavaScript 比较中的临界情况](https://juejin.im/post/6872682987859738632)|翻译|4.5|
 |[世界比以往任何时候都更需要 Web 可访问性](https://juejin.im/post/6872684910058930189)|翻译|5|
 |[无容器下的云计算](https://juejin.im/post/5c24800a518825673b02dcfe)|校对|2.5|
 
-## 译者：[SHERlocked93](https://github.com/SHERlocked93) 历史贡献积分：36 当前积分：36 二零二一：1
+## 译者：[SHERlocked93](https://github.com/SHERlocked93) 历史贡献积分：36 当前积分：36
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -8037,7 +8070,7 @@
 |推荐六篇英文文章|奖励|6|
 |[2019 前端性能优化年度总结 — 第一部分](https://juejin.im/post/5c4418006fb9a049c043545e)|校对|4|
 |[讨论 JS ⚡：文档](https://juejin.im/post/5c4039bbe51d4551733494a6)|校对|2|
-|推荐五篇英文文章|奖励积分|3|
+|推荐五篇英文文章|奖励|3|
 
 ## 译者：[chausson](https://github.com/chausson) 历史贡献积分：2 当前积分：2
 
@@ -8255,7 +8288,7 @@
 |------|-------|-------|
 |[React Native 中那些令我收获颇丰的痛点](https://juejin.im/post/5c74d6a16fb9a049f06ae907)|翻译|5|
 |[介绍一款使用 Flutter 编写的 Flutter 组件、应用生成器](https://juejin.im/post/5c732e8ff265da2d8e70ed36)|翻译|3|
-|[Vue.js  —  注意事项和技巧](https://juejin.im/post/5c5c28cf518825627d37060a)|校对|1|
+|[Vue.js  —  注意事项和技巧](https://juejin.im/post/5c5c28cf518825627d37060a)|校对|1|
 |[Webpack 4 的故事以及如何用正确的方式去最终配置它【更新版】](https://juejin.im/post/5c612ba351882562ea721b39)|校对|3|
 |[2019 CSS 新属性“连字符”初探](https://juejin.im/post/5c612cfee51d4501515c8edf)|翻译|2.5|
 |[Vue Router 实战手册](https://juejin.im/post/5c62ab05f265da2da83555a0)|校对|1.5|
@@ -8287,7 +8320,7 @@
 |[用 Apache Shiro 来强化一个 Spring Boot 应用](https://juejin.im/post/5c9f60c7e51d451cf929305d)|校对|1.5|
 |[数字产品为人们授权的时代已来](https://juejin.im/post/5c7e50236fb9a04a0e2deffa)|翻译|5|
 |[转化通用安卓音乐播放器为 instant 应用](https://juejin.im/post/5c89d2e05188257e1f292958)|翻译|2|
-|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|校对|0.5|
+|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|校对|0.5|
 |[Node.js 基础知识: 没有依赖关系的 Web 服务器](https://juejin.im/post/5c88a6855188257b0b126564)|翻译|4|
 |[为什么我用 JavaScript 来编写 CSS](https://juejin.im/post/5c8878b7f265da2deb6ae6f2)|校对|0.5|
 |[避免那些可恶的 "cannot read property of undefined" 错误](https://juejin.im/post/5c810170e51d450a453fb48e)|校对|1|
@@ -8385,10 +8418,11 @@
 |------|-------|-------|
 |[谷歌迈出了消除 URL 的第一步](https://juejin.im/post/5c643cb7e51d450dfc6eec1e)|校对|1|
 
-## 译者：[iceytea](https://github.com/iceytea) 历史贡献积分：46.5 当前积分：28.5
+## 译者：[acev-online](https://github.com/acev-online) 历史贡献积分：50.5 当前积分：32.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)|翻译|4|
 |2019 年 4 月 兑换 掘金纪念水杯 1 个、掘金 T 恤白色 1 件、虚拟比特币 1 个|减去积分|18|
 |[8 个有用的 SCSS 最佳实践](https://juejin.im/post/6862499761351163911)|校对|0.5|
 |[如何创建一个可复用的网页爬虫](https://juejin.im/post/6860354555759869966)|校对|1.5|
@@ -8459,10 +8493,12 @@
 |[如何在远程服务器上运行 Jupyter Notebooks](https://juejin.im/post/5cb5e0a9f265da036c577f24)|翻译|4|
 |[数据科学领域十大必知机器学习算法](https://juejin.im/post/5c73bbfff265da2da771d42a)|校对|2|
 
-## 译者：[xionglong58](https://github.com/xionglong58) 历史贡献积分：149 当前积分：0
+## 译者：[xionglong58](https://github.com/xionglong58) 历史贡献积分：153 当前积分：4 二零二二：4
 
 |文章|类型|积分|
 |------|-------|-------|
+|[过度使用懒加载对 Web 性能的影响](https://juejin.cn/post/7074759905197948935)|校对|2|
+|[如何在网页中使用响应式图像](https://juejin.cn/post/7074199947477778439)|校对|2|
 |2020 年 9 月 兑换 树莓派套餐 1 份、小黄鸭 3 只|减去积分|69|
 |[使用 Node.js 控制树莓派 4 的 GPIO](https://juejin.im/post/6868946182325043207)|校对|5|
 |[深入浅出 array.fill() 函数](https://juejin.im/post/5ec783a251882543385d4693)|校对|3|
@@ -8562,10 +8598,11 @@
 |[避免那些可恶的 "cannot read property of undefined" 错误](https://juejin.im/post/5c810170e51d450a453fb48e)|校对|1|
 |[模块化系统中的 event.stopPropagation ()](https://juejin.im/post/5c74a8bef265da2d881b331f)|校对|1.5|
 
-## 译者：[nettee](https://github.com/nettee) 历史贡献积分：45.5 当前积分：45.5
+## 译者：[nettee](https://github.com/nettee) 历史贡献积分：49.5 当前积分：49.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[为什么 Service Mesh 应该淡出人们的视野](https://juejin.cn/post/6949078735404400677)|翻译|4|
 |[如何为求职准备你的 GitHub](https://juejin.im/post/5e1310a8f265da5d7275de8e)|翻译|5|
 |2019 年 11 月推荐文章 1 篇|奖励|1|
 |[动态规划算法的实际应用：接缝裁剪](https://juejin.im/post/5de8b483f265da33d039c618)|翻译|8.5|
@@ -8634,7 +8671,7 @@
 |------|-------|-------|
 |[Google 的 Pagespeed 的工作原理：提升你的分数和搜索引擎排名](https://juejin.im/post/5d36903ce51d4510803ce491)|校对|2|
 |[使用 Swift 5 构建一个 iOS 移动端群聊应用程序](https://juejin.im/post/5d2c6e846fb9a07ebb0564ae)|校对|3|
-|[剖析 Stack Overflow，开发者遇到最多的的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|校对|1.5|
+|[剖析 Stack Overflow，开发者遇到最多的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|校对|1.5|
 |[JavaScript 线性代数：向量](https://juejin.im/post/5cf61bf8e51d45775653674e)|校对|1.5|
 |[自动补全规则](https://juejin.im/post/5cd556ef6fb9a03218556cb7)|校对|1|
 |[Node.js 会永远只是慢的 Golang 吗？](https://juejin.im/post/5cc811fc6fb9a0322415a70d)|校对|1.5|
@@ -8645,7 +8682,7 @@
 |[曝光！UX 行话大全](https://juejin.im/post/5c9f5c49e51d451b8a2af27b)|校对|1|
 |[如何心平气和的阅读代码](https://juejin.im/post/5c9c521b5188252d876e5dcb)|校对|1|
 |推荐英文文章一篇|奖励|1|
-|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|校对|0.5|
+|[Android 生命周期备忘录 — 第二部分：多 Activity](https://juejin.im/post/5c8e018d51882545ca77d857)|校对|0.5|
 |[Java Service 加载器 和 spring Factories 加载器的比较](https://juejin.im/post/5c7fbe52e51d4541e510d282)|校对|2|
 |[Node.js 基础知识: 没有依赖关系的 Web 服务器](https://juejin.im/post/5c88a6855188257b0b126564)|校对|1|
 |[Golang 数据结构：树](https://juejin.im/post/5c8e023351882545eb718c9d)|校对|3|
@@ -8863,7 +8900,7 @@
 |------|-------|-------|
 |[创意运用 Console API！](https://juejin.im/post/5cc1517e5188252e7a0247dd)|校对|2|
 
-## 译者：[Charlo-O](https://github.com/Charlo-O) 历史贡献积分：65.5 当前积分：65.5 二零二一：7
+## 译者：[Charlo-O](https://github.com/Charlo-O) 历史贡献积分：65.5 当前积分：65.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -8963,15 +9000,68 @@
 |[自动补全规则](https://juejin.im/post/5cd556ef6fb9a03218556cb7)|翻译|3|
 |[使用 PyTorch 在 MNIST 数据集上进行逻辑回归](https://juejin.im/post/5cc66d946fb9a032286173a7)|校对|1|
 
-## 译者：[Chorer](https://github.com/Chorer) 历史贡献积分：85 当前积分：65 二零二一：5
+## 译者：[Chorer](https://github.com/Chorer) 历史贡献积分：197.5 当前积分：177.5 二零二二：13
 
 |文章|类型|积分|
 |------|-------|-------|
+|[2021 年 JavaScript 的前景](https://juejin.cn/post/7109458654444650532)|校对|2|
+|[PyScript — 在浏览器中释放 Python 的力量](https://juejin.cn/post/7104639085058211848)|校对|1.5|
+|[你需要了解的 Python 3.10 新特性](https://juejin.cn/post/7089649375692980231)|校对|1.5|
+|[V8 有个非优化的编译阶段去提高性能](https://juejin.cn/post/7088956826263224350)|校对|1.5|
+|[WasmEdge 的安装与卸载](https://github.com/xitu/gold-miner/blob/master/article/2022/Install-and-uninstall-WasmEdge.md)|校对|2|
+|[使用 Python 模拟实现行星际空间旅行](https://juejin.cn/post/7047685861365776414)|校对|2|
+|[2021 年 Node.js 的发展趋势](https://juejin.cn/post/7024755055244869639/)|校对|2.5|
+|8 月推荐前端文章 1 篇|奖励|1|
+|[我们是怎么做到的：Google I/O Photo Booth](https://juejin.cn/post/7001150450854527006)|校对|5|
+|[使用 CDN 构建直读式缓存](https://juejin.cn/post/7001156847176515592)|校对|3.5|
+|[Flutter 比 React Native 更优秀的五个理由](https://juejin.cn/post/6993502936680628238)|校对|3|
+|[CSS 是魔法, 是时候试试 3D 了](https://juejin.cn/post/6989868623196061727)|校对|2.5|
+|[HTTP 严格传输安全协议常见问题解答](https://juejin.cn/post/6987432172512608287)|校对|2|
+|[HEX vs RGB vs HSL：设置 CSS 颜色属性的最佳方法是什么](https://juejin.cn/post/6984720412160557063)|校对|4|
+|[FFmpeg + WebAssembly](https://juejin.cn/post/6987338848023871524)|校对|3|
+|[Chrome 92 DevTools 的新功能](https://juejin.cn/post/6976944954056638495)|校对|2|
+|[用 JavaScript 访问用户设备硬件的新标准](https://juejin.cn/post/6971626604933939231)|校对|2|
+|[下一代 CSS：@container](https://juejin.cn/post/6981456441341132837)|校对|2|
+|[什么是 http/3，为什么它很重要？](https://juejin.cn/post/6969399259246690341)|校对|2|
+|[CSS是编程语言吗？](https://juejin.cn/post/6969040502146465829)|校对|1.5|
+|[Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)|校对|2|
+|[简述自动生成的社交媒体图片](https://juejin.cn/post/6972850971432976392)|校对|2|
+|[16px 或更大的字体大小可以避免 iOS 的表单缩放问题](https://juejin.cn/post/6965814008116936718)|校对|0.5|
+|[深入理解 CORS：发展史、工作原理和最佳实践](https://juejin.cn/post/6965042086467633166)|校对|5|
+|[Web 开发者应该避免的 5 个 CSS 的做法](https://juejin.cn/post/6963252241662738440)|校对|1.5|
+|[将 JavaScript 放到一边 —— 用 Mint 这门强大的语言来创建一个 Web 应用](https://juejin.cn/post/6957506898061066277)|校对|2|
+|[跨站脚本攻击（XSS）](https://juejin.cn/post/6959080994653601806)|校对|2.5|
+|[Chromium 隐私沙盒让用户隐私更安全](https://juejin.cn/post/6958070229956034591)|校对|3|
+|[对产品经理而言的 Web 性能](https://juejin.cn/post/6959992589999144996)|校对|3|
+|[现代 Web 应用程序中的 Web 分享](https://juejin.cn/post/6955824573279371272)|校对|1|
+|[Google 的 Apollo 芯片设计人工智能框架将深度学习芯片的性能提高了 25％](https://juejin.cn/post/6952819856429285407)|校对|2|
+|[Mozilla 对行业最大的贡献是 Rust，而不是火狐浏览器](https://juejin.cn/post/6952819591269580813)|校对|1.5|
+|[没有 UI 团队怎么办？分享 6 款能为独立网页开发者提效的免费工具](https://juejin.cn/post/6951207758997913636)|校对|0.5|
+|[渐进式应用程序 PWA 开始衰落了吗？](https://juejin.cn/post/6953212248760254471)|校对|1|
+|[如何打造一个好的 GitHub 用户档案？](https://juejin.cn/post/6950529817469157384)|校对|2|
+|[1993 年的 CGI 脚本和早期服务端 Web 编程](https://juejin.cn/post/6947898773569962020)|校对|2|
+|[React vs. Vue 谁是 2021 年最佳 JavaScript 框架](https://juejin.cn/post/6944674279141146632)|校对|2.5|
+|[2020 网络年鉴：热门的前端框架依然是互联网的一小部分](https://juejin.cn/post/6944674906684686366)|校对|1.5|
+|[Raspberry Pi 九岁啦：你可能不知道的 9 件事](https://juejin.cn/post/6939451780610654245)|校对|2|
+|[3 种在任何浏览器中使用 CSS 网格的后备方案](https://juejin.cn/post/6939891749665898504)|校对|2.5|
+|[十年可视化开源历程](https://juejin.cn/post/6940078120556822559)|校对|2.5|
+|[Chrome 88 DevTools 中的新功能](https://juejin.cn/post/6938248665219727391)|校对|1|
+|[2021 年 1 月 RedMonk 编程语言排名](https://juejin.cn/post/6937849069721092110)|校对|2.5|
+|[和 Node.js 创始人 Ryan Dahl 的对话](https://juejin.cn/post/6937483576594137096)|校对|2|
+|[实现响应式图像的四种技术策略](https://juejin.cn/post/6938237167189622814)|校对|2.5|
+|[JavaScript Temporal API —— Date API 问题的一个解决方案](https://juejin.cn/post/6938358811908374559)|校对|2.5|
+|[6 个没人讲过的 CSS 属性](https://juejin.cn/post/6937995501719519240)|校对|2|
+|[API、WebSockets 和 WebHooks：究竟应该选谁](https://juejin.cn/post/6938359240880816165)|校对|2|
+|[自适应 CSS 栅格：自由布局的最终版本](https://juejin.cn/post/6935090806210428959)|校对|1|
+|[CSS3 会替代 SCSS 吗？](https://juejin.cn/post/6934326962450071559)|校对|2|
+|[JavaScript 中哪一种循环更快呢？](https://juejin.cn/post/6930973929452339213)|校对|1|
+|[基于 50 万个浏览器指纹的新发现](https://juejin.cn/post/6930974348002590733)|校对|3|
+|[如何在浏览器上使用 NoSQL 数据库 IndexedDB](https://juejin.cn/post/6930883284456964109)|校对|2|
 |[构建设计系统和组件库](https://juejin.cn/post/6924152501805678606)|校对|5|
 |2020 年 8 月 兑换 掘金 T 恤 1 件|减去积分|10|
 |[JavaScript 的面向切面编程](https://juejin.cn/post/6903484050095210509)|校对|2|
 |[我的网站加载时间不到 1 秒，这是我如何做到的！](https://juejin.cn/post/6870329885034807310)|校对|1.5|
-|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|校对|1.5|
+|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|校对|1.5|
 |[使用 JSON.stringify 处理 JavaScript 对象](https://juejin.im/post/6871807169562902541)|校对|1|
 |[JavaScript 函数中一些你不知道的秘密](https://juejin.im/post/6871101056642711559)|校对|3|
 |[加速 vue.js 应用的六种绝技](https://juejin.im/post/6870808442911588365)|校对|3|
@@ -9010,7 +9100,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |2020 年 7 月 兑换 小米台灯 2 个 + 小黄鸭 3 个 + 纪念币 1 个|减去积分|81|
-|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|校对|3|
+|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|校对|3|
 |[用 JavaScript 中的蹦床函数实现安全递归](https://juejin.im/post/5ec3eec2f265da76d318644e)|校对|1|
 |六月推荐前端文章 1 篇|奖励|1|
 |[理解 zip 和 gzip 压缩格式背后的压缩算法](https://juejin.im/post/5ecb7f9651882542f4488845)|校对|3|
@@ -9053,10 +9143,20 @@
 |[在数据可视化中，我们曾经“画”下的那些错误](https://juejin.im/post/5cd39e1de51d453a3a0acb7b)|校对|1.5|
 |[使用 VS Code 调试 Node.js 的超简单方法](https://juejin.im/post/5cce9b976fb9a0322415aba4)|校对|1.5|
 
-## 译者：[Baddyo](https://github.com/Baddyo) 历史贡献积分：235.5 当前积分：35.5
+## 译者：[Baddyo](https://github.com/Baddyo) 历史贡献积分：283.5 当前积分：83.5 二零二二：7.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[PyScript — 在浏览器中释放 Python 的力量](https://juejin.cn/post/7104639085058211848)|校对|1.5|
+|[用 React Native 创建实时医疗应用](https://juejin.cn/post/7063002112925859853)|翻译|6|
+|[2021 年，jQuery 过得还好吗？](https://juejin.cn/post/6992036720783360037)|翻译|4.5|
+|[让 JavaScript 在 WebAssembly 上疾速运行](https://juejin.cn/post/6981685894470172679)|翻译|11|
+|[用 JavaScript 访问用户设备硬件的新标准](https://juejin.cn/post/6971626604933939231)|翻译|4.5|
+|[Chromium 隐私沙盒让用户隐私更安全](https://juejin.cn/post/6958070229956034591)|翻译|7|
+|[使用 GitHub 代码扫描和 CodeQL 工具检测 Solorigate 等后门程序](https://juejin.cn/post/6952677372604710925)|翻译|4|
+|[都 2021 年了，你还不知道这 10 个 CSS 功能？](https://juejin.cn/post/6946231151874801695)|校对|2|
+|[Git 2.31 中的闪光点](https://juejin.cn/post/6944951701942042660)|翻译|5|
+|[新型前端构建工具 Vitejs 开发使用](https://juejin.cn/post/6949544614760185886)|校对|2.5|
 |2020 年 5 月 兑换 Kindle 1 个|减去积分|200|
 |[看我如何把网站性能提升 422%](https://juejin.im/post/5ec793346fb9a0480659d6ef)|翻译|4|
 |[小品 JavaScript Proxy](https://juejin.im/post/5eb8f11de51d454dca710c1f)|翻译|3|
@@ -9168,10 +9268,11 @@
 |[超快速的分析器（一）：优化扫描器](https://juejin.im/post/5ce8cbd9e51d4556bb4cd2f9)|校对|2|
 |推荐英文文章一篇|奖励|1|
 
-## 译者：[wuyanan](https://github.com/wuyanan) 历史贡献积分：5.5 当前积分：5.5
+## 译者：[wuyanan](https://github.com/wuyanan) 历史贡献积分：8 当前积分：8 二零二二：2.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[为什么说 ES2020 的可选链和模块动态导入特性改变了已有的生态规则？](https://juejin.cn/post/7091245306976665613)|校对|2.5|
 |[推广 PWA 安装的模式（移动端）](https://juejin.im/post/5d2746f1f265da1b7638cd1f)|校对|1.5|
 |[为什么我们要切换到 gRPC](https://juejin.im/post/5cff855c518825612f412526)|校对|1|
 |[用 React 的钩子函数和调试工具提升应用性能](https://juejin.im/post/5ce974d76fb9a07f0420250e)|校对|1|
@@ -9197,10 +9298,11 @@
 |[Android中的简易协程：viewModelScope](https://juejin.im/post/5cf35ec76fb9a07ed657bbcd)|翻译|3|
 |[C++ 和 Android 本地 Activity 初探](https://juejin.im/post/5ce62d4851882532e9631b63)|翻译|2|
 
-## 译者：[ZavierTang](https://github.com/ZavierTang) 历史贡献积分：53.5 当前积分：33.5 二零二一：2
+## 译者：[ZavierTang](https://github.com/ZavierTang) 历史贡献积分：55.5 当前积分：35.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[面向 JavaScript 开发人员的 Monads](https://juejin.cn/post/6937537783653203976)|校对|2|
 |[Web 应用缓存的基础知识](https://juejin.cn/post/6913898149740281870)|校对|2|
 |[继承 vs 组合：哪一个更适合你的 JavaScript 项目？](https://juejin.cn/post/6906288659742654478)|校对|2|
 |[页面生命周期 API：每一个前端开发者都应该知道的浏览器 API](https://juejin.cn/post/6906779518040539144)|校对|2|
@@ -9266,7 +9368,7 @@
 |------|-------|-------|
 |[The JavaScript Tutorial 教程](https://github.com/javascript-tutorial/zh.javascript.info)|翻译校对|3|
 
-## 译者：[lycheeEng](https://github.com/lycheeEng) 历史贡献积分：53 当前积分：1
+## 译者：[lycheeEng](https://github.com/lycheeEng) 历史贡献积分：66 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -9311,10 +9413,14 @@
 |[改善 Android Studio 的构建速度](https://juejin.im/post/5d1388b1f265da1b6d403560)|校对|1.5|
 |[揭秘变量提升](https://juejin.im/post/5d026b71518825710d2b1f63)|校对|1.5|
 
-## 译者：[JalanJiang](https://github.com/JalanJiang) 历史贡献积分：105 当前积分：10
+## 译者：[JalanJiang](https://github.com/JalanJiang) 历史贡献积分：120.5 当前积分：25.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[缓存踩踏事件是如何导致 Facebook 最大的宕机事件之一发生的](https://juejin.cn/post/6989528598365339662)|校对|5|
+|[目录遍历攻击](https://juejin.cn/post/6964198482202755108)|校对|1.5|
+|[上手 Python 数据类前需要知道的 6 件事](https://juejin.cn/post/6926815217859559438)|翻译|6|
+|[Python 定义函数的 5 种参数](https://juejin.cn/post/6927094483200770062)|校对|3|
 |2019 年 11 月 兑换 google 套头衫 M 码*1 + 纪念币*1|减去积分|22|
 |2020 年 3 月 兑换 树莓派三 1 个|减去积分|60|
 |2020 年 9 月 兑换 鼠标垫 1 个|减去积分|13|
@@ -9349,7 +9455,7 @@
 |推荐英文文章一篇|奖励|1|
 |[WebSockets 与长轮询的较量](https://juejin.im/post/5d0b1381e51d455a694f9544)|翻译|5|
 |[Python 实现排序算法](https://juejin.im/post/5d1323b6e51d45108b2caeaf)|校对|6.5|
-|[剖析 Stack Overflow，开发者遇到最多的的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|校对|1.5|
+|[剖析 Stack Overflow，开发者遇到最多的 Bug 是哪些？](https://juejin.im/post/5d087a32518825403d14758b)|校对|1.5|
 |[类（Class）与数据结构（Data Structures）](https://juejin.im/post/5d12efe7e51d455c8838e193)|校对|2|
 |[揭秘变量提升](https://juejin.im/post/5d026b71518825710d2b1f63)|校对|2|
 
@@ -9421,7 +9527,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|校对|3|
+|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|校对|3|
 |[数据科学家需要掌握的十种统计技术](https://juejin.im/post/5d42340d6fb9a06ae61a95f5)|校对|4.5|
 |[设计任何图表的六项原则](https://juejin.im/post/5d27fca7f265da1b5e731f92)|校对|2|
 |[利用 84 种认知偏见设计更好的产品 —— 第一部分](https://juejin.im/post/5d2acf995188254c1915bd12)|校对|1.5|
@@ -9457,12 +9563,6 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[The JavaScript Tutorial 教程](https://github.com/javascript-tutorial/zh.javascript.info)|翻译校对|1|
-
-## 译者：[lycheeEng](https://github.com/lycheeEng) 历史贡献积分：13 当前积分：13
-
-|文章|类型|积分|
-|------|-------|-------|
-|[The JavaScript Tutorial 教程](https://github.com/javascript-tutorial/zh.javascript.info)|翻译校对|13|
 
 ## 译者：[MartinsYong](https://github.com/MartinsYong) 历史贡献积分：20 当前积分：20
 
@@ -9577,18 +9677,13 @@
 |[如何使用 Mountebank 和 Node.js 来 Mock 服务](https://juejin.im/post/5dad5a6951882509674032cd)|校对|3|
 |[通过阅读源码提高您的 JavaScript 水平](https://juejin.im/post/5d3c56c26fb9a07efd475414)|校对|1.5|
 
-## 译者：[Fxymine4ever](https://github.com/Fxymine4ever) 历史贡献积分：0 当前积分：0
-
-|文章|类型|积分|
-|------|-------|-------|
-
 ## 译者：[GoToBoy](https://github.com/GoToBoy) 历史贡献积分：1 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
 |推荐前端文章[A Future Without Webpack](https://github.com/xitu/gold-miner/issues/6246)|奖励|1|
 
-## 译者：[todaycoder001](https://github.com/todaycoder001) 历史贡献积分：112.5 当前积分：69.5
+## 译者：[stuchilde](https://github.com/stuchilde) 历史贡献积分：112.5 当前积分：69.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -9635,10 +9730,11 @@
 |[深入理解 Python 类型提示](https://juejin.im/post/5d64905fe51d4561fd6cb50f)|翻译|7|
 |[数据科学家需要掌握的十种统计技术](https://juejin.im/post/5d42340d6fb9a06ae61a95f5)|校对|3|
 
-## 译者：[Fxy4ever](https://github.com/Fxy4ever) 历史贡献积分：7.5 当前积分：7.5
+## 译者：[Fxy4ever](https://github.com/Fxy4ever) 历史贡献积分：9.5 当前积分：9.5 二零二二：2
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Flutter 的状态管理方案：setState、BLoC、ValueNotifier、Provider](https://juejin.cn/post/7079080839002193928)|校对|2|
 |[在你的 Instant 体验中使用 showInstallPrompt 的 5 个技巧](https://juejin.im/post/5dac5bc86fb9a04e1b57fa33)|翻译|4.5|
 |[Android 应用程序的订阅 101 系列视频](https://juejin.im/post/5d490c9ae51d4561e224a2cb)|翻译|3|
 
@@ -9660,7 +9756,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[使用 JavaScript 实现一个高效的 LRU cache](https://juejin.im/post/5ede0b105188254308131319)|校对|6|
-|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|校对|3|
+|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|校对|3|
 |[开发模式的工作原理是什么？](https://juejin.im/post/5d5e6964f265da0391351c59)|校对|3|
 |[动态规划算法的实际应用：接缝裁剪](https://juejin.im/post/5de8b483f265da33d039c618)|校对|3.5|
 |[如何用 Keras 从头搭建一维生成对抗网络](https://juejin.im/post/5dcf5aba6fb9a0203161f376)|翻译|15|
@@ -9695,10 +9791,11 @@
 |------|-------|-------|
 |[React 16 生命周期函数：如何以及何时使用它们](https://juejin.im/post/5d6dfefef265da0391353196)|校对|1|
 
-## 译者：[sin7777](https://github.com/sin7777) 历史贡献积分：3 当前积分：3
+## 译者：[sin7777](https://github.com/sin7777) 历史贡献积分：5.5 当前积分：5.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[3 种在任何浏览器中使用 CSS 网格的后备方案](https://juejin.cn/post/6939891749665898504)|校对|2.5|
 |[现代脚本加载](https://juejin.im/post/5dafdcd45188256b030ad8cf)|校对|1|
 |[如何编写全栈 JavaScript 应用](https://juejin.im/post/5d8ae3a56fb9a04e2902fbf6)|校对|2|
 
@@ -9714,7 +9811,7 @@
 
 |文章|类型|积分|
 |------|-------|-------|
-|[类型及其在参数中的应用：能优化代码的的 Dart 特性](https://juejin.im/post/5dea0a4551882512252db2d7)|校对|1|
+|[类型及其在参数中的应用：能优化代码的 Dart 特性](https://juejin.im/post/5dea0a4551882512252db2d7)|校对|1|
 |[TypeScript 3.7 Beta 版发布](https://juejin.im/post/5db2537d6fb9a0208b11f94f)|校对|3|
 |[如何设计一款讨人喜欢的暗色主题](https://juejin.im/post/5dad4ef1f265da5bb86ad294)|校对|2|
 
@@ -9749,10 +9846,14 @@
 |[设置 git 别名](https://juejin.im/post/5dafc502f265da5b783f1ae1)|校对|1.5|
 |[使用 `import()` 执行 JavaScript 代码](https://juejin.im/post/5dafc573e51d4524bb096393)|校对|1|
 
-## 译者：[Alfxjx](https://github.com/Alfxjx) 历史贡献积分：22 当前积分：22 二零二一：4
+## 译者：[Alfxjx](https://github.com/Alfxjx) 历史贡献积分：39.5 当前积分：39.5 二零二二：6.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[多语言横向对比 Python 有多慢？](https://juejin.cn/post/7073001978929872927)|翻译|4|
+|[使用了三个月的 Github Copilot，这是我的一些看法……](https://juejin.cn/post/7067817036738461732)|校对|2.5|
+|[如何基于 D3.js 使用外部数据源创建图表](https://juejin.cn/post/6931294639609774087)|翻译|5|
+|[Python 类的 6 种替代方案](https://juejin.cn/post/6939715051779522591)|翻译|6|
 |[对象展开运算符在 JavaScript 中的 5 大应用](https://juejin.cn/post/6895525536039174151)|翻译|2|
 |[使用 clamp() 进行响应式设计](https://juejin.cn/post/6890830054134611976)|翻译|2|
 |[TypeScript：一个好泛型的价值](https://juejin.im/post/6878868818836488205)|校对|3|
@@ -9799,16 +9900,45 @@
 |------|-------|-------|
 |[让字母“i”的点动起来的秘密](https://juejin.im/post/5dd7fe84e51d4523564243d5)|校对|1|
 
-## 译者：[jiapengwen](https://github.com/jiapengwen) 历史贡献积分：1.5 当前积分：1.5
+## 译者：[jiapengwen](https://github.com/jiapengwen) 历史贡献积分：4.5 当前积分：4.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[上手 Python 数据类前需要知道的 6 件事](https://juejin.cn/post/6926815217859559438)|校对|3|
 |[为什么自己动手写代码能让你成为更好的开发者](https://juejin.im/post/5de88ed16fb9a016470c151a)|校对|1.5|
 
-## 译者：[PingHGao](https://github.com/PingHGao) 历史贡献积分：91.5 当前积分：26.5
+## 译者：[PingHGao](https://github.com/PingHGao) 历史贡献积分：195.5 当前积分：130.5 二零二二：9.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[设计类和对象的结构型模式](https://juejin.cn/post/7112103577967362084)|校对|4|
+|[停止这样构建你的组件❌](https://juejin.cn/post/7085634227177259022)|校对|2|
+|[你真的了解 Y(A)ML 吗？](https://juejin.cn/post/7021380596077166622/)|校对|3.5|
+|[如何举办一个 TC39 会议](https://github.com/xitu/gold-miner/pull/8734)|翻译|4|
+|[如何做会议记录](https://github.com/xitu/gold-miner/pull/8738)|翻译|6|
+|[如何召开在线会议](https://github.com/xitu/gold-miner/pull/8739)|翻译|6|
+|[如何参与会议](https://github.com/xitu/gold-miner/pull/8735)|翻译|8|
+|[Jetpack Compose：样式和主题（第二部分）](https://juejin.cn/post/6995419287435345934)|校对|2|
+|[常见的社会工程攻击策略](https://juejin.cn/post/6999561784705155102)|校对|5|
+|[Rust 与 C 的速度比较](https://juejin.cn/post/6986521840621453343)|校对|3|
+|[外行人说量子计算机](https://juejin.cn/post/6979953198383497223)|翻译|11|
+|[Jetpack Compose：更简便的 RecyclerView（第一部分）](https://juejin.cn/post/6970858140824764424)|校对|4|
+|[Android 静态分析工具](https://juejin.cn/post/6967219488341098510)|校对|4|
+|[提高 Firefox 在 Linux 上的稳定性](https://juejin.cn/post/6967580662479978504)|校对|2|
+|[走向 kotlin 1.5](https://juejin.cn/post/6961610009096486948)|校对|1|
+|[“绿色”和“棕色”的编程语言](https://juejin.cn/post/6963157486677278757)|校对|3|
+|[Numpy 在 GPU/TPU 上的性能](https://juejin.cn/post/6957526953502982181)|校对|2|
+|[Chromium 隐私沙盒让用户隐私更安全](https://juejin.cn/post/6958070229956034591)|校对|3|
+|[Google 的 Apollo 芯片设计人工智能框架将深度学习芯片的性能提高了 25％](https://juejin.cn/post/6952819856429285407)|翻译|5.5|
+|[Mozilla 对行业最大的贡献是 Rust，而不是火狐浏览器](https://juejin.cn/post/6952819591269580813)|校对|1.5|
+|[解密转置卷积](https://juejin.cn/post/6954678998123151390)|翻译|4|
+|[是时候该罢黜 JPEG，独尊新编码了](https://juejin.cn/post/6951062279760642062)|校对|3|
+|[“高级”黑客使用 11 个零日漏洞去感染 Windows、iOS 还有 Android 用户](https://juejin.cn/post/6945702690047557669)|校对|1|
+|[斯坦福发布 2021 年人工智能指数报告](https://juejin.cn/post/6942769081363726373)|翻译|4|
+|[Git 2.31 中的闪光点](https://juejin.cn/post/6944951701942042660)|校对|2|
+|四月推荐 AI 文章 1 篇|奖励|1|
+|[让机器学习更加公正](https://juejin.cn/post/6941964171974017031)|翻译|4.5|
+|[2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943540695030300708)|校对|4|
 |2020 年 8 月 兑换 掘金鼠标垫 1 个 + 小米台灯 1 个|减去积分|48|
 |2020 年 3 月 兑换 鲁班锁 1 个|减去积分|17|
 |[7 种有用的时间复杂度](https://juejin.im/post/6873379647125553159)|翻译|6.5|
@@ -9918,10 +10048,11 @@
 |[WebRTC 联手 Node.js：打造实时视频聊天应用](https://juejin.im/post/5e0ae59d5188253a5b3ccf74)|校对|4|
 |[如何选择合适的数据库](https://juejin.im/post/5e3c10e6518825494f7de8ff)|校对|2|
 
-## 译者：[Amberlin1970](https://github.com/Amberlin1970) 历史贡献积分：14.5 当前积分：14.5
+## 译者：[Amberlin1970](https://github.com/Amberlin1970) 历史贡献积分：20.5 当前积分：20.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[恋爱 5 年的消息看起来是什么样](https://juejin.cn/post/6944711045449515038)|翻译|6|
 |[8 个值得了解的树形数据结构](https://juejin.im/post/5e7dfd0551882573b7535f23)|翻译|5|
 |[一份数据科学 A/B 测试的简单指南](https://juejin.im/post/5e61b88cf265da57602c5b95)|翻译|5|
 |[图像修复：人类和 AI 的对决](https://juejin.im/post/5e43b2edf265da576543a0bb)|校对|3|
@@ -9932,7 +10063,7 @@
 |文章|类型|积分|
 |------|-------|-------|
 |[使用 Node.js 控制树莓派 4 的 GPIO](https://juejin.im/post/6868946182325043207)|翻译|5|
-|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|翻译|7|
+|[数学编程  ——  一个为推进数据科学发展而培养的关键习惯](https://zhuanlan.zhihu.com/p/100212596)|翻译|7|
 
 ## 译者：[Jiangzhiqi4551](https://github.com/Jiangzhiqi4551) 历史贡献积分：4.5 当前积分：4.5
 
@@ -9975,10 +10106,11 @@
 |[掌握 JavaScript 面试：什么是纯函数？](https://juejin.im/post/5e7f3c3df265da7951664547)|校对|4|
 |4 月推荐 iOS 文章 1 篇|奖励|1|
 
-## 译者：[IAMSHENSH](https://github.com/IAMSHENSH) 历史贡献积分：46.5 当前积分：11.5
+## 译者：[IAMSHENSH](https://github.com/IAMSHENSH) 历史贡献积分：47.5 当前积分：12.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Grafana 为其可视化产品栈新增企业级日志服务](https://juejin.cn/post/6951201259495882788)|校对|1|
 |2020 年 8 月 兑换 小米台灯 1 个|减去积分|35|
 |[前端开发 8 大性能分析工具](https://juejin.im/post/6860664312504320014)|翻译|6|
 |[5 大 JavaScript 字符串操作库](https://juejin.im/post/5eba6becf265da7bb8773420)|翻译|4.5|
@@ -9996,13 +10128,14 @@
 |[2020 年用各大前端框架构建的 RealWorld 应用对比](https://juejin.im/post/5e887c48f265da47f60ea6ce)|校对|2.5|
 |[掌握 JavaScript 面试：什么是纯函数？](https://juejin.im/post/5e7f3c3df265da7951664547)|校对|4|
 
-## 译者：[QinRoc](https://github.com/QinRoc) 历史贡献积分：67 当前积分：67
+## 译者：[QinRoc](https://github.com/QinRoc) 历史贡献积分：70 当前积分：70
 
 |文章|类型|积分|
 |------|-------|-------|
+|[恋爱 5 年的消息看起来是什么样](https://juejin.cn/post/6944711045449515038)|校对|3|
 |[知识的极限](https://juejin.im/post/6874475968325484552)|翻译|6|
 |[异步编程和多线程，我该选择哪个方案？](https://juejin.im/post/6844904168159707150)|校对|3|
-|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|校对|3|
+|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|校对|3|
 |[什么是无障碍？为什它对于用户体验很重要？](https://juejin.im/post/5ebf96a5f265da7b9754dd7d)|翻译|3|
 |[创建一个 Settings icon 的五种方法](https://juejin.im/post/5e9e845be51d454709221d1f)|校对|3|
 |[你理解数据库死锁发生的原因吗？](https://juejin.im/post/5ed9ac93e51d45783f10fd25)|校对|2|
@@ -10030,10 +10163,32 @@
 |------|-------|-------|
 |[Go 发布新版 Protobuf API](https://juejin.im/post/5e83e1176fb9a03c80278e6d)|校对|3|
 
-## 译者：[samyu2000](https://github.com/samyu2000) 历史贡献积分：80.5 当前积分：80.5 二零二一：33.5
+## 译者：[samyu2000](https://github.com/samyu2000) 历史贡献积分：177 当前积分：161 二零二二：27
 
 |文章|类型|积分|
 |------|-------|-------|
+|[你需要了解的 Python 3.10 新特性](https://juejin.cn/post/7089649375692980231)|翻译|3|
+|[使用 RabbitMQ 和 SpringBoot 实现实时消息](https://juejin.cn/post/7092326097597136927)|校对|3.5|
+|[Python 中的运算符重载](https://juejin.cn/post/7090803933202874382)|校对|2|
+|[一些知名算法的应用](https://juejin.cn/post/7095739388813901861)|校对|3.5|
+|[如何在网页中使用响应式图像](https://juejin.cn/post/7074199947477778439)|校对|2|
+|[自动化测试：你应当了解的一切](https://juejin.cn/post/7084071159821500447)|翻译|10|
+|[使用 FastAPI 提升 Python 代码的运行性能](https://juejin.cn/post/7068865005436796958)|校对|3|
+|[我喜欢的微服务间通信模式](https://juejin.cn/post/6984400194615902238)|翻译|10|
+|[探索 ANDROID 12：启动画面](https://juejin.cn/post/6983942336824737822)|校对|5.5|
+|[外行人说量子计算机](https://juejin.cn/post/6979953198383497223)|校对|5|
+|[解密 Java Lambda 表达式](https://juejin.cn/post/6976973764277846023)|翻译|5.5|
+|[使用 GPU.js 让你的 Angular.js 程序提速 10 倍](https://juejin.cn/post/6965657517376569380)|翻译|4|
+|[走向 kotlin 1.5](https://juejin.cn/post/6961610009096486948)|翻译|2.5|
+|[Numpy 在 GPU/TPU 上的性能](https://juejin.cn/post/6957526953502982181)|翻译|4|
+|[解密转置卷积](https://juejin.cn/post/6954678998123151390)|校对|2|
+|[MongoDB 和 MySQL 使用场景分析](https://juejin.cn/post/6949811448767840263)|翻译|6|
+|[2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943540695030300708)|翻译|7|
+|[2021 年需要了解的 34 个 JavaScript 优化技巧](https://juejin.cn/post/6937828220033040415)|翻译|3|
+|[从 RxJava 2 转向使用 Kotlin 流：多线程](https://juejin.cn/post/6944594389180088334)|校对|6|
+|[数据科学中的 9 种距离度量](https://juejin.cn/post/6935265008045686815)|校对|4|
+|2021 年 2 月 兑换 掘金笔记本 2 个|减去积分|16|
+|[如何基于已有的 REST API 实现 GraphQL API](https://juejin.cn/post/6931145990599049223)|翻译|5|
 |[如何让 JavaScript 中的循环慢下来](https://juejin.cn/post/6924512805135581197)|校对|1|
 |[为什么我的数据会漂移？](https://juejin.cn/post/6923824334188314638)|校对|3|
 |[Javascript Memoization 入门指南](https://juejin.cn/post/6920460950424256526)|翻译|5|
@@ -10049,7 +10204,7 @@
 |[JavaScript ES2021 中激动人心的特性](https://juejin.cn/post/6892246810250477575)|校对|1|
 |[Python List 使用注意事项](https://juejin.cn/post/6886633614717485070)|翻译|5|
 |[Python logging 使用指南](https://juejin.im/post/6881981250203353095)|翻译|4.5|
-|[Python 的优化 — 驻留机制](https://juejin.im/post/6875879902902485005)|翻译|3|
+|[Python 的优化 — 驻留机制](https://juejin.im/post/6875879902902485005)|翻译|3|
 |[让神经网络变得更小巧以方便部署](https://juejin.im/post/6873068232505458701)|校对|5|
 |[什么是无障碍？为什它对于用户体验很重要？](https://juejin.im/post/5ebf96a5f265da7b9754dd7d)|校对|1|
 |[你理解数据库死锁发生的原因吗？](https://juejin.im/post/5ed9ac93e51d45783f10fd25)|校对|2|
@@ -10074,10 +10229,12 @@
 |[如何成为一名优秀的远程开发者](https://juejin.im/post/5e9f9f64f265da47f0794a6e)|校对|2|
 |[为什么对象不变性很重要？](https://juejin.im/post/5e96703ef265da47ee3f64bb)|校对|3|
 
-## 译者：[Gesj-yean](https://github.com/Gesj-yean) 历史贡献积分：63 当前积分：27
+## 译者：[Gesj-yean](https://github.com/Gesj-yean) 历史贡献积分：75 当前积分：39
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Web 的未来](https://juejin.cn/post/7006492657379704846)|翻译|8|
+|[用 Sass 的 !default 创建样式表的特征标识](https://juejin.cn/post/7002097448323645471)|翻译|4|
 |2020 年 8 月 兑换 掘金笔记本 3 个 + 纪念水杯 2 个|减去积分|36|
 |[VueJS 中更好的组件组合方式](https://juejin.im/post/6875236830984437768)|校对|1.5|
 |[给前端开发者的 14 个 JavaScript 代码优化建议](https://juejin.im/post/6859562506721951751)|翻译|11|
@@ -10104,10 +10261,13 @@
 |[如何且为何要在单页应用中防止跨域资源共享](https://juejin.im/entry/5ec4ab64e51d45788a6d4f92/detail)|翻译|5|
 |[5 个优化技巧助你提高移动 Web 应用的用户留存率](https://juejin.im/post/5eb2a377f265da7bb563871f)|校对|2|
 
-## 译者：[JohnieXu](https://github.com/JohnieXu) 历史贡献积分：47 当前积分：47
+## 译者：[JohnieXu](https://github.com/JohnieXu) 历史贡献积分：58.5 当前积分：58.5 二零二二：9.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[为什么说 ES2020 的可选链和模块动态导入特性改变了已有的生态规则？](https://juejin.cn/post/7091245306976665613)|校对|3.5|
+|[使用Python模拟动力系统的初学者指南](https://juejin.cn/post/7102228100938727461)|校对|6|
+|[如何召开在线会议](https://github.com/xitu/gold-miner/pull/8739)|校对|2|
 |[用 JavaScript 实现堆](https://juejin.cn/post/6893475005834330126)|校对|4|
 |[WebAssembly 及其 JavaScript API 的完整介绍](https://juejin.cn/post/6887953627302854669)|翻译|8|
 |[Blitz.js 简介：一个新兴的 React 全栈框架](https://juejin.cn/post/6887201657801670669)|校对|3|
@@ -10133,7 +10293,7 @@
 |------|-------|-------|
 |[你不需要 passport.js — node.js 认证指南](https://juejin.im/post/5e060589f265da33b0718f55)|校对|2|
 
-## 译者：[rachelcdev](https://github.com/rachelcdev) 历史贡献积分：45 当前积分：45 二零二一：8
+## 译者：[rachelcdev](https://github.com/rachelcdev) 历史贡献积分：45 当前积分：45
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10156,10 +10316,12 @@
 |[鲜为人知的 GraphQL 特性](https://juejin.im/post/5edbaf2751882543281f73fc)|校对|1|
 |[关于 let 和 const 的对比](https://juejin.im/post/5ed5ec4ae51d457b3e77e37c)|校对|1|
 
-## 译者：[lhd951220](https://github.com/lhd951220) 历史贡献积分：33 当前积分：23
+## 译者：[lhd951220](https://github.com/lhd951220) 历史贡献积分：43.5 当前积分：33.5 二零二二：10.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[设计类和对象的结构型模式](https://juejin.cn/post/7112103577967362084)|校对|8|
+|[Express vs. http - API 基准测试](https://juejin.cn/post/7113566528519274533)|校对|2.5|
 |2020 年 8 月 兑换 保温杯 1 个|减去积分|10|
 |[写给工程师的《系统性能兵法》](https://juejin.im/post/6858061688386617358)|翻译|5|
 |[在 SwiftUI 中构建服务端驱动的 UI 组件](https://juejin.im/post/6844904186862108679)|校对|2|
@@ -10175,7 +10337,7 @@
 |[鲜为人知的 GraphQL 特性](https://juejin.im/post/5edbaf2751882543281f73fc)|校对|1|
 |[使用 Deno 和 Oak 构建 CRUD API](https://juejin.im/post/5ed711086fb9a0479a801362)|翻译|1.5|
 
-## 译者：[MangoTsing](https://github.com/MangoTsing) 历史贡献积分：28.5 当前积分：28.5 二零二一：15
+## 译者：[MangoTsing](https://github.com/MangoTsing) 历史贡献积分：28.5 当前积分：28.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10201,10 +10363,12 @@
 |------|-------|-------|
 |[Schema.org：你未曾耳闻的流行网页标准 🤫](https://juejin.im/post/5ee4ce2df265da770c0f08b6)|校对|2|
 
-## 译者：[z0gSh1u](https://github.com/z0gSh1u) 历史贡献积分：49 当前积分：39 二零二一：1
+## 译者：[z0gSh1u](https://github.com/z0gSh1u) 历史贡献积分：62 当前积分：52
 
 |文章|类型|积分|
 |------|-------|-------|
+|[函数式编程 —— 使用 Python、JavaScript 和 Java 描述](https://juejin.cn/post/6930638275241574407)|翻译|10|
+|[Python 定义函数的 5 种参数](https://juejin.cn/post/6927094483200770062)|校对|3|
 |[使用 clamp() 进行响应式设计](https://juejin.cn/post/6890830054134611976)|校对|1|
 |[用 JavaScript 实现堆](https://juejin.cn/post/6893475005834330126)|校对|4|
 |2020 年 8 月 兑换 T 恤 1 件|减去积分|10|
@@ -10223,12 +10387,26 @@
 |[什么是无障碍？为什它对于用户体验很重要？](https://juejin.im/post/5ebf96a5f265da7b9754dd7d)|校对|1|
 |[我是如何用 20 小时学会 Sass 的以及为什么你也应该这么做](https://juejin.im/post/5ede14f6e51d4578885ca8fc)|翻译|3.5|
 
-## 译者：[nia3y](https://github.com/nia3y) 历史贡献积分：121.5 当前积分：9.5 二零二一：8
+## 译者：[nia3y](https://github.com/nia3y) 历史贡献积分：162.5 当前积分：82.5 二零二二：14.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[双向绑定会使你的 React 代码更棒](https://juejin.cn/post/7064371133243457544)|校对|1|
+|[何时能有更快更强的前端开发框架](https://juejin.cn/post/7057126478600732708)|校对|2.5|
+|[SpringBoot 微服务监控](https://juejin.cn/post/7056817945787236389)|校对|9|
+|[使用 WasmEdge 在 WebAssembly 中运行 JavaScript](https://juejin.cn/post/7014413285600526343)|校对|2|
+|[Symbol：JavaScript 中最容易被误解的特性？](https://juejin.cn/post/7007975053485113381)|校对|2|
+|[使用 TypeScript 时你会想念的 Python 特性](https://juejin.cn/post/7007327298013626399)|校对|3|
+|[别让轮播毁了你的应用程序](https://juejin.cn/post/7003637296050225189)|校对|2|
+|[CSS 选择器嵌套已经来了🤯🤯🤯！](https://juejin.cn/post/6999124599938449415)|校对|1|
+|[用 Sass 的 !default 创建样式表的特征标识](https://juejin.cn/post/7002097448323645471)|校对|2|
+|[2021 年，jQuery 过得还好吗？](https://juejin.cn/post/6992036720783360037)|校对|2|
+|[HEX vs RGB vs HSL：设置 CSS 颜色属性的最佳方法是什么](https://juejin.cn/post/6984720412160557063)|校对|4|
+|[外行人说量子计算机](https://juejin.cn/post/6979953198383497223)|校对|5|
+|[都 2021 年了，你还不知道这 10 个 CSS 功能？](https://juejin.cn/post/6946231151874801695)|校对|2|
+|[详细解读 Webpack 的模块热替换功能](https://juejin.cn/post/6946231743837896734)|校对|1.5|
+|[Snowpack：一个可替代 Webpack 的构建工具](https://juejin.cn/post/6940820980608696334)|校对|2|
 |[自己写一个 redux](https://juejin.cn/post/6923922875191656462)|校对|8|
-|2020 年 5 月 兑换 小黄鸭 6 个 + 纪念水杯 1 个 + 掘金笔记本 1 个|减去积分|32|
 |[JavaScript 的面向切面编程](https://juejin.cn/post/6903484050095210509)|校对|2|
 |[TypeScript 的 5 个建议](https://juejin.cn/post/6906307187816349703)|校对|2.5|
 |[前端应用的性能指标](https://juejin.cn/post/6884055395434758151)|翻译|8.5|
@@ -10240,7 +10418,7 @@
 |[如何在字符串中隐藏秘密 —— JavaScript 中的现代文本隐藏](https://juejin.im/post/6856737400396349454)|翻译|7|
 |兑换水杯 1 个，笔记本 1 个|减去积分|14|
 |兑换小黄鸭 6 个|减去积分|18|
-|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|翻译|6|
+|[用户体验案例学习：Mood Talk ——  一个心理健康应用](https://juejin.im/post/5ebbb38ae51d454dca711099)|翻译|6|
 |[可以用来构建 Deno Web 应用程序的 7 个模块](https://juejin.im/post/5ed46435e51d45788619c778)|翻译|4|
 |[如何编写整洁代码？从 Robert C. Martin 的“代码整洁之道”中吸取的教训](https://juejin.im/post/5eb78370f265da7be959ffc2)|校对|3|
 |[深入浅出 array.fill() 函数](https://juejin.im/post/5ec783a251882543385d4693)|翻译|7.5|
@@ -10264,7 +10442,7 @@
 |[2020 年要学习的 7 种编程语言和框架](https://juejin.im/post/5e663cec518825496e786051)|校对|3|
 |[关于 icon 设计的 7 大准则](https://juejin.im/post/5e5dbd3e6fb9a07cd323dd2b)|校对|3|
 
-## 译者：[plusmultiply0](https://github.com/plusmultiply0) 历史贡献积分：62 当前积分：62 二零二一：7
+## 译者：[plusmultiply0](https://github.com/plusmultiply0) 历史贡献积分：62 当前积分：62
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10280,7 +10458,7 @@
 |[掌握 JavaScript ES6 中的 Symbol 类型](https://juejin.im/post/6880485630501978126)|校对|4|
 |[使用 React 和 localStorage 实现的简易 Dark Mode 开关](https://juejin.im/post/6875538309934743560)|校对|2.5|
 |[给前端开发者的 14 个 JavaScript 代码优化建议](https://juejin.im/post/6859562506721951751)|校对|5|
-|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|翻译|3|
+|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|翻译|3|
 |[写给工程师的《系统性能兵法》](https://juejin.im/post/6858061688386617358)|校对|2.5|
 |[打包用于分发的 UI 库 —— 当你要发布一个 UI 组件库时，你可能需要遵守的指南](https://juejin.im/post/6863091746113323021)|翻译|6|
 |[Redux 中过时的 props 和僵尸子节点](https://juejin.im/post/5f0c1fd76fb9a07e8e44f2e5)|校对|3|
@@ -10312,10 +10490,69 @@
 |------|-------|-------|
 |[Swift 5.3 的新功能，你了解吗？](https://juejin.im/post/5f158ae4e51d453460293edc)|校对|2.5|
 
-## 译者：[zenblo](https://github.com/zenblo) 历史贡献积分：185.5 当前积分：185.5 二零二一：45
+## 译者：[zenblofe](https://github.com/zenblofe) 历史贡献积分：396.5 当前积分：396.5 二零二二：46
 
 |文章|类型|积分|
 |------|-------|-------|
+|[机器学习系统设计相关面试问题的剖析](https://juejin.cn/post/7109306303285051406)|校对|4|
+|[用 Python 完成猎词游戏：字典树](https://juejin.cn/post/7109305485483835428)|校对|2.5|
+|[5个关于 UI 设计系统的误解](https://juejin.cn/post/7086291006286462990)|校对|2|
+|推荐前端文章 1 篇|奖励|1|
+|[如何在网页中使用响应式图像](https://juejin.cn/post/7074199947477778439)|翻译|4|
+|[自动化测试：你应当了解的一切](https://juejin.cn/post/7084071159821500447)|校对|4|
+|[如何编写更简洁优雅的 React 代码](https://juejin.cn/post/7070479272380465166)|翻译|3|
+|[Cookie 通知的最佳实践](https://juejin.cn/post/7066985086876385293)|校对|2|
+|[使用 FastAPI 提升 Python 代码的运行性能](https://juejin.cn/post/7068865005436796958)|翻译|6|
+|[4 个鲜为人知的 Swift 特性](https://juejin.cn/post/7069326429397205005)|校对|2|
+|[何时能有更快更强的前端开发框架](https://juejin.cn/post/7057126478600732708)|翻译|5.5|
+|[使用 Python 模拟实现行星际空间旅行](https://juejin.cn/post/7047685861365776414)|翻译|4.5|
+|[如何使用 Python 管道 Pipe 高效编码](https://juejin.cn/post/7051051681357758494)|翻译|5.5|
+|[简述 JavaScript 的事件捕获和事件冒泡](https://juejin.cn/post/7005558885947965454)|翻译|5.5|
+|[如何使用 ES6 新增 Symbols 代替 null](https://juejin.cn/post/7003689525507538958)|翻译|3.5|
+|[简述 TC39 提案的传送和执行流程](https://github.com/xitu/gold-miner/pull/8673)|翻译|7|
+|[11 个让你惊叹的 罕见 JavaScript 单行代码](https://juejin.cn/post/6998734064773660702)|校对|2|
+|[Flutter 比 React Native 更优秀的五个理由](https://juejin.cn/post/6993502936680628238)|翻译|6.5|
+|[V8 v9.2 发布](https://juejin.cn/post/6989053414441222175)|校对|2|
+|[简述 JavaScript 三个不应使用的功能](https://juejin.cn/post/6987713761444364296)|翻译|6|
+|[HTTP 严格传输安全协议常见问题解答](https://juejin.cn/post/6987432172512608287)|校对|2|
+|[Rust 与 C 的速度比较](https://juejin.cn/post/6986521840621453343)|校对|3|
+|[你真的应该在黑暗模式下进行编码吗？](https://juejin.cn/post/6977639449580699684)|校对|1.5|
+|[简述 JavaScript 高阶函数的开发使用](https://juejin.cn/post/6977649537812791303)|翻译|5.5|
+|[使用 CI/CD 优化前端构建的五种策略](https://juejin.cn/post/6969016052894154789)|翻译|4|
+|[简述自动生成的社交媒体图片](https://juejin.cn/post/6972850971432976392)|翻译|4|
+|[都 2021 年了，你还不知道这些检查 CSS 的工具？](https://juejin.cn/post/6965808560735256607)|校对|1.5|
+|[现代化的 React 路由 Hookrouter 开发使用](https://juejin.cn/post/6963445160474574885)|翻译|5.5|
+|[从 React 转换到 Next.js 的五个理由](https://juejin.cn/post/6956893345750712350)|翻译|8|
+|4 月推荐前端文章 1 篇|奖励|1|
+|[如何打造一个好的 GitHub 用户档案？](https://juejin.cn/post/6950529817469157384)|校对|2|
+|[1993 年的 CGI 脚本和早期服务端 Web 编程](https://juejin.cn/post/6947898773569962020)|校对|2|
+|[解决方案架构师技巧：架构图的 5 种类型](https://juejin.cn/post/6949879274157539358)|校对|3|
+|[谷歌抨击微软“试图破坏开放 web 的运作方式”](https://juejin.cn/post/6949401776751640583)|校对|1|
+|[2021 年 Angular vs. React vs. Vue 前端框架对比](https://juejin.cn/post/6943068367125381127)|校对|2|
+|[新发布的 TypeScript 手册！先睹为快！](https://juejin.cn/post/6938614411397431304)|翻译|4|
+|[新型前端构建工具 Vitejs 开发使用](https://juejin.cn/post/6949544614760185886)|翻译|6|
+|[NumPy 1.20 问世，带来了运行时 SIMD 的支持和类型注释](https://juejin.cn/post/6943542858792042510)|校对|2|
+|[和 Node.js 创始人 Ryan Dahl 的对话](https://juejin.cn/post/6937483576594137096)|校对|2|
+|[实现响应式图像的四种技术策略](https://juejin.cn/post/6938237167189622814)|翻译|5|
+|[Deno 1.8 正式发布：支持 WebGPU API、deno lsp 现在进入了稳定状态](https://juejin.cn/post/6936083986644992013)|校对|2|
+|[6 个没人讲过的 CSS 属性](https://juejin.cn/post/6937995501719519240)|校对|2|
+|[面向 JavaScript 开发人员的 Monads](https://juejin.cn/post/6937537783653203976)|翻译|4|
+|[深入理解 Rust 所有权、借用、生命周期](https://juejin.cn/post/6937098861152305160)|校对|3|
+|[使用 CSS Painting API 自动生成图像](https://juejin.cn/post/6932088781113819150)|校对|1.5|
+|[通过集群提高 Node.js 应用程序性能](https://juejin.cn/post/6936755284685619213)|翻译|7|
+|[从 RxJava 2 转向使用 Kotlin 流：多线程](https://juejin.cn/post/6944594389180088334)|校对|6|
+|[使用 Node.js 实现蒙特卡洛树搜索](https://juejin.cn/post/6944240279784423461)|翻译|12|
+|[TypeScript 4.2 正式发布：优化了类型和开发者体验](https://juejin.cn/post/6935255387893399560)|校对|2|
+|[在 React 中使用 Immer 管理不可变状态](https://juejin.cn/post/6935790852476239886)|翻译|4|
+|[自适应 CSS 栅格：自由布局的最终版本](https://juejin.cn/post/6935090806210428959)|校对|1|
+|[Deno 将停用 TypeScript 的五个原因](https://juejin.cn/post/6934140963262562312)|翻译|4|
+|[Bash 中的 if else 语句](https://juejin.cn/post/6934324540692496392)|校对|2|
+|[我后悔没有在自己成为 React 开发者之前做的 6 件事情](https://juejin.cn/post/6934144158332354567)|校对|1|
+|[你应该编译你的 JavaScript 代码吗？](https://juejin.cn/post/6926927963636105223)|校对|2|
+|[如何在浏览器上使用 NoSQL 数据库 IndexedDB](https://juejin.cn/post/6930883284456964109)|翻译|5|
+|[简述 HTTP 请求与跨域资源共享 CORS](https://juejin.cn/post/6927191095470194695)|翻译|5|
+|[2021 年 JavaScript 测试框架回顾](https://juejin.cn/post/6927585452253790216)|校对|1|
+|[为什么 React Hooks 是错误的抽象](https://juejin.cn/post/6930529765048713229)|校对|3|
 |[SwiftUI 2 应用生命周期的终极指导](https://juejin.cn/post/6924119708832628749)|校对|2|
 |[揭开图着色算法的神秘面纱](https://juejin.cn/post/6924668410416791566)|翻译|5|
 |[掌握这 5 个 TypeScript 高级技巧，成为更好的开发者](https://juejin.cn/post/6924293152907984909)|校对|3|
@@ -10379,10 +10616,11 @@
 |8 月推荐前端文章 2 篇|奖励|2|
 |8 月推荐前端文章 1 篇|奖励|1|
 
-## 译者：[Zhengjian-L](https://github.com/Zhengjian-L) 历史贡献积分：10 当前积分：10
+## 译者：[Zhengjian-L](https://github.com/Zhengjian-L) 历史贡献积分：16 当前积分：16
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Python 定义函数的 5 种参数](https://juejin.cn/post/6927094483200770062)|翻译|6|
 |[知识的极限](https://juejin.im/post/6874475968325484552)|校对|3|
 |[用户体验案例学习：重新设计 KoinStreet 主页](https://juejin.im/post/6869757477928304654)|翻译|4|
 |[用 Python 写一个俄罗斯方块游戏](https://juejin.im/post/6844904183456350221)|校对|3|
@@ -10397,10 +10635,12 @@
 |[使用 Chrome 的 Shape Detection API 检测人脸，文本甚至条形码](https://juejin.im/post/6864391729693491207)|翻译|6|
 |[打包用于分发的 UI 库 —— 当你要发布一个 UI 组件库时，你可能需要遵守的指南](https://juejin.im/post/6863091746113323021)|校对|3|
 
-## 译者：[Isildur46](https://github.com/Isildur46) 历史贡献积分：22.5 当前积分：22.5
+## 译者：[Isildur46](https://github.com/Isildur46) 历史贡献积分：27.5 当前积分：27.5 二零二二：2
 
 |文章|类型|积分|
 |------|-------|-------|
+|[过度使用懒加载对 Web 性能的影响](https://juejin.cn/post/7074759905197948935)|校对|2|
+|[关于 Node.js 中的异步迭代器](https://juejin.cn/post/6934596464639213576)|翻译|3|
 |[7 种有用的时间复杂度](https://juejin.im/post/6873379647125553159)|校对|3|
 |[JavaScript 函数中一些你不知道的秘密](https://juejin.im/post/6871101056642711559)|翻译|7|
 |[JavaScript 引擎概述](https://juejin.im/post/6869976412745367566)|翻译|5|
@@ -10420,7 +10660,7 @@
 |------|-------|-------|
 |[写给工程师的《系统性能兵法》](https://juejin.im/post/6858061688386617358)|校对|2.5|
 
-## 译者：[loststar](https://github.com/loststar) 历史贡献积分：11 当前积分：11 二零二一：2.5
+## 译者：[loststar](https://github.com/loststar) 历史贡献积分：11 当前积分：11
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10429,7 +10669,7 @@
 |[在 React 中使用 Service Worker](https://juejin.im/post/6881616183158636552)|校对|2|
 |[利用映射提高 MongoDB 性能](https://juejin.im/post/6881503834737213454)|校对|2|
 |[Python：使用 locals() 和 globals() 巧妙编程](https://github.com/xitu/gold-miner/blob/master/article/2020/python-smart-coding-with-locals-and-global.md)|校对|0.5|
-|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|校对|1|
+|[JavaScript 技巧 —— 子代构造函数，文本选择，内联 Workers 等等](https://juejin.im/post/6854573219622420488)|校对|1|
 
 ## 译者：[onlinelei](https://github.com/onlinelei) 历史贡献积分：8.5 当前积分：8.5
 
@@ -10496,20 +10736,21 @@
 |------|-------|-------|
 |[最常用的 4 种 JavaScript 设计模式](https://github.com/xitu/gold-miner/blob/master/article/2020/4-useful-javascript-design-patterns-you-should-know.md)|校对|4|
 
-## 译者：[qq1037305420](https://github.com/qq1037305420) 历史贡献积分：3 当前积分：3
+## 译者：[qq1037305420](https://github.com/qq1037305420) 历史贡献积分：5 当前积分：5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[如何基于 D3.js 使用外部数据源创建图表](https://juejin.cn/post/6931294639609774087)|校对|2|
 |[如何在悬停时创建菜单图像动画](https://juejin.im/post/6878561756793454599)|校对|3|
 
 ## 译者：[dupanpan](https://github.com/dupanpan) 历史贡献积分：3 当前积分：3
 
 |文章|类型|积分|
 |------|-------|-------|
-|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|校对|1.5|
+|[ES2017 最佳特性  —  数组中的异步函数以及共享缓冲区](https://juejin.im/post/6878849121269055501)|校对|1.5|
 |[VueJS 中更好的组件组合方式](https://juejin.im/post/6875236830984437768)|校对|1.5|
 
-## 译者：[Shirley-He-Maker](https://github.com/Shirley-He-Maker) 历史贡献积分：6 当前积分：6 二零二一：5
+## 译者：[Shirley-He-Maker](https://github.com/Shirley-He-Maker) 历史贡献积分：6 当前积分：6
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10522,7 +10763,7 @@
 |------|-------|-------|
 |[5 个鲜为人知的 Chrome 开发者工具的特性](https://juejin.im/post/6875240551390642189)|校对|0.5|
 
-## 译者：[HurryOwen](https://github.com/HurryOwen) 历史贡献积分：30.5 当前积分：30.5 二零二一：6
+## 译者：[HurryOwen](https://github.com/HurryOwen) 历史贡献积分：30.5 当前积分：30.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10538,11 +10779,13 @@
 |[基于内容安全策略增强 JavaScript 安全性](https://juejin.cn/post/6885887317609807886)|校对|2|
 |[使用 React 和 localStorage 实现的简易 Dark Mode 开关](https://juejin.im/post/6875538309934743560)|校对|2.5|
 
-## 译者：[caiyundong](https://github.com/caiyundong) 历史贡献积分：2 当前积分：2
+## 译者：[caiyundong](https://github.com/caiyundong) 历史贡献积分：14 当前积分：14 二零二二：8
 
 |文章|类型|积分|
 |------|-------|-------|
-|[Python 的优化 — 驻留机制](https://juejin.im/post/6875879902902485005)|校对|2|
+|[机器学习系统设计相关面试问题的剖析](https://juejin.cn/post/7109306303285051406)|翻译|8|
+|[如何打造一个好的 GitHub 用户档案？](https://juejin.cn/post/6950529817469157384)|翻译|4|
+|[Python 的优化 — 驻留机制](https://juejin.im/post/6875879902902485005)|校对|2|
 
 ## 译者：[ivileey](https://github.com/ivileey) 历史贡献积分：2 当前积分：2
 
@@ -10562,7 +10805,7 @@
 |------|-------|-------|
 |[10 款质量最佳最受欢迎的 Flutter 工具库](https://juejin.cn/post/6883102672044441613)|校对|2|
 
-## 译者：[wangqinggang](https://github.com/wangqinggang) 历史贡献积分：10.5 当前积分：10.5 二零二一：5
+## 译者：[wangqinggang](https://github.com/wangqinggang) 历史贡献积分：10.5 当前积分：10.5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10570,7 +10813,7 @@
 |[Python logging 使用指南](https://juejin.im/post/6881981250203353095)|校对|2|
 |[我的网站加载时间不到 1 秒，这是我如何做到的！](https://juejin.cn/post/6870329885034807310)|翻译|3.5|
 
-## 译者：[Eminlin](https://github.com/Eminlin) 历史贡献积分：5 当前积分：5 二零二一：2
+## 译者：[Eminlin](https://github.com/Eminlin) 历史贡献积分：5 当前积分：5
 
 |文章|类型|积分|
 |------|-------|-------|
@@ -10589,16 +10832,19 @@
 |------|-------|-------|
 |[抽象数据类型与软件危机](https://juejin.cn/post/6900761312532529166)|校对|5|
 
-## 译者：[Godlowd](https://github.com/Godlowd) 历史贡献积分：3 当前积分：3
+## 译者：[Godlowd](https://github.com/Godlowd) 历史贡献积分：7 当前积分：7
 
 |文章|类型|积分|
 |------|-------|-------|
+|[在 iOS 14 中处理位置权限和管理近似地址访问](https://juejin.cn/post/6944895612001189924)|翻译|4|
 |[在 Swift 中玩转 emoji](https://juejin.cn/post/6887739774254841863)|校对|3|
 
-## 译者：[jackwener](https://github.com/jackwener) 历史贡献积分：14.5 当前积分：14.5 二零二一：2.5
+## 译者：[jackwener](https://github.com/jackwener) 历史贡献积分：21 当前积分：21 二零二二：6.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[设计类和对象的结构型模式](https://juejin.cn/post/7112103577967362084)|校对|4|
+|[用 Python 完成猎词游戏：字典树](https://juejin.cn/post/7109305485483835428)|校对|2.5|
 |[微服务是你的最佳解决方案么？](https://juejin.cn/post/6881415957303001102)|校对|2.5|
 |[迪米特法则](https://juejin.cn/post/6890050952049950733)|校对|1|
 |[酷毙了的算法：日志结构存储](https://juejin.cn/post/6898766259584761864)|翻译|6|
@@ -10619,10 +10865,13 @@
 |[使用 Svelte 开发前端应用的五个理由](https://juejin.cn/post/6897010393609142279)|校对|1|
 |[如何在 Nextjs 中使用 cookies 来持久化保存用户信息](https://juejin.cn/post/6896062683263860749)|校对|2|
 
-## 译者：[regon-cao](https://github.com/regon-cao) 历史贡献积分：92.5 当前积分：92.5 二零二一：39
+## 译者：[regon-cao](https://github.com/regon-cao) 历史贡献积分：103.5 当前积分：103.5 二零二二：4
 
 |文章|类型|积分|
 |------|-------|-------|
+|[2021 年 JavaScript 的前景](https://juejin.cn/post/7109458654444650532)|校对|4|
+|[函数式编程 —— 使用 Python、JavaScript 和 Java 描述](https://juejin.cn/post/6930638275241574407)|校对|5|
+|[简述 HTTP 请求与跨域资源共享 CORS](https://juejin.cn/post/6927191095470194695)|校对|2|
 |[我拒绝了 MIT 的 Offer，依然是一个高价值的开发者](https://juejin.cn/post/6924489699641786375)|校对|3|
 |[在 TypeScript 中引入 JSON 模块](https://juejin.cn/post/6923188659957006343)|校对|0.5|
 |[Node.js 缓冲区的完整指南](https://juejin.cn/post/6917192648424390669)|校对|1|
@@ -10654,10 +10903,15 @@
 |[使用 JavaScript 解构让代码更优雅](https://juejin.cn/post/6901081096260648974)|校对|2|
 |[使用 Svelte 开发前端应用的五个理由](https://juejin.cn/post/6897010393609142279)|校对|1|
 
-## 译者：[NieZhuZhu](https://github.com/NieZhuZhu) 历史贡献积分：47 当前积分：47 二零二一：10
+## 译者：[NieZhuZhu](https://github.com/NieZhuZhu) 历史贡献积分：75 当前积分：75 二零二二：4
 
 |文章|类型|积分|
 |------|-------|-------|
+|[机器学习系统设计相关面试问题的剖析](https://juejin.cn/post/7109306303285051406)|校对|4|
+|[无密码认证，安全更有保障](https://juejin.cn/post/7007820358854115336)|翻译|5|
+|[向 TC39 提交提案](https://github.com/xitu/gold-miner/pull/8686)|翻译|6|
+|[React 18 中新的 Suspense SSR 架构](https://juejin.cn/post/6982010092258328583)|翻译|8|
+|[函数式编程 —— 使用 Python、JavaScript 和 Java 描述](https://juejin.cn/post/6930638275241574407)|校对|5|
 |[解构标志性的 Apple Watch Bubble UI](https://juejin.cn/post/6919630087843217416)|翻译|7|
 |[使用 CSS 提升页面渲染速度](https://juejin.cn/post/6911689122759475208)|校对|3|
 |[四个优秀 Vue.js 静态站点生成器](https://juejin.cn/post/6903309715309068295)|校对|1.5|
@@ -10678,10 +10932,21 @@
 |------|-------|-------|
 |[酷毙了的算法：日志结构存储](https://juejin.cn/post/6898766259584761864)|校对|3|
 
-## 译者：[chzh9311](https://github.com/chzh9311) 历史贡献积分：11 当前积分：11 二零二一：8
+## 译者：[chzh9311](https://github.com/chzh9311) 历史贡献积分：52 当前积分：52
 
 |文章|类型|积分|
 |------|-------|-------|
+|[简述 JavaScript 高阶函数的开发使用](https://juejin.cn/post/6977649537812791303)|校对|2.5|
+|[“绿色”和“棕色”的编程语言](https://juejin.cn/post/6963157486677278757)|翻译|6.5|
+|[解密转置卷积](https://juejin.cn/post/6954678998123151390)|校对|2|
+|[假如浏览器支持原生的"跳至内容"链接……](https://juejin.cn/post/6955827696731914271)|校对|1|
+|[谷歌 DeepMind 发布 NFNet：高效的深度网络](https://juejin.cn/post/6947586233522454558)|翻译|3|
+|[谷歌云公开发布医疗知情同意管理 API](https://juejin.cn/post/6942398996048510989)|翻译|3|
+|[2021 年 1 月 RedMonk 编程语言排名](https://juejin.cn/post/6937849069721092110)|校对|2|
+|[使用 Node.js 实现蒙特卡洛树搜索](https://juejin.cn/post/6944240279784423461)|校对|6|
+|[代码可视化 － 使用图技术为 Python 项目绘制结构图](https://juejin.cn/post/6935232492299354120)|校对|3|
+|[数据科学中的 9 种距离度量](https://juejin.cn/post/6935265008045686815)|翻译|9|
+|[上手 Python 数据类前需要知道的 6 件事](https://juejin.cn/post/6926815217859559438)|校对|3|
 |[为什么我的数据会漂移？](https://juejin.cn/post/6923824334188314638)|翻译|6|
 |[理解 LSM 树：一种适用于频繁写入的数据库的结构](https://juejin.cn/post/6918940339676020743)|校对|2|
 |[酷毙了的算法：日志结构存储](https://juejin.cn/post/6898766259584761864)|校对|3|
@@ -10692,10 +10957,21 @@
 |------|-------|-------|
 |[在几秒钟内为你的开发环境创建一个私有 PostgreSQL 数据库](https://juejin.cn/post/6899674625325105159)|校对|4.5|
 
-## 译者：[keepmovingljzy](https://github.com/keepmovingljzy) 历史贡献积分：18 当前积分：18 二零二一：14
+## 译者：[keepmovingljzy](https://github.com/keepmovingljzy) 历史贡献积分：58 当前积分：58 二零二二：4.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[SREs 和 DevOps 十大开源项目](https://juejin.cn/post/7089270839475978253)|翻译|4.5|
+|[什么是 http/3，为什么它很重要？](https://juejin.cn/post/6969399259246690341)|翻译|4|
+|[Dagger，Hilt 以及 Koin 的本质区别是什么？](https://juejin.cn/post/6965687767011426317)|翻译|4.5|
+|5 月推荐 Android 类型文章 2 篇|奖励|2|
+|[React vs. Vue 谁是 2021 年最佳 JavaScript 框架](https://juejin.cn/post/6944674279141146632)|翻译|5|
+|[为什么 Java 在 25 年之后依旧如此年轻：一个架构师的看法](https://juejin.cn/post/6943795842918645773)|翻译|5|
+|[6 倍的差距！Debug/Release 模式下启动协程耗时竟然差距这么大](https://juejin.cn/post/6943792191135285255)|翻译|2.5|
+|[Android 启动技巧：不要使用 Kotlin 协程](https://juejin.cn/post/6940071555330211847)|翻译|2|
+|[5 个 Kotlin 扩展技巧让你的 Android 代码更具表现力](https://juejin.cn/post/6939089593111166984)|翻译|4.5|
+|[使用 Android 11 进行机器学习：新功能](https://juejin.cn/post/6933208209259757581)|校对|3|
+|[构建像 `Messenger` 短信软件那样的 ImageView](https://juejin.cn/post/6933957885642670093)|校对|3|
 |[我拒绝了 MIT 的 Offer，依然是一个高价值的开发者](https://juejin.cn/post/6924489699641786375)|翻译|7|
 |1 月推荐安卓文章 1 篇、其他文章 1 篇|奖励|2|
 |[Flutter 可能是下一个大事件，但 Kotlin Multiplatform 一直都是大事件](https://juejin.cn/post/6916418157641105421)|翻译|5|
@@ -10708,10 +10984,12 @@
 |------|-------|-------|
 |[探索 Android 中的 ConstraintLayout 2.0](https://juejin.cn/post/6906770827228741646)|校对|1.5|
 
-## 译者：[stuchilde](https://github.com/stuchilde) 历史贡献积分：2 当前积分：2
+## 译者：[stuchilde](https://github.com/stuchilde) 历史贡献积分：15 当前积分：15
 
 |文章|类型|积分|
 |------|-------|-------|
+|[每个人都可以理解的授权访问和身份认证](https://juejin.cn/post/6935230984619032589)|校对|5|
+|[如何利用隐语义模型在图数据库中构建推荐系统](https://juejin.cn/post/6925019556108828685)|翻译|8|
 |[爱 GraphQL 胜过 REST](https://juejin.cn/post/6914306976294338567)|校对|2|
 
 ## 译者：[Yuxiao-Shi](https://github.com/Yuxiao-Shi) 历史贡献积分：4 当前积分：4
@@ -10720,10 +10998,12 @@
 |------|-------|-------|
 |[为什么要让你的代码尽可能简单](https://juejin.cn/post/6914669681500487687)|校对|4|
 
-## 译者：[flashhu](https://github.com/flashhu) 历史贡献积分：16.5 当前积分：16.5 二零二一：12.5
+## 译者：[flashhu](https://github.com/flashhu) 历史贡献积分：22 当前积分：22
 
 |文章|类型|积分|
 |------|-------|-------|
+|[在 React 中使用 BLoC 模式](https://juejin.cn/post/6996608844776341540)|翻译|4|
+|[什么是 SQL 注入攻击？如何阻止它](https://juejin.cn/post/6960849763688251406)|校对|1.5|
 |1 月推荐前端文章 1 篇|奖励|1|
 |[揭开图着色算法的神秘面纱](https://juejin.cn/post/6924668410416791566)|校对|2|
 |[你应该知道的 3 个罕见的 Bash 技巧](https://juejin.cn/post/6923190362706018318)|校对|2|
@@ -10745,10 +11025,42 @@
 |[你不可错过的 10 个 Xcode 技巧和快捷键](https://juejin.cn/post/6913888065937211399)|翻译|5|
 |[SwiftUI 中的 PageTabViewStyle](https://juejin.cn/post/6906289114300039182)|翻译|2|
 
-## 译者：[Usualminds](https://github.com/Usualminds) 历史贡献积分：38.5 当前积分：38.5 二零二一：26.5
+## 译者：[Usualminds](https://github.com/Usualminds) 历史贡献积分：134.5 当前积分：134.5 二零二二：9
 
 |文章|类型|积分|
 |------|-------|-------|
+|[0-1 背包问题解读](https://juejin.cn/post/7108719165527031815)|校对|5|
+|推荐前端文章 1 篇|奖励|1|
+|[使用 RabbitMQ 和 SpringBoot 实现实时消息](https://juejin.cn/post/7092326097597136927)|校对|2|
+|1 月推荐前端文章一篇|奖励|1|
+|8 月推荐前端文章 1 篇|奖励|1|
+|7 月推荐前端文章 1 篇|奖励|1|
+|[如何参与会议](https://github.com/xitu/gold-miner/pull/8735)|校对|3|
+|[阶段 3 提案评审](https://github.com/xitu/gold-miner/pull/8674)|翻译|3|
+|[如何针对 ECMAScript 规范创建一个拉取请求](https://github.com/xitu/gold-miner/pull/8626)|校对|2|
+|[每个 Web 开发人员都应该知道的 4 个 iframe 安全问题](https://juejin.cn/post/7004430026187735047)|校对|2|
+|[通过 Redis 构建一个响应式架构](https://juejin.cn/post/6996660780389122062)|校对|4|
+|[可视化 JavaScript 引擎](https://juejin.cn/post/6993165856834322440)|校对|2|
+|[使用 Husky 和 Hooks 保证 JavaScript 代码质量](https://juejin.cn/post/6983443137041530887)|翻译|4|
+|[对角线分割的圆锥渐变式可变纵横比卡片](https://juejin.cn/post/6986531351184801829)|校对|2|
+|6 月推荐前端文章 3 篇|奖励|3|
+|[如何打造可被摇树优化的库](https://juejin.cn/post/6977334810536575013)|校对|9|
+|[让 JavaScript 在 WebAssembly 上疾速运行](https://juejin.cn/post/6981685894470172679)|校对|5|
+|[Chrome 92 DevTools 的新功能](https://juejin.cn/post/6976944954056638495)|翻译|4|
+|[什么是 http/3，为什么它很重要？](https://juejin.cn/post/6969399259246690341)|校对|2|
+|[TypeScript 中的依赖注入](https://juejin.cn/post/6965857170646630408)|翻译|5.5|
+|[使用 Web Workers 来加速 JavaScript 应用](https://juejin.cn/post/6965861854023254047)|翻译|5|
+|[将 JavaScript 放到一边 —— 用 Mint 这门强大的语言来创建一个 Web 应用](https://juejin.cn/post/6957506898061066277)|翻译|4.5|
+|[现代 Web 应用程序中的 Web 分享](https://juejin.cn/post/6955824573279371272)|校对|1|
+|[渐进式应用程序 PWA 开始衰落了吗？](https://juejin.cn/post/6953212248760254471)|校对|1|
+|[State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)|校对|5|
+|[Snowpack：一个可替代 Webpack 的构建工具](https://juejin.cn/post/6940820980608696334)|校对|2|
+|[JavaScript Temporal API —— Date API 问题的一个解决方案](https://juejin.cn/post/6938358811908374559)|校对|2|
+|[API、WebSockets 和 WebHooks：究竟应该选谁](https://juejin.cn/post/6938359240880816165)|校对|2|
+|3 月推荐前端文章 1 篇|奖励|1|
+|[CSS3 会替代 SCSS 吗？](https://juejin.cn/post/6934326962450071559)|校对|2|
+|[3 个最棒的最值得你去在产品中使用的 CSS Grid 功能](https://juejin.cn/post/6931372123441233927)|校对|2|
+|[基于 50 万个浏览器指纹的新发现](https://juejin.cn/post/6930974348002590733)|翻译|7|
 |[如何让 JavaScript 中的循环慢下来](https://juejin.cn/post/6924512805135581197)|校对|1|
 |[掌握这 5 个 TypeScript 高级技巧，成为更好的开发者](https://juejin.cn/post/6924293152907984909)|翻译|6|
 |[为什么你应该使用 Picture 标签而不是 Img 标签](https://juejin.cn/post/6923840549170446343)|校对|2|
@@ -10762,10 +11074,15 @@
 |[增量 DOM 与虚拟 DOM 的对比使用](https://juejin.cn/post/6903765877296988174)|校对|2|
 |[理解 JavaScript 中模块的导入和导出](https://juejin.cn/post/6904980094998020109)|校对|3|
 
-## 译者：[zhuzilin](https://github.com/zhuzilin) 历史贡献积分：42.5 当前积分：42.5 二零二一：35.5
+## 译者：[zhuzilin](https://github.com/zhuzilin) 历史贡献积分：54.5 当前积分：54.5 二零二二：3
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Python 中的运算符重载](https://juejin.cn/post/7090803933202874382)|校对|1|
+|[一些知名算法的应用](https://juejin.cn/post/7095739388813901861)|校对|2|
+|[Figma 生产环境中的 Rust](https://juejin.cn/post/6938351578986479653)|校对|3|
+|[我后悔没有在自己成为 React 开发者之前做的 6 件事情](https://juejin.cn/post/6934144158332354567)|校对|1|
+|[你有设计作品的作品集吗？挺好的，但这还不够](https://juejin.cn/post/6934328263011467277)|校对|5|
 |[SwiftUI 2 应用生命周期的终极指导](https://juejin.cn/post/6924119708832628749)|翻译|5|
 |1 月推荐 iOS 文章 1 篇|奖励|1|
 |[UIKit 和 SwiftUI：我该选择哪一个运用在实际产品开发中？](https://juejin.cn/post/6923197105422991367)|校对|4|
@@ -10785,10 +11102,189 @@
 |------|-------|-------|
 |[四个优秀 Vue.js 静态站点生成器](https://juejin.cn/post/6903309715309068295)|校对|1.5|
 
-## 译者：[PassionPenguin](https://github.com/PassionPenguin) 历史贡献积分：88 当前积分：88 二零二一：88
+## 译者：[PassionPenguin](https://github.com/PassionPenguin) 历史贡献积分：752 当前积分：752 二零二二：5.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[2021 年 JavaScript 的前景](https://juejin.cn/post/7109458654444650532)|校对|2|
+|[V8 有个非优化的编译阶段去提高性能](https://juejin.cn/post/7088956826263224350)|校对|1.5|
+|[使用 WasmEdge 在 WebAssembly 中运行 JavaScript](https://juejin.cn/post/7014413285600526343)|校对|2|
+|7 月推荐其它类文章 1 篇|奖励|1|
+|[TC39 与知识产权（IP）](https://github.com/xitu/gold-miner/pull/8893)|校对|3|
+|[阶段 3 提案评审](https://github.com/xitu/gold-miner/pull/8674)|校对|1|
+|[如何阅读一份提案草案？](https://github.com/xitu/gold-miner/pull/8627)|翻译|3|
+|[向 TC39 提交提案](https://github.com/xitu/gold-miner/pull/8686)|校对|1|
+|[简述 TC39 提案的传送和执行流程](https://github.com/xitu/gold-miner/pull/8673)|校对|2|
+|[如何针对 ECMAScript 规范创建一个拉取请求](https://github.com/xitu/gold-miner/pull/8626)|翻译|7|
+|[如何提供有用的反馈](https://github.com/xitu/gold-miner/pull/8653)|翻译|7|
+|[如何在第 4 阶段之前体验一个提案](https://github.com/xitu/gold-miner/pull/8921)|翻译|3|
+|[如何写一个好的说明文件](https://github.com/xitu/gold-miner/pull/8665)|校对|2|
+|[在 TC39 提起一项提案](https://github.com/xitu/gold-miner/pull/8594)|翻译|15|
+|[我们是怎么做到的：Google I/O Photo Booth](https://juejin.cn/post/7001150450854527006)|翻译|10.5|
+|[使用 CDN 构建直读式缓存](https://juejin.cn/post/7001156847176515592)|翻译|7.5|
+|[JetPack Compose for Desktop 初体验](https://juejin.cn/post/6988811890780536839)|校对|2|
+|[CSS 是魔法, 是时候试试 3D 了](https://juejin.cn/post/6989868623196061727)|校对|2|
+|[缓存踩踏事件是如何导致 Facebook 最大的宕机事件之一发生的](https://juejin.cn/post/6989528598365339662)|翻译|11|
+|[HTTP 严格传输安全协议常见问题解答](https://juejin.cn/post/6987432172512608287)|校对|2|
+|[HEX vs RGB vs HSL：设置 CSS 颜色属性的最佳方法是什么](https://juejin.cn/post/6984720412160557063)|翻译|8|
+|[FFmpeg + WebAssembly](https://juejin.cn/post/6987338848023871524)|校对|3|
+|[用于 JavaScript 应用的前 5 大嵌入式数据库](https://juejin.cn/post/6984313230214578213)|校对|4|
+|[Swift 中的内存布局](https://juejin.cn/post/6986520506002472973)|校对|2|
+|[探索 ANDROID 12：启动画面](https://juejin.cn/post/6983942336824737822)|校对|5.5|
+|[使用 Husky 和 Hooks 保证 JavaScript 代码质量](https://juejin.cn/post/6983443137041530887)|校对|2|
+|[什么是服务端请求伪造（SSRF）？](https://juejin.cn/post/6985086955247632398)|校对|2|
+|[对角线分割的圆锥渐变式可变纵横比卡片](https://juejin.cn/post/6986531351184801829)|翻译|5|
+|[Rust 与 C 的速度比较](https://juejin.cn/post/6986521840621453343)|翻译|6.5|
+|6 月推荐文章 7 篇|奖励|7|
+|5 月推荐文章 6 篇|奖励|6|
+|2 月推荐 Kotlin 文章 1 篇|奖励|1|
+|2 月推荐前端文章 1 篇|奖励|1|
+|[纯 CSS 创建五彩斑斓的智慧阴影！让前景图片自动转化为对应彩色的背景阴影](https://juejin.cn/post/6975818153376874503)|翻译|3.5|
+|[面向具有 React 开发经验的开发者介绍 Svelte](https://juejin.cn/post/6981693237484339207)|校对|4|
+|[让 JavaScript 在 WebAssembly 上疾速运行](https://juejin.cn/post/6981685894470172679)|校对|5|
+|[一个编译成 JavaScript 接口框架的案例](https://juejin.cn/post/6974632431290679303)|校对|2.5|
+|[使用 Spring Cloud Gateway 作为微服务网关](https://juejin.cn/post/6973911203097608200)|校对|2|
+|[下一代 CSS：@container](https://juejin.cn/post/6981456441341132837)|翻译|5|
+|[MongoDB 高性能最佳实践：事务，读取关心程度与写入关心程度](https://juejin.cn/post/6969992828243935239)|校对|2|
+|[Android 静态分析工具](https://juejin.cn/post/6967219488341098510)|校对|4|
+|[16px 或更大的字体大小可以避免 iOS 的表单缩放问题](https://juejin.cn/post/6965814008116936718)|翻译|1|
+|[使用 GPU.js 让你的 Angular.js 程序提速 10 倍](https://juejin.cn/post/6965657517376569380)|校对|2|
+|[Node.js 与 Python：为你的项目选择哪一个？](https://juejin.cn/post/6965821795261743112)|校对|2|
+|[AI 是否已经成为内容营销的重要组成部分？](https://juejin.cn/post/6964280632801394724)|校对|1|
+|[Kotlin Multiplatform Mobile 的三模块问题](https://juejin.cn/post/6973566787799498782)|翻译|4|
+|[TypeScript 中的依赖注入](https://juejin.cn/post/6965857170646630408)|校对|2.5|
+|[Github Actions 是如何渲染超大日志的](https://juejin.cn/post/6966082485226569759)|校对|2|
+|[都 2021 年了，你还不知道这些检查 CSS 的工具？](https://juejin.cn/post/6965808560735256607)|翻译|4.5|
+|[我希望多年前就知道的 Nginx 概念](https://juejin.cn/post/6948810167618109448)|校对|2|
+|5 月推荐前端文章 1 篇|奖励|1|
+|[快停止在 CSS 中使用像素单位](https://juejin.cn/post/6963251861134508045)|翻译|6.5|
+|[JavaScript 类型化数组](https://juejin.cn/post/6963589759310495774)|翻译|5|
+|[Web 开发者应该避免的 5 个 CSS 的做法](https://juejin.cn/post/6963252241662738440)|翻译|3|
+|[有关 ECMAScript 最新版本的所有信息｜ECMAScript 2021](https://juejin.cn/post/6963250213997789197)|翻译|3|
+|[走向 kotlin 1.5](https://juejin.cn/post/6961610009096486948)|校对|1|
+|[“绿色”和“棕色”的编程语言](https://juejin.cn/post/6963157486677278757)|校对|3|
+|[现代化的 React 路由 Hookrouter 开发使用](https://juejin.cn/post/6963445160474574885)|校对|2.5|
+|[将 JavaScript 放到一边 —— 用 Mint 这门强大的语言来创建一个 Web 应用](https://juejin.cn/post/6957506898061066277)|校对|2|
+|[可以在下一个项目中使用的 20 个 Go 三方库](https://juejin.cn/post/6956587242848518158)|校对|2|
+|[Chromium 隐私沙盒让用户隐私更安全](https://juejin.cn/post/6958070229956034591)|校对|1|
+|[构建和 Telegram 一样的上传动画](https://juejin.cn/post/6956899614385504293)|翻译|5.5|
+|[Page Shield：保护浏览器中的用户数据](https://juejin.cn/post/6956969205652520973)|翻译|5|
+|[对产品经理而言的 Web 性能](https://juejin.cn/post/6959992589999144996)|校对|2|
+|3 月推荐 Kotlin 资讯类文章 1 篇|奖励|1|
+|3 月推荐前端类文章 1 篇|奖励|1|
+|3 月推荐设计类文章 1 篇|奖励|1|
+|[现代 Web 应用程序中的 Web 分享](https://juejin.cn/post/6955824573279371272)|翻译|2|
+|[Google 的 Apollo 芯片设计人工智能框架将深度学习芯片的性能提高了 25％](https://juejin.cn/post/6952819856429285407)|校对|2|
+|[Mozilla 对行业最大的贡献是 Rust，而不是火狐浏览器](https://juejin.cn/post/6952819591269580813)|校对|1.5|
+|[使用 Flutter 构建一个名言名句应用程序](https://juejin.cn/post/6955827325254500360)|翻译|2.5|
+|[使用 GitHub 代码扫描和 CodeQL 工具检测 Solorigate 等后门程序](https://juejin.cn/post/6952677372604710925)|校对|2|
+|[没有 UI 团队怎么办？分享 6 款能为独立网页开发者提效的免费工具](https://juejin.cn/post/6951207758997913636)|校对|0.5|
+|[Flutter 动画：构建一个和 Medium 一样的鼓掌动画](https://juejin.cn/post/6955826124345573384)|翻译|6|
+|[当 Android 的 Compat 库不能拯救你的时候](https://juejin.cn/post/6955828449210548261)|翻译|4.5|
+|[假如浏览器支持原生的"跳至内容"链接……](https://juejin.cn/post/6955827696731914271)|翻译|2.5|
+|[人工智能系统 Project Debater 即将提供 12 个新的云 API](https://juejin.cn/post/6955657126647857159)|校对|1.5|
+|[2021 年 Kubernetes 的开发者工具：Helm、Kustomize 和 Skaffold](https://juejin.cn/post/6951201659301134343)|校对|2.5|
+|[2021 年最值得使用的 Node.js 框架](https://juejin.cn/post/6955402195311263751)|校对|3|
+|[是时候该罢黜 JPEG，独尊新编码了](https://juejin.cn/post/6951062279760642062)|翻译|7.5|
+|[渐进式应用程序 PWA 开始衰落了吗？](https://juejin.cn/post/6953212248760254471)|翻译|3|
+|[7 个最能用于构造更整洁的 Flutter 应用的 Dart 小贴士和小技巧](https://juejin.cn/post/6955828244016791566)|翻译|4|
+|[如何打造一个好的 GitHub 用户档案？](https://juejin.cn/post/6950529817469157384)|校对|2|
+|[2019 年 MDN Web 开发者需求评估](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.md)|翻译|60|
+|[State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)|翻译|12|
+|[2019 年设计系统状况调查](https://juejin.cn/post/6935860766826299405)|翻译|6|
+|[2020 年设计系统情况](https://juejin.cn/post/6935863647084216334)|翻译|7|
+|[Apple WWDC 21 回归，6 月 7 日线上不见不散！](https://juejin.cn/post/6945531482551091237)|翻译|2.5|
+|[谷歌 DeepMind 发布 NFNet：高效的深度网络](https://juejin.cn/post/6947586233522454558)|校对|1.5|
+|[MongoDB 和 MySQL 使用场景分析](https://juejin.cn/post/6949811448767840263)|校对|3|
+|[1993 年的 CGI 脚本和早期服务端 Web 编程](https://juejin.cn/post/6947898773569962020)|翻译|6|
+|[Rust 1.51.0 发布](https://juejin.cn/post/6944238705078960165)|校对|2|
+|[Applets 应用程序的终结](https://juejin.cn/post/6949497811817725959)|校对|2|
+|[React vs. Vue 谁是 2021 年最佳 JavaScript 框架](https://juejin.cn/post/6944674279141146632)|校对|2|
+|[解决方案架构师技巧：架构图的 5 种类型](https://juejin.cn/post/6949879274157539358)|校对|3|
+|[2020 网络年鉴：热门的前端框架依然是互联网的一小部分](https://juejin.cn/post/6944674906684686366)|校对|1.5|
+|[都 2021 年了，你还不知道这 10 个 CSS 功能？](https://juejin.cn/post/6946231151874801695)|翻译|4|
+|[“高级”黑客使用 11 个零日漏洞去感染 Windows、iOS 还有 Android 用户](https://juejin.cn/post/6945702690047557669)|翻译|3.5|
+|[Java 16 发布啦～](https://juejin.cn/post/6940598703061205000)|翻译|3.5|
+|[详细解读 Webpack 的模块热替换功能](https://juejin.cn/post/6946231743837896734)|翻译|3.5|
+|[微软在 Windows 最新的测试版中内置了 Windows Terminal](https://juejin.cn/post/6941028815732736014)|翻译|1|
+|[谷歌云公开发布医疗知情同意管理 API](https://juejin.cn/post/6942398996048510989)|校对|1|
+|[斯坦福发布 2021 年人工智能指数报告](https://juejin.cn/post/6942769081363726373)|校对|1.5|
+|[Git 2.31 中的闪光点](https://juejin.cn/post/6944951701942042660)|校对|2|
+|[你的 Android 设备现在更安全了 —— 还有 5 项别的新功能！](https://juejin.cn/post/6939889283717136421)|翻译|2|
+|[Chrome 90 Beta 版本更新](https://juejin.cn/post/6939860041176449032)|翻译|2.5|
+|二月推荐 Dart 文章 1 篇|奖励|1|
+|一月推荐 Flutter 文章 4 篇|奖励|4|
+|三月推荐 4 篇前端、资讯类文章|奖励|4|
+|[Google 的开源模糊测试工具 OSS-Fuzz 现在支持 Java 应用了](https://juejin.cn/post/6942674729597665310)|翻译|2|
+|[SQLite 3.35 版本有什么新的东西？](https://juejin.cn/post/6945709972365770760)|翻译|1.5|
+|[Dropbox 发布托管服务编排平台 Atlas](https://juejin.cn/post/6943068127647236109)|翻译|4.5|
+|[2021 年 Angular vs. React vs. Vue 前端框架对比](https://juejin.cn/post/6943068367125381127)|翻译|5|
+|[Svelte NodeGUI 发布了！我们现在可以使用 Qt 和 Svelte 构建原生桌面端应用程序](https://juejin.cn/post/6939428781924810783)|翻译|1.5|
+|[Snowpack：一个可替代 Webpack 的构建工具](https://juejin.cn/post/6940820980608696334)|校对|2|
+|[无服务器化：2021 年该项技术何去何从？](https://juejin.cn/post/6945858128487383071)|校对|2|
+|[React Native 0.64 发布，已在 iOS 支持 Hermes](https://juejin.cn/post/6939117135331328030)|校对|1.5|
+|[6 倍的差距！Debug/Release 模式下启动协程耗时竟然差距这么大](https://juejin.cn/post/6943792191135285255)|校对|1|
+|[让机器学习更加公正](https://juejin.cn/post/6941964171974017031)|校对|2|
+|[Raspberry Pi 九岁啦：你可能不知道的 9 件事](https://juejin.cn/post/6939451780610654245)|翻译|4|
+|[新发布的 TypeScript 手册！先睹为快！](https://juejin.cn/post/6938614411397431304)|校对|2|
+|[2020 年 Go 语言开发者调查报告](https://juejin.cn/post/6943540695030300708)|校对|4|
+|[3 种在任何浏览器中使用 CSS 网格的后备方案](https://juejin.cn/post/6939891749665898504)|翻译|6|
+|[Android 启动技巧：不要使用 Kotlin 协程](https://juejin.cn/post/6940071555330211847)|校对|1|
+|[十年可视化开源历程](https://juejin.cn/post/6940078120556822559)|校对|2|
+|[Chrome 88 DevTools 中的新功能](https://juejin.cn/post/6938248665219727391)|翻译|2.5|
+|[NumPy 1.20 问世，带来了运行时 SIMD 的支持和类型注释](https://juejin.cn/post/6943542858792042510)|翻译|5|
+|[2021 年 1 月 RedMonk 编程语言排名](https://juejin.cn/post/6937849069721092110)|翻译|5|
+|[Python 类的 6 种替代方案](https://juejin.cn/post/6939715051779522591)|校对|3|
+|[和 Node.js 创始人 Ryan Dahl 的对话](https://juejin.cn/post/6937483576594137096)|翻译|5|
+|[实现响应式图像的四种技术策略](https://juejin.cn/post/6938237167189622814)|校对|2.5|
+|[Deno 1.8 正式发布：支持 WebGPU API、deno lsp 现在进入了稳定状态](https://juejin.cn/post/6936083986644992013)|翻译|5|
+|[重新审视 undefined 和 null](https://juejin.cn/post/6936559478909665316)|翻译|4.5|
+|[JavaScript Temporal API —— Date API 问题的一个解决方案](https://juejin.cn/post/6938358811908374559)|翻译|5|
+|[5 个 Kotlin 扩展技巧让你的 Android 代码更具表现力](https://juejin.cn/post/6939089593111166984)|校对|2|
+|[Swift 5.4 的新特性](https://juejin.cn/post/6937481372772597767)|校对|1|
+|[6 个没人讲过的 CSS 属性](https://juejin.cn/post/6937995501719519240)|翻译|5|
+|[面向 JavaScript 开发人员的 Monads](https://juejin.cn/post/6937537783653203976)|校对|2|
+|[API、WebSockets 和 WebHooks：究竟应该选谁](https://juejin.cn/post/6938359240880816165)|翻译|4.5|
+|[深入理解 Rust 所有权、借用、生命周期](https://juejin.cn/post/6937098861152305160)|校对|3|
+|[2021 年需要了解的 34 个 JavaScript 优化技巧](https://juejin.cn/post/6937828220033040415)|校对|1|
+|[Figma 生产环境中的 Rust](https://juejin.cn/post/6938351578986479653)|翻译|7|
+|[使用 CSS Painting API 自动生成图像](https://juejin.cn/post/6932088781113819150)|翻译|3.5|
+|[通过集群提高 Node.js 应用程序性能](https://juejin.cn/post/6936755284685619213)|校对|3|
+|[为什么 Service Mesh 应该淡出人们的视野](https://juejin.cn/post/6949078735404400677)|校对|2|
+|[从 RxJava 2 转向使用 Kotlin 流：多线程](https://juejin.cn/post/6944594389180088334)|翻译|12|
+|[为什么我还在用Lisp（而且你也应该用）](https://juejin.cn/post/6935225210278772766)|校对|5|
+|[使用 Node.js 实现蒙特卡洛树搜索](https://juejin.cn/post/6944240279784423461)|校对|6|
+|[在 iOS 14 中处理位置权限和管理近似地址访问](https://juejin.cn/post/6944895612001189924)|校对|2|
+|[在商业智能中使用 MongoDB 的 4 种方式 - 如何在非结构化数据中使用结构化查询分析](https://juejin.cn/post/6947820858677133343)|校对|2.5|
+|[幻数并没有我们想象中的那么奇幻](https://juejin.cn/post/6944588994915074062)|翻译|4|
+|3 月推荐前端文章 1 篇|奖励|1|
+|[为什么我对 TypeScript 黑转粉？一个 JS 开发者的深情自白](https://juejin.cn/post/6935629277870161957)|翻译|5|
+|[TypeScript 4.2 正式发布：优化了类型和开发者体验](https://juejin.cn/post/6935255387893399560)|翻译|3|
+|[在 React 中使用 Immer 管理不可变状态](https://juejin.cn/post/6935790852476239886)|校对|1.5|
+|[自适应 CSS 栅格：自由布局的最终版本](https://juejin.cn/post/6935090806210428959)|翻译|2.5|
+|[Deno 将停用 TypeScript 的五个原因](https://juejin.cn/post/6934140963262562312)|校对|2|
+|[关于 Node.js 中的异步迭代器](https://juejin.cn/post/6934596464639213576)|校对|1|
+|[Bash 中的 if else 语句](https://juejin.cn/post/6934324540692496392)|翻译|5|
+|[使用 Android 11 进行机器学习：新功能](https://juejin.cn/post/6933208209259757581)|翻译|7|
+|[CSS3 会替代 SCSS 吗？](https://juejin.cn/post/6934326962450071559)|翻译|4|
+|[代码可视化 － 使用图技术为 Python 项目绘制结构图](https://juejin.cn/post/6935232492299354120)|校对|3|
+|[我后悔没有在自己成为 React 开发者之前做的 6 件事情](https://juejin.cn/post/6934144158332354567)|翻译|3|
+|[数据科学中的 9 种距离度量](https://juejin.cn/post/6935265008045686815)|校对|4|
+|[每个人都可以理解的授权访问和身份认证](https://juejin.cn/post/6935230984619032589)|校对|5|
+|[构建像 `Messenger` 短信软件那样的 ImageView](https://juejin.cn/post/6933957885642670093)|翻译|6.5|
+|[你有设计作品的作品集吗？挺好的，但这还不够](https://juejin.cn/post/6934328263011467277)|翻译|10|
+|2 月推荐前端文章 1 篇|奖励|1|
+|2 月推荐 Android 文章 1 篇|奖励|1|
+|[JavaScript 中哪一种循环更快呢？](https://juejin.cn/post/6930973929452339213)|翻译|3|
+|[3 个最棒的最值得你去在产品中使用的 CSS Grid 功能](https://juejin.cn/post/6931372123441233927)|翻译|5|
+|[恭喜 Safari 荣获「第二个 Internet Explorer」的美誉](https://juejin.cn/post/6929754875001569294)|翻译|4|
+|[基于 50 万个浏览器指纹的新发现](https://juejin.cn/post/6930974348002590733)|校对|3|
+|[如何基于已有的 REST API 实现 GraphQL API](https://juejin.cn/post/6931145990599049223)|校对|2|
+|[你应该编译你的 JavaScript 代码吗？](https://juejin.cn/post/6926927963636105223)|翻译|5|
+|[如何在浏览器上使用 NoSQL 数据库 IndexedDB](https://juejin.cn/post/6930883284456964109)|校对|2|
+|[简述 HTTP 请求与跨域资源共享 CORS](https://juejin.cn/post/6927191095470194695)|校对|2|
+|[2021 年 JavaScript 测试框架回顾](https://juejin.cn/post/6927585452253790216)|翻译|2.5|
+|[为什么 React Hooks 是错误的抽象](https://juejin.cn/post/6930529765048713229)|校对|3|
 |1 月推荐 Flutter 文章 1 篇|奖励|1|
 |1 月推荐 Kotlin 文章 1 篇|奖励|1|
 |[SwiftUI 2 应用生命周期的终极指导](https://juejin.cn/post/6924119708832628749)|校对|2|
@@ -10822,35 +11318,701 @@
 |[GitHub Package Registry 是否值得尝试](https://juejin.cn/post/6915255280959750152)|校对|2|
 |[Flutter 可能是下一个大事件，但 Kotlin Multiplatform 一直都是大事件](https://juejin.cn/post/6916418157641105421)|校对|2|
 
-## 译者：[Ashira97](https://github.com/Ashira97) 历史贡献积分：15 当前积分：15 二零二一：15
+## 译者：[Ashira97](https://github.com/Ashira97) 历史贡献积分：51.5 当前积分：51.5
 
 |文章|类型|积分|
 |------|-------|-------|
+|[如何写一个好的说明文件](https://github.com/xitu/gold-miner/pull/8665)|翻译|6|
+|[无服务器化：2021 年该项技术何去何从？](https://juejin.cn/post/6945858128487383071)|翻译|4.5|
+|[2021 年需要了解的 34 个 JavaScript 优化技巧](https://juejin.cn/post/6937828220033040415)|校对|1|
+|[通过集群提高 Node.js 应用程序性能](https://juejin.cn/post/6936755284685619213)|校对|3|
+|[代码可视化 － 使用图技术为 Python 项目绘制结构图](https://juejin.cn/post/6935232492299354120)|翻译|8|
+|[每个人都可以理解的授权访问和身份认证](https://juejin.cn/post/6935230984619032589)|翻译|11|
+|[你应该编译你的 JavaScript 代码吗？](https://juejin.cn/post/6926927963636105223)|校对|2|
+|[2021 年 JavaScript 测试框架回顾](https://juejin.cn/post/6927585452253790216)|校对|1|
 |[Javascript Memoization 入门指南](https://juejin.cn/post/6920460950424256526)|校对|2|
 |[深入了解 JavaScript 模块](https://juejin.cn/post/6920153306392166413)|校对|3|
 |[减少 Web 应用程序中 CORS 预检时间的 4 种方法](https://juejin.cn/post/6914561805465419784)|校对|2|
 |[Node.js 安全编程的最佳实践](https://juejin.cn/post/6918757099782537224)|翻译|8|
 
-## 译者：[LoneyIsError](https://github.com/LoneyIsError) 历史贡献积分：5 当前积分：5 二零二一：5
+## 译者：[k8scat](https://github.com/k8scat) 历史贡献积分：4 当前积分：4
 
 |文章|类型|积分|
 |------|-------|-------|
-|[我们应该在什么时候使用 @State、@Binding、@ObservedObject、@EnvironmentObject 和 @Environment？](https://juejin.cn/post/6920881116043968520)|翻译|5|
-
-## 译者：[k8scat](https://github.com/k8scat) 历史贡献积分：2 当前积分：2 二零二一：2
-
-|文章|类型|积分|
-|------|-------|-------|
+|[如何基于已有的 REST API 实现 GraphQL API](https://juejin.cn/post/6931145990599049223)|校对|2|
 |[不同类型的浏览器存储](https://juejin.cn/post/6915263201882046472)|校对|2|
 
-## 译者：[HayleyLL](https://github.com/HayleyLL) 历史贡献积分：1 当前积分：1 二零二一：1
+## 译者：[HayleyLL](https://github.com/HayleyLL) 历史贡献积分：1 当前积分：1
 
 |文章|类型|积分|
 |------|-------|-------|
 |[对象展开运算符在 JavaScript 中的 5 大应用](https://juejin.cn/post/6895525536039174151)|校对|1|
 
-## 译者：[HumanBeingXenon](https://github.com/HumanBeingXenon) 历史贡献积分：2 当前积分：2 二零二一：2
+## 译者：[HumanBeingXenon](https://github.com/HumanBeingXenon) 历史贡献积分：38 当前积分：38
 
 |文章|类型|积分|
 |------|-------|-------|
+|[Kotlin Multiplatform Mobile 的三模块问题](https://juejin.cn/post/6973566787799498782)|校对|2|
+|[Flutter 动画：构建一个和 Medium 一样的鼓掌动画](https://juejin.cn/post/6955826124345573384)|校对|3|
+|[2019 年 MDN Web 开发者需求评估](https://github.com/xitu/Annual-Survey/blob/main/2019/frontend/MDN-Web-DNA-Report-2019.pdf)|翻译|8|
+|[State of Frontend 2020, TSH](https://github.com/xitu/Annual-Survey/blob/main/2020/frontend/State-of-Frontend-2020-by-TSH.pdf)|校对|5|
+|[NumPy 1.20 问世，带来了运行时 SIMD 的支持和类型注释](https://juejin.cn/post/6943542858792042510)|校对|2|
+|[API、WebSockets 和 WebHooks：究竟应该选谁](https://juejin.cn/post/6938359240880816165)|校对|2|
+|[幻数并没有我们想象中的那么奇幻](https://juejin.cn/post/6944588994915074062)|校对|2|
+|[使用 Android 11 进行机器学习：新功能](https://juejin.cn/post/6933208209259757581)|校对|3|
+|[构建像 `Messenger` 短信软件那样的 ImageView](https://juejin.cn/post/6933957885642670093)|校对|3|
+|[你有设计作品的作品集吗？挺好的，但这还不够](https://juejin.cn/post/6934328263011467277)|校对|5|
+|[JavaScript 中哪一种循环更快呢？](https://juejin.cn/post/6930973929452339213)|校对|1|
 |[Android 中的意料之外的应用崩溃以及解决它们的方法](https://juejin.cn/post/6925336143953133581)|校对|2|
+
+## 译者：[fltenwall](https://github.com/fltenwall) 历史贡献积分：8 当前积分：8
+
+|文章|类型|积分|
+|------|-------|-------|
+|[幻数并没有我们想象中的那么奇幻](https://juejin.cn/post/6944588994915074062)|校对|2|
+|[为什么 React Hooks 是错误的抽象](https://juejin.cn/post/6930529765048713229)|翻译|6|
+
+## 译者：[zqp1226358](https://github.com/zqp1226358) 历史贡献积分：2 当前积分：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[3 个最棒的最值得你去在产品中使用的 CSS Grid 功能](https://juejin.cn/post/6931372123441233927)|校对|2|
+
+## 译者：[icicle198514](https://github.com/icicle198514) 历史贡献积分：5 当前积分：5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[函数式编程 —— 使用 Python、JavaScript 和 Java 描述](https://juejin.cn/post/6930638275241574407)|校对|5|
+
+## 译者：[flying-yogurt](https://github.com/flying-yogurt) 历史贡献积分：12 当前积分：12
+
+|文章|类型|积分|
+|------|-------|-------|
+|[对产品经理而言的 Web 性能](https://juejin.cn/post/6959992589999144996)|翻译|6|
+|[Python 类的 6 种替代方案](https://juejin.cn/post/6939715051779522591)|校对|3|
+|[Swift 5.4 的新特性](https://juejin.cn/post/6937481372772597767)|校对|1|
+|[Bash 中的 if else 语句](https://juejin.cn/post/6934324540692496392)|校对|2|
+
+## 译者：[felixliao](https://github.com/felixliao) 历史贡献积分：18 当前积分：18
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Github Actions 是如何渲染超大日志的](https://juejin.cn/post/6966082485226569759)|翻译|5|
+|[2020 网络年鉴：热门的前端框架依然是互联网的一小部分](https://juejin.cn/post/6944674906684686366)|翻译|3.5|
+|[2021 年 Angular vs. React vs. Vue 前端框架对比](https://juejin.cn/post/6943068367125381127)|校对|2|
+|[Snowpack：一个可替代 Webpack 的构建工具](https://juejin.cn/post/6940820980608696334)|翻译|4|
+|[重新审视 undefined 和 null](https://juejin.cn/post/6936559478909665316)|校对|2|
+|[在 React 中使用 Immer 管理不可变状态](https://juejin.cn/post/6935790852476239886)|校对|1.5|
+
+## 译者：[itcodes](https://github.com/itcodes) 历史贡献积分：3 当前积分：3
+
+|文章|类型|积分|
+|------|-------|-------|
+|[新发布的 TypeScript 手册！先睹为快！](https://juejin.cn/post/6938614411397431304)|校对|1|
+|[为什么我对 TypeScript 黑转粉？一个 JS 开发者的深情自白](https://juejin.cn/post/6935629277870161957)|校对|2|
+
+## 译者：[husiyu](https://github.com/husiyu) 历史贡献积分：8 当前积分：8
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Apple WWDC 21 回归，6 月 7 日线上不见不散！](https://juejin.cn/post/6945531482551091237)|校对|1|
+|[Dropbox 发布托管服务编排平台 Atlas](https://juejin.cn/post/6943068127647236109)|校对|1.5|
+|[Raspberry Pi 九岁啦：你可能不知道的 9 件事](https://juejin.cn/post/6939451780610654245)|校对|2|
+|[Python 的 JSON 库：按速度，成熟度和操作安全性进行比较](https://juejin.cn/post/6943859233779613704)|校对|2|
+|[为什么我对 TypeScript 黑转粉？一个 JS 开发者的深情自白](https://juejin.cn/post/6935629277870161957)|校对|1.5|
+
+## 译者：[huifrank](https://github.com/huifrank) 历史贡献积分：9 当前积分：9
+
+|文章|类型|积分|
+|------|-------|-------|
+|4 月推荐后端类文章 1 篇|奖励|1|
+|[以在线的方式添加唯一约束](https://juejin.cn/post/6955659229311008781)|校对|1|
+|[Google 的开源模糊测试工具 OSS-Fuzz 现在支持 Java 应用了](https://juejin.cn/post/6942674729597665310)|校对|1|
+|[在商业智能中使用 MongoDB 的 4 种方式 - 如何在非结构化数据中使用结构化查询分析](https://juejin.cn/post/6947820858677133343)|翻译|6|
+
+## 译者：[greycodee](https://github.com/greycodee) 历史贡献积分：76 当前积分：76 二零二二：4.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Android 开发中的 SQLDelight 入门](https://juejin.cn/post/7111246458895990792)|校对|1.5|
+|1 月推荐前端文章一篇|奖励|1|
+|[2021 年 Node.js 的发展趋势](https://juejin.cn/post/7024755055244869639/)|校对|2|
+|8 月推荐资讯文章 1 篇|奖励|1|
+|[如何做会议记录](https://github.com/xitu/gold-miner/pull/8738)|校对|2|
+|[如何召开在线会议](https://github.com/xitu/gold-miner/pull/8739)|校对|2|
+|[React Native 开发者的流行存储方案](https://juejin.cn/post/7008020729832669191)|校对|2.5|
+|[无密码认证，安全更有保障](https://juejin.cn/post/7007820358854115336)|校对|2|
+|[使用 TypeScript 时你会想念的 Python 特性](https://juejin.cn/post/7007327298013626399)|校对|3|
+|[使用人工智能/机器学习构建文章推荐引擎](https://juejin.cn/post/7001479252163952670)|校对|2.5|
+|[在 JavaScript 中使用正则表达式的隐患](https://juejin.cn/post/7005168628647591950)|校对|2|
+|[可以在 GitHub.dev 做的十件有趣的事](https://juejin.cn/post/7004738629092261895)|翻译|4|
+|[进阶 Python：在 Python 应用中实现缓存](https://juejin.cn/post/7000696203545411615)|校对|4.5|
+|[我用 Python 创造了一门自己的编程语言](https://juejin.cn/post/7001316107768463368)|校对|1.5|
+|5 月推荐后端文章 1 篇|奖励|1|
+|[使用 Spring Cloud Gateway 作为微服务网关](https://juejin.cn/post/6973911203097608200)|翻译|5|
+|[什么是 SQL 注入攻击？如何阻止它](https://juejin.cn/post/6960849763688251406)|校对|1.5|
+|[构建和 Telegram 一样的上传动画](https://juejin.cn/post/6956899614385504293)|校对|2.5|
+|[Postgres 和 MySQL 之间的性能差异](https://juejin.cn/post/6959903781366530079)|翻译|4.5|
+|[对产品经理而言的 Web 性能](https://juejin.cn/post/6959992589999144996)|校对|2|
+|4 月推荐后端类文章 1 篇|奖励|1|
+|[使用 VPython 进行物理模拟](https://juejin.cn/post/6955292986909409288)|校对|1.5|
+|[以在线的方式添加唯一约束](https://juejin.cn/post/6955659229311008781)|校对|1|
+|[Mozilla 对行业最大的贡献是 Rust，而不是火狐浏览器](https://juejin.cn/post/6952819591269580813)|翻译|4.5|
+|[使用 Flutter 构建一个名言名句应用程序](https://juejin.cn/post/6955827325254500360)|校对|1|
+|[使用 GitHub 代码扫描和 CodeQL 工具检测 Solorigate 等后门程序](https://juejin.cn/post/6952677372604710925)|校对|2|
+|[没有 UI 团队怎么办？分享 6 款能为独立网页开发者提效的免费工具](https://juejin.cn/post/6951207758997913636)|校对|0.5|
+|[Flutter 动画：构建一个和 Medium 一样的鼓掌动画](https://juejin.cn/post/6955826124345573384)|校对|3|
+|[当 Android 的 Compat 库不能拯救你的时候](https://juejin.cn/post/6955828449210548261)|校对|2|
+|[人工智能系统 Project Debater 即将提供 12 个新的云 API](https://juejin.cn/post/6955657126647857159)|校对|1.5|
+|[2021 年 Kubernetes 的开发者工具：Helm、Kustomize 和 Skaffold](https://juejin.cn/post/6951201659301134343)|校对|2.5|
+|[7 个最能用于构造更整洁的 Flutter 应用的 Dart 小贴士和小技巧](https://juejin.cn/post/6955828244016791566)|校对|2|
+|[MongoDB 和 MySQL 使用场景分析](https://juejin.cn/post/6949811448767840263)|校对|3|
+|[在商业智能中使用 MongoDB 的 4 种方式 - 如何在非结构化数据中使用结构化查询分析](https://juejin.cn/post/6947820858677133343)|校对|2.5|
+
+## 译者：[1autodidact](https://github.com/1autodidact) 历史贡献积分：11 当前积分：11 二零二二：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[SREs 和 DevOps 十大开源项目](https://juejin.cn/post/7089270839475978253)|校对|2|
+|[解密 Java Lambda 表达式](https://juejin.cn/post/6976973764277846023)|校对|2.5|
+|[Dagger，Hilt 以及 Koin 的本质区别是什么？](https://juejin.cn/post/6965687767011426317)|校对|2|
+|[Postgres 和 MySQL 之间的性能差异](https://juejin.cn/post/6959903781366530079)|校对|2|
+|[Google 的开源模糊测试工具 OSS-Fuzz 现在支持 Java 应用了](https://juejin.cn/post/6942674729597665310)|校对|0.5|
+|[为什么 Service Mesh 应该淡出人们的视野](https://juejin.cn/post/6949078735404400677)|校对|2|
+
+## 译者：[youngjuning](https://github.com/youngjuning) 历史贡献积分：45.5 当前积分：45.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[修订后的参与 TC39 标准委员会的模式](https://github.com/xitu/gold-miner/pull/8684)|翻译|10|
+|[2021 年最值得使用的 Node.js 框架](https://juejin.cn/post/6955402195311263751)|翻译|6|
+|[Rust 1.51.0 发布](https://juejin.cn/post/6944238705078960165)|翻译|4|
+|[解决方案架构师技巧：架构图的 5 种类型](https://juejin.cn/post/6949879274157539358)|翻译|6|
+|[谷歌抨击微软“试图破坏开放 web 的运作方式”](https://juejin.cn/post/6949401776751640583)|翻译|2.5|
+|[React Native 0.64 发布，已在 iOS 支持 Hermes](https://juejin.cn/post/6939117135331328030)|翻译|3|
+|[Python 的 JSON 库：按速度，成熟度和操作安全性进行比较](https://juejin.cn/post/6943859233779613704)|翻译|4|
+|[深入理解 Rust 所有权、借用、生命周期](https://juejin.cn/post/6937098861152305160)|翻译|7|
+|[Figma 生产环境中的 Rust](https://juejin.cn/post/6938351578986479653)|校对|3|
+
+## 译者：[MoonBall](https://github.com/MoonBall) 历史贡献积分：22 当前积分：22
+
+|文章|类型|积分|
+|------|-------|-------|
+|[什么是服务端请求伪造（SSRF）？](https://juejin.cn/post/6985086955247632398)|翻译|4|
+|5 月推荐后端文章 1 篇|奖励|1|
+|5 月推荐安全类型文章 2 篇|奖励|2|
+|[目录遍历攻击](https://juejin.cn/post/6964198482202755108)|翻译|3|
+|[什么是 SQL 注入攻击？如何阻止它](https://juejin.cn/post/6960849763688251406)|翻译|3.5|
+|[跨站脚本攻击（XSS）](https://juejin.cn/post/6959080994653601806)|翻译|5.5|
+|4 月推荐后端文章 1 篇|奖励|1|
+|[重新审视 undefined 和 null](https://juejin.cn/post/6936559478909665316)|校对|2|
+
+## 译者：[a651092254](https://github.com/a651092254) 历史贡献积分：2 当前积分：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Python 的 JSON 库：按速度，成熟度和操作安全性进行比较](https://juejin.cn/post/6943859233779613704)|校对|2|
+
+## 译者：[momodiy](https://github.com/momodiy) 历史贡献积分：4.5 当前积分：4.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[十年可视化开源历程](https://juejin.cn/post/6940078120556822559)|翻译|4.5|
+
+## 译者：[W-Qing](https://github.com/W-Qing) 历史贡献积分：2 当前积分：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[十年可视化开源历程](https://juejin.cn/post/6940078120556822559)|校对|2|
+
+## 译者：[5Reasons](https://github.com/5Reasons) 历史贡献积分：26.5 当前积分：26.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[AI 是否已经成为内容营销的重要组成部分？](https://juejin.cn/post/6964280632801394724)|翻译|3|
+|[为 Web 开发同学准备的 11 个简单实用的 UI 设计小技巧](https://juejin.cn/post/6960922956876742669)|翻译|4|
+|[使用 Flutter 构建一个名言名句应用程序](https://juejin.cn/post/6955827325254500360)|校对|1|
+|[没有 UI 团队怎么办？分享 6 款能为独立网页开发者提效的免费工具](https://juejin.cn/post/6951207758997913636)|翻译|2|
+|[Grafana 为其可视化产品栈新增企业级日志服务](https://juejin.cn/post/6951201259495882788)|翻译|3|
+|[7 个最能用于构造更整洁的 Flutter 应用的 Dart 小贴士和小技巧](https://juejin.cn/post/6955828244016791566)|校对|2|
+|[Applets 应用程序的终结](https://juejin.cn/post/6949497811817725959)|翻译|5|
+|[详细解读 Webpack 的模块热替换功能](https://juejin.cn/post/6946231743837896734)|校对|1.5|
+|[Dropbox 发布托管服务编排平台 Atlas](https://juejin.cn/post/6943068127647236109)|校对|1.5|
+|[6 倍的差距！Debug/Release 模式下启动协程耗时竟然差距这么大](https://juejin.cn/post/6943792191135285255)|校对|1|
+|[新型前端构建工具 Vitejs 开发使用](https://juejin.cn/post/6949544614760185886)|校对|2.5|
+
+## 译者：[shentaowang](https://github.com/shentaowang) 历史贡献积分：3.5 当前积分：3.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[谷歌 DeepMind 发布 NFNet：高效的深度网络](https://juejin.cn/post/6947586233522454558)|校对|1.5|
+|[让机器学习更加公正](https://juejin.cn/post/6941964171974017031)|校对|2|
+
+## 译者：[kamly](https://github.com/kamly) 历史贡献积分：41.5 当前积分：41.5 二零二二：6.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[使用接口编写更优雅的 PHP 代码](https://juejin.cn/post/7091241380533665829)|校对|4.5|
+|[SREs 和 DevOps 十大开源项目](https://juejin.cn/post/7089270839475978253)|校对|2|
+|[缓存踩踏事件是如何导致 Facebook 最大的宕机事件之一发生的](https://juejin.cn/post/6989528598365339662)|校对|5|
+|[什么是服务端请求伪造（SSRF）？](https://juejin.cn/post/6985086955247632398)|校对|2|
+|[你真的应该在黑暗模式下进行编码吗？](https://juejin.cn/post/6977639449580699684)|翻译|3.5|
+|[Node.js 与 Python：为你的项目选择哪一个？](https://juejin.cn/post/6965821795261743112)|翻译|5|
+|[目录遍历攻击](https://juejin.cn/post/6964198482202755108)|校对|1.5|
+|[跨站脚本攻击（XSS）](https://juejin.cn/post/6959080994653601806)|校对|2.5|
+|[可以在下一个项目中使用的 20 个 Go 三方库](https://juejin.cn/post/6956587242848518158)|校对|2|
+|[Postgres 和 MySQL 之间的性能差异](https://juejin.cn/post/6959903781366530079)|校对|2|
+|[以在线的方式添加唯一约束](https://juejin.cn/post/6955659229311008781)|翻译|2|
+|[2021 年 Kubernetes 的开发者工具：Helm、Kustomize 和 Skaffold](https://juejin.cn/post/6951201659301134343)|翻译|5.5|
+|[SQLite 3.35 版本有什么新的东西？](https://juejin.cn/post/6945709972365770760)|校对|0.5|
+|[Dropbox 发布托管服务编排平台 Atlas](https://juejin.cn/post/6943068127647236109)|校对|1.5|
+|[无服务器化：2021 年该项技术何去何从？](https://juejin.cn/post/6945858128487383071)|校对|2|
+
+## 译者：[wumrwds](https://github.com/wumrwds) 历史贡献积分：4 当前积分：4
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Applets 应用程序的终结](https://juejin.cn/post/6949497811817725959)|校对|2|
+|[为什么 Java 在 25 年之后依旧如此年轻：一个架构师的看法](https://juejin.cn/post/6943795842918645773)|校对|2|
+
+## 译者：[zhangcong2711](https://github.com/zhangcong2711) 历史贡献积分：1.5 当前积分：1.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[斯坦福发布 2021 年人工智能指数报告](https://juejin.cn/post/6942769081363726373)|校对|1.5|
+
+## 译者：[Kimhooo](https://github.com/Kimhooo) 历史贡献积分：107 当前积分：107 二零二二：10
+
+|文章|类型|积分|
+|------|-------|-------|
+|[什么是移动端 DevOps，为什么值得你关注？](https://juejin.cn/post/7113577700543397918)|校对|10|
+|[如何举办一个 TC39 会议](https://github.com/xitu/gold-miner/pull/8734)|校对|2|
+|[在 TC39 提起一项提案](https://github.com/xitu/gold-miner/pull/8594)|校对|5|
+|[Jetpack Compose：样式和主题（第二部分）](https://juejin.cn/post/6995419287435345934)|翻译|4|
+|[探索 ANDROID 12：启动画面](https://juejin.cn/post/6983942336824737822)|翻译|12|
+|5 月 6 月推荐 Android 文章 4 篇|奖励|4|
+|[解密 Java Lambda 表达式](https://juejin.cn/post/6976973764277846023)|校对|2.5|
+|[Jetpack Compose：更简便的 RecyclerView（第一部分）](https://juejin.cn/post/6970858140824764424)|翻译|9.5|
+|[使用 CI/CD 优化前端构建的五种策略](https://juejin.cn/post/6969016052894154789)|校对|2|
+|[CSS是编程语言吗？](https://juejin.cn/post/6969040502146465829)|校对|1.5|
+|[Android 静态分析工具](https://juejin.cn/post/6967219488341098510)|翻译|8|
+|[提高 Firefox 在 Linux 上的稳定性](https://juejin.cn/post/6967580662479978504)|校对|2|
+|[Node.js 与 Python：为你的项目选择哪一个？](https://juejin.cn/post/6965821795261743112)|校对|2|
+|[Kotlin Multiplatform Mobile 的三模块问题](https://juejin.cn/post/6973566787799498782)|校对|2|
+|[Dagger，Hilt 以及 Koin 的本质区别是什么？](https://juejin.cn/post/6965687767011426317)|校对|2|
+|[Github Actions 是如何渲染超大日志的](https://juejin.cn/post/6966082485226569759)|校对|2|
+|[深入理解 CORS：发展史、工作原理和最佳实践](https://juejin.cn/post/6965042086467633166)|校对|5|
+|[使用 Web Workers 来加速 JavaScript 应用](https://juejin.cn/post/6965861854023254047)|校对|2|
+|[快停止在 CSS 中使用像素单位](https://juejin.cn/post/6963251861134508045)|校对|3|
+|[JavaScript 类型化数组](https://juejin.cn/post/6963589759310495774)|校对|2.5|
+|[为 Web 开发同学准备的 11 个简单实用的 UI 设计小技巧](https://juejin.cn/post/6960922956876742669)|校对|2|
+|[走向 kotlin 1.5](https://juejin.cn/post/6961610009096486948)|校对|1|
+|[“绿色”和“棕色”的编程语言](https://juejin.cn/post/6963157486677278757)|校对|3|
+|[Numpy 在 GPU/TPU 上的性能](https://juejin.cn/post/6957526953502982181)|校对|2|
+|[构建和 Telegram 一样的上传动画](https://juejin.cn/post/6956899614385504293)|校对|2.5|
+|[使用 VPython 进行物理模拟](https://juejin.cn/post/6955292986909409288)|校对|1.5|
+|[当 Android 的 Compat 库不能拯救你的时候](https://juejin.cn/post/6955828449210548261)|校对|2|
+|[假如浏览器支持原生的"跳至内容"链接……](https://juejin.cn/post/6955827696731914271)|校对|1|
+|[人工智能系统 Project Debater 即将提供 12 个新的云 API](https://juejin.cn/post/6955657126647857159)|翻译|4|
+|[是时候该罢黜 JPEG，独尊新编码了](https://juejin.cn/post/6951062279760642062)|校对|3|
+|[Apple WWDC 21 回归，6 月 7 日线上不见不散！](https://juejin.cn/post/6945531482551091237)|校对|1|
+|[“高级”黑客使用 11 个零日漏洞去感染 Windows、iOS 还有 Android 用户](https://juejin.cn/post/6945702690047557669)|校对|1|
+
+## 译者：[KimYangOfCat](https://github.com/KimYangOfCat) 历史贡献积分：140.5 当前积分：140.5 二零二二：1.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[作为一名前端工程师我浪费时间学习了这些技术](https://juejin.cn/post/7086019601372282888)|校对|1.5|
+|[如何举办一个 TC39 会议](https://github.com/xitu/gold-miner/pull/8734)|校对|2|
+|[如何做会议记录](https://github.com/xitu/gold-miner/pull/8738)|校对|2|
+|[TC39 与知识产权（IP）](https://github.com/xitu/gold-miner/pull/8893)|校对|3|
+|[简述 JavaScript 的事件捕获和事件冒泡](https://juejin.cn/post/7005558885947965454)|校对|2.5|
+|[React Native 开发者的流行存储方案](https://juejin.cn/post/7008020729832669191)|翻译|5.5|
+|[Web 的未来](https://juejin.cn/post/7006492657379704846)|校对|4|
+|[使用人工智能/机器学习构建文章推荐引擎](https://juejin.cn/post/7001479252163952670)|校对|2.5|
+|[如何使用 ES6 新增 Symbols 代替 null](https://juejin.cn/post/7003689525507538958)|校对|1.5|
+|[成为 TC39 代表](https://github.com/xitu/gold-miner/pull/8837)|校对|1.5|
+|[如何参与会议](https://github.com/xitu/gold-miner/pull/8735)|校对|3|
+|[阶段 3 提案评审](https://github.com/xitu/gold-miner/pull/8674)|校对|1|
+|[如何阅读一份提案草案？](https://github.com/xitu/gold-miner/pull/8627)|校对|1|
+|[向 TC39 提交提案](https://github.com/xitu/gold-miner/pull/8686)|校对|1|
+|[简述 TC39 提案的传送和执行流程](https://github.com/xitu/gold-miner/pull/8673)|校对|2|
+|[如何针对 ECMAScript 规范创建一个拉取请求](https://github.com/xitu/gold-miner/pull/8626)|校对|2|
+|[如何提供有用的反馈](https://github.com/xitu/gold-miner/pull/8653)|校对|2|
+|[如何写一个好的说明文件](https://github.com/xitu/gold-miner/pull/8665)|校对|2|
+|[在 TC39 提起一项提案](https://github.com/xitu/gold-miner/pull/8594)|校对|5|
+|[修订后的参与 TC39 标准委员会的模式](https://github.com/xitu/gold-miner/pull/8684)|校对|3|
+|[在 JavaScript 中使用正则表达式的隐患](https://juejin.cn/post/7005168628647591950)|校对|2|
+|[每个 Web 开发人员都应该知道的 4 个 iframe 安全问题](https://juejin.cn/post/7004430026187735047)|校对|2|
+|[别让轮播毁了你的应用程序](https://juejin.cn/post/7003637296050225189)|校对|2|
+|[5 个 JavaScript 的字符操作库](https://juejin.cn/post/7002921261814939661)|校对|2|
+|[可以在 GitHub.dev 做的十件有趣的事](https://juejin.cn/post/7004738629092261895)|校对|2|
+|[进阶 Python：在 Python 应用中实现缓存](https://juejin.cn/post/7000696203545411615)|校对|4.5|
+|[分布式追踪事项](https://juejin.cn/post/7002917628326969381)|校对|5.5|
+|[CSS 选择器嵌套已经来了🤯🤯🤯！](https://juejin.cn/post/6999124599938449415)|校对|1|
+|[在 Python 中用最快的速度发送 HTTP 请求](https://juejin.cn/post/7000315185411915807)|校对|2|
+|[11 个让你惊叹的 罕见 JavaScript 单行代码](https://juejin.cn/post/6998734064773660702)|校对|2|
+|[用 Sass 的 !default 创建样式表的特征标识](https://juejin.cn/post/7002097448323645471)|校对|2|
+|[不经测试的 Python 代码就已离崩溃不远了](https://juejin.cn/post/6998149281576288292)|校对|3.5|
+|[可视化 JavaScript 引擎](https://juejin.cn/post/6993165856834322440)|校对|2|
+|[我用 Python 创造了一门自己的编程语言](https://juejin.cn/post/7001316107768463368)|校对|1.5|
+|[常见的社会工程攻击策略](https://juejin.cn/post/6999561784705155102)|校对|5|
+|[如何打造可被摇树优化的库](https://juejin.cn/post/6977334810536575013)|校对|9|
+|[纯 CSS 创建五彩斑斓的智慧阴影！让前景图片自动转化为对应彩色的背景阴影](https://juejin.cn/post/6975818153376874503)|校对|1.5|
+|[你真的应该在黑暗模式下进行编码吗？](https://juejin.cn/post/6977639449580699684)|校对|1.5|
+|[Chrome 92 DevTools 的新功能](https://juejin.cn/post/6976944954056638495)|校对|2|
+|[用 JavaScript 访问用户设备硬件的新标准](https://juejin.cn/post/6971626604933939231)|校对|2|
+|[一个编译成 JavaScript 接口框架的案例](https://juejin.cn/post/6974632431290679303)|校对|2.5|
+|[简述 JavaScript 高阶函数的开发使用](https://juejin.cn/post/6977649537812791303)|校对|2|
+|[下一代 CSS：@container](https://juejin.cn/post/6981456441341132837)|校对|2|
+|[使用 CI/CD 优化前端构建的五种策略](https://juejin.cn/post/6969016052894154789)|校对|2|
+|[Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)|校对|2|
+|[简述自动生成的社交媒体图片](https://juejin.cn/post/6972850971432976392)|校对|2|
+|[16px 或更大的字体大小可以避免 iOS 的表单缩放问题](https://juejin.cn/post/6965814008116936718)|校对|0.5|
+|[使用 GPU.js 让你的 Angular.js 程序提速 10 倍](https://juejin.cn/post/6965657517376569380)|校对|2|
+|[TypeScript 中的依赖注入](https://juejin.cn/post/6965857170646630408)|校对|2.5|
+|[使用 Web Workers 来加速 JavaScript 应用](https://juejin.cn/post/6965861854023254047)|校对|2|
+|[快停止在 CSS 中使用像素单位](https://juejin.cn/post/6963251861134508045)|校对|3|
+|[JavaScript 类型化数组](https://juejin.cn/post/6963589759310495774)|校对|2.5|
+|[Web 开发者应该避免的 5 个 CSS 的做法](https://juejin.cn/post/6963252241662738440)|校对|1.5|
+|[有关 ECMAScript 最新版本的所有信息｜ECMAScript 2021](https://juejin.cn/post/6963250213997789197)|校对|1.5|
+|[为 Web 开发同学准备的 11 个简单实用的 UI 设计小技巧](https://juejin.cn/post/6960922956876742669)|校对|2|
+|[现代化的 React 路由 Hookrouter 开发使用](https://juejin.cn/post/6963445160474574885)|校对|2.5|
+|[将 JavaScript 放到一边 —— 用 Mint 这门强大的语言来创建一个 Web 应用](https://juejin.cn/post/6957506898061066277)|校对|2|
+|[从 React 转换到 Next.js 的五个理由](https://juejin.cn/post/6956893345750712350)|校对|3|
+
+## 译者：[Cyberhan123](https://github.com/Cyberhan123) 历史贡献积分：1 当前积分：1
+
+|文章|类型|积分|
+|------|-------|-------|
+|[从 React 转换到 Next.js 的五个理由](https://juejin.cn/post/6956893345750712350)|校对|1|
+
+## 译者：[CristoMonte](https://github.com/CristoMonte) 历史贡献积分：6.5 当前积分：6.5 二零二二：3.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[你真的了解 Y(A)ML 吗？](https://juejin.cn/post/7021380596077166622/)|校对|3.5|
+|[Chromium 隐私沙盒让用户隐私更安全](https://juejin.cn/post/6958070229956034591)|校对|3|
+
+## 译者：[Tong-H](https://github.com/Tong-H) 历史贡献积分：75 当前积分：75 二零二二：23.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[你应该知道的 Node.js 内存限制](https://juejin.cn/post/7087578623393136670)|校对|3|
+|[过度使用懒加载对 Web 性能的影响](https://juejin.cn/post/7074759905197948935)|翻译|5|
+|[使用 Stream 构建高性能的 Node.js 应用](https://juejin.cn/post/7078964784980295694)|翻译|8.5|
+|[双向绑定会使你的 React 代码更棒](https://juejin.cn/post/7064371133243457544)|翻译|2|
+|[2021 年 Node.js 的发展趋势](https://juejin.cn/post/7024755055244869639/)|翻译|5|
+|[使用 TypeScript 时你会想念的 Python 特性](https://juejin.cn/post/7007327298013626399)|翻译|6|
+|[在 React 中使用 BLoC 模式](https://juejin.cn/post/6996608844776341540)|校对|2|
+|[使用 PeerJS 轻松实现 P2P 通信](https://juejin.cn/post/6997264971415420942)|翻译|4.5|
+|[可视化 JavaScript 引擎](https://juejin.cn/post/6993165856834322440)|翻译|4.5|
+|[CSS 是魔法, 是时候试试 3D 了](https://juejin.cn/post/6989868623196061727)|翻译|5|
+|[用于 JavaScript 应用的前 5 大嵌入式数据库](https://juejin.cn/post/6984313230214578213)|翻译|8|
+|[面向具有 React 开发经验的开发者介绍 Svelte](https://juejin.cn/post/6981693237484339207)|翻译|8|
+|[一个编译成 JavaScript 接口框架的案例](https://juejin.cn/post/6974632431290679303)|翻译|5.5|
+|[提高 Firefox 在 Linux 上的稳定性](https://juejin.cn/post/6967580662479978504)|翻译|4.5|
+|[Github Actions 是如何渲染超大日志的](https://juejin.cn/post/6966082485226569759)|校对|2|
+|[有关 ECMAScript 最新版本的所有信息｜ECMAScript 2021](https://juejin.cn/post/6963250213997789197)|校对|1.5|
+
+## 译者：[ningzhy3](https://github.com/ningzhy3) 历史贡献积分：2 当前积分：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[我希望多年前就知道的 Nginx 概念](https://juejin.cn/post/6948810167618109448)|校对|2|
+
+## 译者：[Miigon](https://github.com/Miigon) 历史贡献积分：9 当前积分：9
+
+|文章|类型|积分|
+|------|-------|-------|
+|[如何提供有用的反馈](https://github.com/xitu/gold-miner/pull/8653)|校对|2|
+|5 月推荐后端文章 1 篇|奖励|1|
+|[MongoDB 高性能最佳实践：事务，读取关心程度与写入关心程度](https://juejin.cn/post/6969992828243935239)|翻译|4|
+|[Node.js 与 Python：为你的项目选择哪一个？](https://juejin.cn/post/6965821795261743112)|校对|2|
+
+## 译者：[darkyzhou](https://github.com/darkyzhou) 历史贡献积分：25 当前积分：25
+
+|文章|类型|积分|
+|------|-------|-------|
+|6 月推荐前端文章 1 篇|奖励|1|
+|[如何打造可被摇树优化的库](https://juejin.cn/post/6977334810536575013)|翻译|22|
+|[Chrome 浏览器的自定义状态伪类](https://juejin.cn/post/6969923484776398855)|校对|2|
+
+## 译者：[cncuckoo](https://github.com/cncuckoo) 历史贡献积分：4.5 当前积分：4.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[向 TC39 提交提案](https://github.com/xitu/gold-miner/pull/8686)|校对|1|
+|[CSS是编程语言吗？](https://juejin.cn/post/6969040502146465829)|翻译|3.5|
+
+## 译者：[kimberlyohq](https://github.com/kimberlyohq) 历史贡献积分：10 当前积分：10 二零二二：1
+
+|文章|类型|积分|
+|------|-------|-------|
+|[不要信任 JavaScript 里的 const](https://juejin.cn/post/7047407322003406855)|校对|1|
+|[如何针对 ECMAScript 规范创建一个拉取请求](https://github.com/xitu/gold-miner/pull/8626)|校对|1|
+|[如何写一个好的说明文件](https://github.com/xitu/gold-miner/pull/8665)|校对|2|
+|[React 18 中新的 Suspense SSR 架构](https://juejin.cn/post/6982010092258328583)|校对|4|
+|[MongoDB 高性能最佳实践：事务，读取关心程度与写入关心程度](https://juejin.cn/post/6969992828243935239)|校对|2|
+
+## 译者：[qq1120637483](https://github.com/qq1120637483) 历史贡献积分：5 当前积分：5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[修订后的参与 TC39 标准委员会的模式](https://github.com/xitu/gold-miner/pull/8684)|校对|3|
+|[使用 Spring Cloud Gateway 作为微服务网关](https://juejin.cn/post/6973911203097608200)|校对|2|
+
+## 译者：[finalwhy](https://github.com/finalwhy) 历史贡献积分：80 当前积分：80 二零二二：43.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[设计类和对象的结构型模式](https://juejin.cn/post/7112103577967362084)|校对|4|
+|[Express vs. http - API 基准测试](https://juejin.cn/post/7113566528519274533)|翻译|3|
+|[你应该知道的 Node.js 内存限制](https://juejin.cn/post/7087578623393136670)|校对|3|
+|[JavaScript  首要知识之不可变性](https://juejin.cn/post/7095939240990605325)|翻译|6|
+|[如何用 React 实现 Memoization 以提高性能](https://juejin.cn/post/7079775223783882760)|校对|5.5|
+|[用 PNPM Workspaces 替换 Lerna + Yarn](https://juejin.cn/post/7071992448511279141)|校对|7|
+|[HTTP/3 为什么这么快？](https://juejin.cn/post/7055178022445383694)|校对|4|
+|[100 个能提升软件开发效率的小技巧](https://juejin.cn/post/7049260702850105374)|校对|3.5|
+|[你真的了解 Y(A)ML 吗？](https://juejin.cn/post/7021380596077166622/)|翻译|7.5|
+|[TC39 与知识产权（IP）](https://github.com/xitu/gold-miner/pull/8893)|翻译|6|
+|[成为 TC39 代表](https://github.com/xitu/gold-miner/pull/8837)|翻译|2.5|
+|[如何在第 4 阶段之前体验一个提案](https://github.com/xitu/gold-miner/pull/8921)|校对|1|
+|[V8 v9.2 发布](https://juejin.cn/post/6989053414441222175)|翻译|4|
+|[简述 JavaScript 三个不应使用的功能](https://juejin.cn/post/6987713761444364296)|校对|3|
+|[FFmpeg + WebAssembly](https://juejin.cn/post/6987338848023871524)|翻译|7|
+|[用于 JavaScript 应用的前 5 大嵌入式数据库](https://juejin.cn/post/6984313230214578213)|校对|4|
+|[我喜欢的微服务间通信模式](https://juejin.cn/post/6984400194615902238)|校对|5|
+|[使用 Husky 和 Hooks 保证 JavaScript 代码质量](https://juejin.cn/post/6983443137041530887)|校对|2|
+|[Chrome 92 DevTools 的新功能](https://juejin.cn/post/6976944954056638495)|校对|2|
+
+## 译者：[zaviertang](https://github.com/zaviertang) 历史贡献积分：40.5 当前积分：40.5 二零二二：22.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[5个关于 UI 设计系统的误解](https://juejin.cn/post/7086291006286462990)|校对|2|
+|[如何用 React 实现 Memoization 以提高性能](https://juejin.cn/post/7079775223783882760)|翻译|11|
+|[使用 Stream 构建高性能的 Node.js 应用](https://juejin.cn/post/7078964784980295694)|校对|4|
+|[如何编写更简洁优雅的 React 代码](https://juejin.cn/post/7070479272380465166)|校对|1.5|
+|[停止这样构建你的组件❌](https://juejin.cn/post/7085634227177259022)|翻译|4|
+|[Symbol：JavaScript 中最容易被误解的特性？](https://juejin.cn/post/7007975053485113381)|翻译|4.5|
+|[如何在第 4 阶段之前体验一个提案](https://github.com/xitu/gold-miner/pull/8921)|校对|1|
+|[使用 CDN 构建直读式缓存](https://juejin.cn/post/7001156847176515592)|校对|3.5|
+|[Flutter 比 React Native 更优秀的五个理由](https://juejin.cn/post/6993502936680628238)|校对|3|
+|[2021 年，jQuery 过得还好吗？](https://juejin.cn/post/6992036720783360037)|校对|2|
+|[React 18 中新的 Suspense SSR 架构](https://juejin.cn/post/6982010092258328583)|校对|4|
+
+## 译者：[liyaxuanliyaxuan](https://github.com/liyaxuanliyaxuan) 历史贡献积分：6 当前积分：6
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Swift 中的内存布局](https://juejin.cn/post/6986520506002472973)|校对|2|
+|[面向具有 React 开发经验的开发者介绍 Svelte](https://juejin.cn/post/6981693237484339207)|校对|4|
+
+## 译者：[CarlosChenN](https://github.com/CarlosChenN) 历史贡献积分：65 当前积分：65 二零二二：37
+
+|文章|类型|积分|
+|------|-------|-------|
+|[5个关于 UI 设计系统的误解](https://juejin.cn/post/7086291006286462990)|翻译|4|
+|[你应该知道的 Node.js 内存限制](https://juejin.cn/post/7087578623393136670)|翻译|6|
+|[V8 有个非优化的编译阶段去提高性能](https://juejin.cn/post/7088956826263224350)|翻译|3|
+|[如何在网页中使用响应式图像](https://juejin.cn/post/7074199947477778439)|校对|2|
+|[使用 Stream 构建高性能的 Node.js 应用](https://juejin.cn/post/7078964784980295694)|校对|4|
+|[Cookie 通知的最佳实践](https://juejin.cn/post/7066985086876385293)|校对|2|
+|[用 PNPM Workspaces 替换 Lerna + Yarn](https://juejin.cn/post/7071992448511279141)|翻译|11|
+|[使用 WasmEdge 在 WebAssembly 中运行 JavaScript](https://juejin.cn/post/7014413285600526343)|翻译|5|
+|[成为 TC39 代表](https://github.com/xitu/gold-miner/pull/8837)|校对|1.5|
+|[使用 PeerJS 轻松实现 P2P 通信](https://juejin.cn/post/6997264971415420942)|校对|2|
+|[简述 JavaScript 三个不应使用的功能](https://juejin.cn/post/6987713761444364296)|校对|3|
+|[HTTP 严格传输安全协议常见问题解答](https://juejin.cn/post/6987432172512608287)|翻译|5|
+|[HEX vs RGB vs HSL：设置 CSS 颜色属性的最佳方法是什么](https://juejin.cn/post/6984720412160557063)|校对|4|
+|[我喜欢的微服务间通信模式](https://juejin.cn/post/6984400194615902238)|校对|5|
+|[对角线分割的圆锥渐变式可变纵横比卡片](https://juejin.cn/post/6986531351184801829)|校对|2|
+|[纯 CSS 创建五彩斑斓的智慧阴影！让前景图片自动转化为对应彩色的背景阴影](https://juejin.cn/post/6975818153376874503)|校对|1.5|
+|[面向具有 React 开发经验的开发者介绍 Svelte](https://juejin.cn/post/6981693237484339207)|校对|4|
+
+## 译者：[yourtion](https://github.com/yourtion) 历史贡献积分：1 当前积分：1
+
+|文章|类型|积分|
+|------|-------|-------|
+|6 月推荐前端文章 1 篇|奖励|1|
+
+## 译者：[jaredliw](https://github.com/jaredliw) 历史贡献积分：212.5 当前积分：132.5 二零二二：113.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Android 开发中的 SQLDelight 入门](https://juejin.cn/post/7111246458895990792)|翻译|3|
+|[什么是移动端 DevOps，为什么值得你关注？](https://juejin.cn/post/7113577700543397918)|翻译|11|
+|[2021 年 JavaScript 的前景](https://juejin.cn/post/7109458654444650532)|翻译|5|
+|[0-1 背包问题解读](https://juejin.cn/post/7108719165527031815)|翻译|6|
+|[设计类和对象的结构型模式](https://juejin.cn/post/7112103577967362084)|翻译|9|
+|[Express vs. http - API 基准测试](https://juejin.cn/post/7113566528519274533)|校对|1.5|
+|兑换键盘|减去积分|80|
+|推荐后端文章 2 篇|奖励|2|
+|[PyScript — 在浏览器中释放 Python 的力量](https://juejin.cn/post/7104639085058211848)|翻译|3.5|
+|[使用 RabbitMQ 和 SpringBoot 实现实时消息](https://juejin.cn/post/7092326097597136927)|翻译|5|
+|[使用接口编写更优雅的 PHP 代码](https://juejin.cn/post/7091241380533665829)|翻译|6.5|
+|[Python 中的运算符重载](https://juejin.cn/post/7090803933202874382)|翻译|3|
+|[一些知名算法的应用](https://juejin.cn/post/7095739388813901861)|翻译|5|
+|[为什么说 ES2020 的可选链和模块动态导入特性改变了已有的生态规则？](https://juejin.cn/post/7091245306976665613)|翻译|5|
+|[使用了三个月的 Github Copilot，这是我的一些看法……](https://juejin.cn/post/7067817036738461732)|翻译|5.5|
+|[Cookie 通知的最佳实践](https://juejin.cn/post/7066985086876385293)|翻译|5|
+|[4 个鲜为人知的 Swift 特性](https://juejin.cn/post/7069326429397205005)|翻译|5.5|
+|[WasmEdge 的安装与卸载](https://github.com/xitu/gold-miner/blob/master/article/2022/Install-and-uninstall-WasmEdge.md)|翻译|5|
+|[5 个有趣的原因告诉你：找对象就得找程序员！](https://juejin.cn/post/7053326045352558599)|翻译|5|
+|[HTTP/3 为什么这么快？](https://juejin.cn/post/7055178022445383694)|翻译|8.5|
+|[使用 Python 模拟实现行星际空间旅行](https://juejin.cn/post/7047685861365776414)|校对|2|
+|[如何使用 Python 管道 Pipe 高效编码](https://juejin.cn/post/7051051681357758494)|校对|2.5|
+|[不要信任 JavaScript 里的 const](https://juejin.cn/post/7047407322003406855)|翻译|2|
+|[100 个能提升软件开发效率的小技巧](https://juejin.cn/post/7049260702850105374)|翻译|7|
+|8 月推荐后端文章 1 篇|奖励|1|
+|[简述 JavaScript 的事件捕获和事件冒泡](https://juejin.cn/post/7005558885947965454)|校对|2.5|
+|[React Native 开发者的流行存储方案](https://juejin.cn/post/7008020729832669191)|校对|2.5|
+|[无密码认证，安全更有保障](https://juejin.cn/post/7007820358854115336)|校对|2|
+|[Symbol：JavaScript 中最容易被误解的特性？](https://juejin.cn/post/7007975053485113381)|校对|2|
+|[Web 的未来](https://juejin.cn/post/7006492657379704846)|校对|4|
+|[使用人工智能/机器学习构建文章推荐引擎](https://juejin.cn/post/7001479252163952670)|翻译|5.5|
+|[如何使用 ES6 新增 Symbols 代替 null](https://juejin.cn/post/7003689525507538958)|校对|1.5|
+|[在 JavaScript 中使用正则表达式的隐患](https://juejin.cn/post/7005168628647591950)|翻译|4.5|
+|[每个 Web 开发人员都应该知道的 4 个 iframe 安全问题](https://juejin.cn/post/7004430026187735047)|翻译|4.5|
+|[别让轮播毁了你的应用程序](https://juejin.cn/post/7003637296050225189)|翻译|5|
+|[5 个 JavaScript 的字符操作库](https://juejin.cn/post/7002921261814939661)|翻译|4.5|
+|[进阶 Python：在 Python 应用中实现缓存](https://juejin.cn/post/7000696203545411615)|翻译|10|
+|[分布式追踪事项](https://juejin.cn/post/7002917628326969381)|校对|5.5|
+|[CSS 选择器嵌套已经来了🤯🤯🤯！](https://juejin.cn/post/6999124599938449415)|翻译|2|
+|[在 Python 中用最快的速度发送 HTTP 请求](https://juejin.cn/post/7000315185411915807)|校对|2|
+|[11 个让你惊叹的 罕见 JavaScript 单行代码](https://juejin.cn/post/6998734064773660702)|翻译|4|
+|[在 React 中使用 BLoC 模式](https://juejin.cn/post/6996608844776341540)|校对|2|
+|[逆向 `.car` 文件（已编译的 Asset Catalogs）](https://juejin.cn/post/7002491722550919198)|校对|5|
+|[不经测试的 Python 代码就已离崩溃不远了](https://juejin.cn/post/6998149281576288292)|翻译|8|
+|[Jetpack Compose：样式和主题（第二部分）](https://juejin.cn/post/6995419287435345934)|校对|2|
+|[通过 Redis 构建一个响应式架构](https://juejin.cn/post/6996660780389122062)|校对|4|
+|[使用 PeerJS 轻松实现 P2P 通信](https://juejin.cn/post/6997264971415420942)|校对|2|
+|[我用 Python 创造了一门自己的编程语言](https://juejin.cn/post/7001316107768463368)|翻译|3|
+|[常见的社会工程攻击策略](https://juejin.cn/post/6999561784705155102)|翻译|10|
+
+## 译者：[ItzMiracleOwO](https://github.com/ItzMiracleOwO) 历史贡献积分：17.5 当前积分：17.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[分布式追踪事项](https://juejin.cn/post/7002917628326969381)|翻译|10|
+|[在 Python 中用最快的速度发送 HTTP 请求](https://juejin.cn/post/7000315185411915807)|翻译|4|
+|[不经测试的 Python 代码就已离崩溃不远了](https://juejin.cn/post/6998149281576288292)|校对|3.5|
+
+## 译者：[airfri](https://github.com/airfri) 历史贡献积分：7.5 当前积分：7.5 二零二二：5.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Android 开发中的 SQLDelight 入门](https://juejin.cn/post/7111246458895990792)|校对|2.5|
+|[作为一名前端工程师我浪费时间学习了这些技术](https://juejin.cn/post/7086019601372282888)|翻译|3|
+|[可以在 GitHub.dev 做的十件有趣的事](https://juejin.cn/post/7004738629092261895)|校对|2|
+
+## 译者：[Liang2028](https://github.com/Liang2028) 历史贡献积分：12.5 当前积分：12.5 二零二二：12.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[5 个有趣的原因告诉你：找对象就得找程序员！](https://juejin.cn/post/7053326045352558599)|校对|2|
+|[如何使用 Python 构建 GUI 程序](https://juejin.cn/post/7055662437315379231)|校对|1.5|
+|[SpringBoot 微服务监控](https://juejin.cn/post/7056817945787236389)|校对|9|
+
+## 译者：[lyhwoc](https://github.com/lyhwoc) 历史贡献积分：3.5 当前积分：3.5 二零二二：3.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[100 个能提升软件开发效率的小技巧](https://juejin.cn/post/7049260702850105374)|校对|3.5|
+
+## 译者：[Adolescent0](https://github.com/Adolescent0) 历史贡献积分：5.5 当前积分：5.5 二零二二：5.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[使用接口编写更优雅的 PHP 代码](https://juejin.cn/post/7091241380533665829)|校对|3|
+|[如何使用 Python 管道 Pipe 高效编码](https://juejin.cn/post/7051051681357758494)|校对|2.5|
+
+## 译者：[chaxus](https://github.com/chaxus) 历史贡献积分：2 当前积分：2 二零二二：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[用 React Native 创建实时医疗应用](https://juejin.cn/post/7063002112925859853)|校对|2|
+
+## 译者：[tinnkm](https://github.com/tinnkm) 历史贡献积分：2 当前积分：2 二零二二：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[停止这样构建你的组件❌](https://juejin.cn/post/7085634227177259022)|校对|2|
+
+## 译者：[xyj1020](https://github.com/xyj1020) 历史贡献积分：15.5 当前积分：15.5 二零二二：15.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[如何用 React 实现 Memoization 以提高性能](https://juejin.cn/post/7079775223783882760)|校对|5.5|
+|[使用 FastAPI 提升 Python 代码的运行性能](https://juejin.cn/post/7068865005436796958)|校对|3|
+|[用 PNPM Workspaces 替换 Lerna + Yarn](https://juejin.cn/post/7071992448511279141)|校对|7|
+
+## 译者：[Mordomo](https://github.com/Mordomo) 历史贡献积分：6 当前积分：6 二零二二：6
+
+|文章|类型|积分|
+|------|-------|-------|
+|[2021 年 JavaScript 的前景](https://juejin.cn/post/7109458654444650532)|校对|2|
+|[自动化测试：你应当了解的一切](https://juejin.cn/post/7084071159821500447)|校对|4|
+
+## 译者：[Wu-yikun](https://github.com/Wu-yikun) 历史贡献积分：2 当前积分：2 二零二二：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[多语言横向对比 Python 有多慢？](https://juejin.cn/post/7073001978929872927)|校对|2|
+
+## 译者：[DylanXie123](https://github.com/DylanXie123) 历史贡献积分：18 当前积分：18 二零二二：18
+
+|文章|类型|积分|
+|------|-------|-------|
+|[什么是移动端 DevOps，为什么值得你关注？](https://juejin.cn/post/7113577700543397918)|校对|5|
+|[0-1 背包问题解读](https://juejin.cn/post/7108719165527031815)|校对|3|
+|[Python 中 requirements.txt 与 setup.py 的对比](https://juejin.cn/post/7094470396073738277)|校对|3|
+|[使用Python模拟动力系统的初学者指南](https://juejin.cn/post/7102228100938727461)|校对|3|
+|[JavaScript  首要知识之不可变性](https://juejin.cn/post/7095939240990605325)|校对|4|
+
+## 译者：[PorridgeZero](https://github.com/chzh9311) 历史贡献积分：3 当前积分：3 二零二二：3
+
+|文章|类型|积分|
+|------|-------|-------|
+|[使用Python模拟动力系统的初学者指南](https://juejin.cn/post/7102228100938727461)|校对|3|
+
+## 译者：[leo-mao](https://github.com/leo-mao) 历史贡献积分：5.5 当前积分：5.5 二零二二：5.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[使用接口编写更优雅的 PHP 代码](https://juejin.cn/post/7091241380533665829)|校对|3|
+|[为什么说 ES2020 的可选链和模块动态导入特性改变了已有的生态规则？](https://juejin.cn/post/7091245306976665613)|校对|2.5|
+
+## 译者：[zhangchunxing](https://github.com/zhangchunxing) 历史贡献积分：2 当前积分：2 二零二二：2
+
+|文章|类型|积分|
+|------|-------|-------|
+|[使用 RabbitMQ 和 SpringBoot 实现实时消息](https://juejin.cn/post/7092326097597136927)|校对|2|
+
+## 译者：[w1187501630](https://github.com/w1187501630) 历史贡献积分：14.5 当前积分：14.5 二零二二：14.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Python 中的运算符重载](https://juejin.cn/post/7090803933202874382)|校对|1|
+|[使用Python模拟动力系统的初学者指南](https://juejin.cn/post/7102228100938727461)|翻译|6|
+|[Python 中 requirements.txt 与 setup.py 的对比](https://juejin.cn/post/7094470396073738277)|翻译|6|
+|[你需要了解的 Python 3.10 新特性](https://juejin.cn/post/7089649375692980231)|校对|1.5|
+
+## 译者：[FYJNEVERFOLLOWS](https://github.com/FYJNEVERFOLLOWS) 历史贡献积分：3 当前积分：3 二零二二：3
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Python 中 requirements.txt 与 setup.py 的对比](https://juejin.cn/post/7094470396073738277)|校对|3|
+
+## 译者：[Cygra](https://github.com/Cygra) 历史贡献积分：1.5 当前积分：1.5 二零二二：1.5
+
+|文章|类型|积分|
+|------|-------|-------|
+|[Express vs. http - API 基准测试](https://juejin.cn/post/7113566528519274533)|校对|1.5|
+
+## 译者：[Lokfar](https://github.com/Lokfar) 历史贡献积分：3 当前积分：3 二零二二：3
+
+|文章|类型|积分|
+|------|-------|-------|
+|[0-1 背包问题解读](https://juejin.cn/post/7108719165527031815)|校对|3|

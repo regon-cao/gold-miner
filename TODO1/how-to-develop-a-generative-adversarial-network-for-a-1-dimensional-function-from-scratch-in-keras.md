@@ -3,7 +3,7 @@
 > * 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
 > * 本文永久链接：[https://github.com/xitu/gold-miner/blob/master/TODO1/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras.md](https://github.com/xitu/gold-miner/blob/master/TODO1/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras.md)
 > * 译者：[TokenJan](https://github.com/TokenJan)
-> * 校对者：[haiyang-tju](https://github.com/haiyang-tju)、[todaycoder001](https://github.com/todaycoder001)
+> * 校对者：[haiyang-tju](https://github.com/haiyang-tju)、[司徒公子](https://github.com/stuchilde)
 
 # 如何用 Keras 从头搭建一维生成对抗网络
 
@@ -141,7 +141,7 @@ pyplot.show()
 
 为 X^2 函数绘制随机生成的输入样本和计算的输出值。
 
-我们可以将这个函数作为为判别器函数生成真实样本的起始点。尤其是一个样本是由两个元素的向量组成的，一个作为输入，一个作为我们的一维函数的输出。
+我们可以将这个函数作为判别器函数生成真实样本的起始点。尤其是一个样本是由两个元素的向量组成的，一个作为输入，一个作为我们的一维函数的输出。
 
 我们也可以想象一个生成器模型是如何生成新样本的，我们可以绘制它们同时与期望的 u 型 X^2 函数比较。特别是一个生成器可以输出一个由两个元素组成的向量：一个作为输入，一个作为一维函数的输出。
 
